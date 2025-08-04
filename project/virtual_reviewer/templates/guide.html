@@ -1,0 +1,75 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="csrf-token" content="{{ csrf_token }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hướng dẫn</title>
+
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <link rel="icon" type="image/x-icon" href="{% static 'image/doraemon.svg' %}">
+  
+</head>
+<body class="bg-white text-gray-800">
+
+  {% include 'header.html' %}
+
+  <main class="max-w-screen-xl mx-auto px-8 py-10 space-y-10">
+    <h1 class="text-3xl font-bold text-center text-blue-500">
+      📘 Hướng dẫn sử dụng Cỗ máy rì viu
+    </h1>
+
+    <section class="text-base leading-relaxed space-y-6">
+      <div>
+        <h2 class="text-xl font-semibold text-blue-600 mb-2">1. Khám phá sản phẩm</h2>
+        <p>
+           <strong>Trang chủ</strong> sẽ hiển thị danh sách 48 mẫu điện thoại từ các hãng như 
+          <span class="text-blue-600 font-semibold">iPhone, Samsung, Oppo, Xiaomi, Realme, Vivo</span> (có thể lọc theo phân loại sản phẩm). Nhấn vào xem Chi tiết mỗi sản phẩm sẽ hiển thị:
+        </p>
+        <ul class="list-disc list-inside ml-4 mt-2">
+          <li>Hình ảnh và tên sản phẩm</li>
+          <li>Liên kết mua hàng</li>
+          <li>Giá bán theo liên kết mua hàng 💰</li>
+          <li>Thông số kỹ thuật nổi bật 📱</li>
+        </ul>
+      </div>
+
+      <div>
+        <h2 class="text-xl font-semibold text-blue-600 mb-2">2. Xem bài review tổng hợp</h2>
+        <p>
+          Trong trang chi tiết sản phẩm, nhấn vào nút <span class="text-blue-500 font-semibold">“Tạo bài review”</span> để xem bài đánh giá được tổng hợp từ <strong>các video YouTube</strong> của các reviewer uy tín. Bài viết bao gồm:
+        </p>
+        <ul class="list-disc list-inside ml-4 mt-2">
+          <li>Tiêu đề bài review</li>
+          <li>Giới thiệu sản phẩm 🎉</li>
+          <li>Tính năng nổi bật ✨</li>
+          <li>Ưu và nhược điểm ⚖️</li>
+          <li>Gợi ý phù hợp cho người dùng nào 🧠</li>
+        </ul>
+      </div>
+
+      <div>
+        <h2 class="text-xl font-semibold text-blue-600 mb-2">3. Điều hướng mua hàng</h2>
+        <p>
+          Nếu bạn thấy sản phẩm phù hợp, hãy nhấn vào liên kết mua hàng để được chuyển đến trang bán chính thức. Giá hiển thị là giá theo link đó, giúp bạn dễ dàng so sánh và chọn nơi mua tốt nhất.
+        </p>
+      </div>
+
+      <div>
+        <h2 class="text-xl font-semibold text-blue-600 mb-2">4. Tính năng so sánh (sắp ra mắt)</h2>
+        <p>
+          Doraemon đang phát triển tính năng <span class="italic text-purple-600">so sánh sản phẩm</span> — cho phép bạn đặt 2-3 điện thoại cạnh nhau để xem thông số, giá, và đánh giá một cách trực quan nhất.
+        </p>
+        <p class="mt-2">Hãy cùng chờ xem nhé! 🛠️</p>
+      </div>
+    </section>
+  </main>
+
+</body>
+</html>

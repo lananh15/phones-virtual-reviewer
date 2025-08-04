@@ -1,0 +1,73 @@
+<header class="bg-white shadow-md sticky top-0 z-50">
+  <div class="max-w-full mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="flex justify-between items-center h-16">
+
+      <!-- Logo + Menu trái -->
+      <div class="flex items-center space-x-12">
+        <a href="/" class="text-xl font-bold text-blue-600 hover:text-blue-800">Cỗ máy rì viu</a>
+
+        <!-- Menu chính (desktop) -->
+        <nav class="hidden lg:flex space-x-16 text-black-700 font-medium">
+          <a href="/" class="{% if request.path == '/' %}text-blue-500{% else %}text-black hover:text-blue-300{% endif %}">Trang chủ</a>
+          <a href="/so-sanh/" class="{% if request.path == '/so-sanh/' %}text-blue-500{% else %}text-black hover:text-blue-300{% endif %}">So sánh</a>
+          <a href="/huong-dan/" class="{% if request.path == '/huong-dan/' %}text-blue-500{% else %}text-black hover:text-blue-300{% endif %}">Hướng dẫn</a>
+          <a href="/gioi-thieu/" class="{% if request.path == '/gioi-thieu/' %}text-blue-500{% else %}text-black hover:text-blue-300{% endif %}">Giới thiệu</a>
+        </nav>
+      </div>
+
+      <!-- Tìm kiếm bên phải (desktop) -->
+      <div class="hidden lg:block w-full max-w-md">
+        <form action="/tim-kiem/" method="GET" class="relative">
+          <input type="text" name="q" placeholder="Tìm sản phẩm..."
+                 class="w-full pl-4 pr-10 py-1 border border-gray-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-blue-500" />
+          <button type="submit" class="absolute right-2 top-1/2 transform -translate-y-1/2 text-blue-600">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                    d="M21 21l-4.35-4.35m0 0A7.5 7.5 0 1110.5 3a7.5 7.5 0 016.15 13.65z" />
+            </svg>
+          </button>
+        </form>
+      </div>
+
+      <!-- Nút menu mobile (hiện khi màn hình nhỏ) -->
+      <button id="menu-toggle" class="lg:hidden text-blue-600 focus:outline-none">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                d="M4 6h16M4 12h16M4 18h16" />
+        </svg>
+      </button>
+    </div>
+
+    <!-- Menu mobile (ẩn hiện khi nhấn nút) -->
+    <div id="mobile-nav" class="lg:hidden hidden mt-2 space-y-2">
+      <nav class="flex flex-col space-y-2 text-black-700 font-medium">
+        <a href="/" class="{% if request.path == '/' %}text-blue-500{% else %}text-black hover:text-blue-300{% endif %}">Trang chủ</a>
+        <a href="/so-sanh/" class="{% if request.path == '/so-sanh/' %}text-blue-500{% else %}text-black hover:text-blue-300{% endif %}">So sánh</a>
+        <a href="/huong-dan/" class="{% if request.path == '/huong-dan/' %}text-blue-500{% else %}text-black hover:text-blue-300{% endif %}">Hướng dẫn</a>
+        <a href="/gioi-thieu/" class="{% if request.path == '/gioi-thieu/' %}text-blue-500{% else %}text-black hover:text-blue-300{% endif %}">Giới thiệu</a>
+      </nav>
+
+      <!-- Tìm kiếm (mobile) -->
+      <form action="/tim-kiem/" method="GET" class="relative mt-2 pb-4">
+        <input type="text" name="q" placeholder="Tìm sản phẩm..."
+               class="w-full pl-4 pr-10 py-1 border border-gray-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-blue-500" />
+        <button type="submit" class="absolute right-2 top-1/2 transform -translate-y-1/2 text-blue-600">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                  d="M21 21l-4.35-4.35m0 0A7.5 7.5 0 1110.5 3a7.5 7.5 0 016.15 13.65z" />
+          </svg>
+        </button>
+      </form>
+    </div>
+  </div>
+</header>
+
+<!-- Script toggle menu -->
+<script>
+  const toggleBtn = document.getElementById('menu-toggle');
+  const mobileNav = document.getElementById('mobile-nav');
+
+  toggleBtn.addEventListener('click', () => {
+    mobileNav.classList.toggle('hidden');
+  });
+</script>

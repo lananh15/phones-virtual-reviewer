@@ -1,0 +1,17 @@
+<div id="product-grid" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+    {% for product in products %}
+    <a href="/san-pham/{{ product.slug }}/" class="block group">
+    <div class="card bg-base-100">
+        <figure class="px-4 pt-4">
+            <img src="{{ product.image }}" alt="{{ product.name }}" class="rounded-xl h-70 object-cover w-full" />
+        </figure>
+        <div class="card-body">
+            <h2 class="card-title text-base font-semibold py-4">{{ product.name }}</h2>
+            <p class="text-primary font-medium text-blue-500">{{ product.price }}</p>
+        </div>
+    </div>
+    </a>
+    {% empty %}
+    <p class="text-gray-500">Không tìm thấy sản phẩm.</p>
+    {% endfor %}
+</div>
