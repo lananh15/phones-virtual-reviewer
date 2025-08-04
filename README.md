@@ -21,15 +21,15 @@ node -v
 npm -v
 ```
 ### 4. Cài Tailwind dependencies
-Vào thư mục theme (theme/):
+Vào thư mục theme (theme/static_src):
 ```bash
-cd project/theme
+cd project/theme/static_src
 npm install
 ```
 ### 5. Build Tailwind CSS
 Di chuyển về thư mục **phones-virtual-reviewer/project** chạy:
 ```bash
-python manage.py tailwind start
+python manage.py tailwind build
 ```
 ### 6. Chạy server Django
 ```bash
