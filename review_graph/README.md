@@ -46,7 +46,7 @@ Chạy file **[main.py](video-youtube/main.py)** (PHẢI chạy file này từ t
 Chạy file [merge_transcript.py](video-youtube/transcript_graph/merge_transcript.py) (PHẢI chạy file này từ thư mục **review_graph**) thì sẽ tự động sinh ra file [youtube_reviews.json](video-youtube/youtube_reviews.json) như đã có trong repo này.
 
 ### Tổ chức dữ liệu lên Neo4j
-Như đã đề cập [Ở ĐÂY](##cach-nhanh-nhat-de-ban-co-du-lieu-tren-neo4j-de-chay-duoc-co-may-ri-viu)  
+Như đã đề cập [Ở ĐÂY](#📌-cách-nhanh-nhất-để-có-dữ-liệu-trên-neo4j-của-bạn-để-chạy-được-cỗ-máy-rì-viu)    
 Mô tả tổng qua tổ chức dữ liệu trên Neo4j:
 ```mermaid
 graph TD
