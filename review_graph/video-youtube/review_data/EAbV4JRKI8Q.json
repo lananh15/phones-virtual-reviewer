@@ -1,0 +1,61 @@
+{
+  "video_id": "EAbV4JRKI8Q",
+  "video_url": "https://www.youtube.com/watch?v=EAbV4JRKI8Q",
+  "video_title": "Đánh Giá OPPO RENO12 5G - 13 Triệu Có Xứng Đáng?",
+  "video_author": "F.A CHANNEL",
+  "upload_date": "2024-07-08",
+  "content": {
+    "products": [
+      {
+        "name": "OPPO Reno12 5G",
+        "features": [
+          "Thiết kế nâng cấp",
+          "Hiệu năng nâng cấp",
+          "Camera nâng cấp",
+          "Phần mềm nâng cấp",
+          "Pin nâng cấp",
+          "Phụ kiện đi kèm đầy đủ",
+          "Công nghệ sạc nhanh SuperVOOC 80W",
+          "Tính năng AI trong phần hình ảnh",
+          "Tính năng xóa vật thể trong ảnh",
+          "Tính năng thẻ nhanh NFC",
+          "Điều khiển hồng ngoại IR",
+          "Điều chỉnh độ sáng đèn flash",
+          "Màn hình AMOLED 6.7 inch, độ phân giải cao, tần số quét 120Hz",
+          "Kính cường lực Corning Gorilla Glass",
+          "Cảm biến vân tay trong màn hình",
+          "Pin 5000 mAh, sạc nhanh 80W",
+          "Khả năng kháng nước IP65"
+        ],
+        "pros": [
+          "Nhiều nâng cấp so với các phiên bản trước",
+          "Cung cấp trải nghiệm AI tốt",
+          "Hỗ trợ sạc nhanh tiện lợi",
+          "Màn hình chất lượng cao",
+          "Thời gian sử dụng pin dài",
+          "Khả năng chống nước tốt"
+        ],
+        "cons": [
+          "Giá cao hơn so với các phiên bản trước"
+        ],
+        "price": "12-13 triệu VND",
+        "recommendation": "Phù hợp cho người dùng cần nhiều tính năng công nghệ cao và AI, cũng như những ai thích chụp ảnh và trải nghiệm multimedia tốt.",
+        "type": "main"
+      },
+      {
+        "name": "OPPO Reno12 Pro 5G",
+        "features": [
+          "Màn hình nâng cấp",
+          "Camera nâng cấp"
+        ],
+        "pros": [
+          "Cung cấp nâng cấp nhẹ so với phiên bản thường"
+        ],
+        "cons": [],
+        "price": "",
+        "recommendation": "Nếu cần nâng cấp nhẹ về màn hình và camera so với phiên bản thường.",
+        "type": "compare"
+      }
+    ]
+  }
+}

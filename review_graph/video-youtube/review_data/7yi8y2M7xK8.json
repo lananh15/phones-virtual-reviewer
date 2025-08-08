@@ -1,0 +1,54 @@
+{
+  "video_id": "7yi8y2M7xK8",
+  "video_url": "https://www.youtube.com/watch?v=7yi8y2M7xK8",
+  "video_title": "Review Galaxy S25 Ultra",
+  "video_author": "Duy Luân Dễ Thương",
+  "upload_date": "2025-02-02",
+  "content": {
+    "products": [
+      {
+        "name": "Samsung Galaxy S25 Ultra",
+        "features": [
+          "Thiết kế ngoại hình có nhiều điểm nâng cấp so với thế hệ trước",
+          "Viền máy bo tròn, hiện đại",
+          "Viền màn hình mỏng hơn",
+          "Camera góc siêu rộng 50MP",
+          "Camera trước có autofocus, độ phân giải cao",
+          "Màn hình 6.9 inch, có lớp phủ chống chói"
+        ],
+        "pros": [
+          "Thiết kế ngoại hình ấn tượng và hiện đại",
+          "Viền màn hình mỏng tạo nét đẹp cho máy",
+          "Camera góc siêu rộng cải thiện đáng kể, chụp ảnh rõ nét",
+          "Khả năng chụp hình trong điều kiện thiếu sáng tốt",
+          "Màn hình chống chói, sáng và đẹp"
+        ],
+        "cons": [
+          "Kích thước lớn và nặng",
+          "Màu sắc và chất lượng âm thanh khi quay video bằng camera trước chưa tốt"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho những người thích thiết kế hiện đại, cần khả năng chụp ảnh và quay video tốt, đặc biệt là trong điều kiện thiếu sáng",
+        "type": "main"
+      },
+      {
+        "name": "Samsung Galaxy S25 Plus",
+        "features": [],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "Lựa chọn nhẹ hơn và rẻ hơn so với Galaxy S25 Ultra",
+        "type": "compare"
+      },
+      {
+        "name": "Samsung Galaxy S25",
+        "features": [],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "Phù hợp cho những người thích máy gọn gàng",
+        "type": "compare"
+      }
+    ]
+  }
+}

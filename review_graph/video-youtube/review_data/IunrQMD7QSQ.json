@@ -1,0 +1,71 @@
+{
+  "video_id": "IunrQMD7QSQ",
+  "video_url": "https://www.youtube.com/watch?v=IunrQMD7QSQ",
+  "video_title": "5 ngày với Galaxy Z Fold7: vẫn còn nhược điểm nhưng ngon",
+  "video_author": "Duy Luân Dễ Thương",
+  "upload_date": "2025-07-16",
+  "content": {
+    "products": [
+      {
+        "name": "Samsung Galaxy Z Fold7",
+        "features": [
+          "Thiết kế mỏng nhẹ, dễ cầm nắm",
+          "Màn hình gập lớn, diện tích hiển thị rộng",
+          "Cải tiến về màn hình chống chói",
+          "Hiệu năng mạnh mẽ với chip Snapdragon 8 Elite",
+          "Cảm biến camera giống Galaxy S Ultra, chất lượng ảnh tốt",
+          "One UI 8 với animation mượt mà"
+        ],
+        "pros": [
+          "Thiết kế đẹp và hấp dẫn",
+          "Trọng lượng nhẹ hơn so với các mẫu trước",
+          "Màn hình gập cải tiến, lớn và rộng, tốt cho việc xem nội dung và làm việc",
+          "Hiệu năng cao, phù hợp với nhiều tác vụ nặng",
+          "Chất lượng ảnh tốt, đặc biệt là trong điều kiện ánh sáng tốt",
+          "Thời gian sử dụng pin tạm ổn với 6 tiếng on screen"
+        ],
+        "cons": [
+          "Màn hình có thể trơn khi mở ra",
+          "Thời gian sử dụng pin có thể không đủ cho người dùng nặng",
+          "Màn hình chống chói chưa bằng một số đối thủ"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho những người thích thiết kế đẹp, cần một màn hình lớn cho công việc và giải trí, và không quá quan trọng về thời gian sử dụng pin dài.",
+        "type": "main"
+      },
+      {
+        "name": "Samsung Galaxy Z Fold6",
+        "features": [],
+        "pros": [],
+        "cons": [
+          "Nặng và dày hơn so với Samsung Galaxy Z Fold7"
+        ],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      },
+      {
+        "name": "Samsung Galaxy Z Fold5",
+        "features": [],
+        "pros": [],
+        "cons": [
+          "Nặng hơn Samsung Galaxy Z Fold7"
+        ],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      },
+      {
+        "name": "OPPO Find N5",
+        "features": [],
+        "pros": [
+          "Màn hình chống chói tốt hơn Samsung Galaxy Z Fold7"
+        ],
+        "cons": [],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      }
+    ]
+  }
+}

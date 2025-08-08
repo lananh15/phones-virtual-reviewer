@@ -1,0 +1,76 @@
+{
+  "video_id": "sLDpWZj5u7Q",
+  "video_url": "https://www.youtube.com/watch?v=sLDpWZj5u7Q",
+  "video_title": "Review Galaxy S25",
+  "video_author": "Duy Luân Dễ Thương",
+  "upload_date": "2025-02-03",
+  "content": {
+    "products": [
+      {
+        "name": "Samsung Galaxy S25",
+        "features": [
+          "Màn hình 6.2 inch",
+          "Viền nhôm",
+          "Màu xanh Navy",
+          "Chip Snapdragon 8 Elite for Galaxy",
+          "RAM 12GB",
+          "Cấu hình tương đương Galaxy S25 Ultra",
+          "Camera trước và sau",
+          "Chụp hình và quay phim tốt",
+          "Dung lượng pin 4000mAh",
+          "Độ phân giải màn hình Full HD+",
+          "Chạy One UI 7"
+        ],
+        "pros": [
+          "Nhỏ gọn, dễ cầm nắm",
+          "Chất lượng hoàn thiện cao",
+          "Màu sắc đẹp, được nhiều người khen ngợi",
+          "Hiệu năng tốt, đáp ứng nhu cầu sử dụng thông thường",
+          "Khả năng chụp hình và quay phim tốt",
+          "Thời gian sử dụng pin ổn cho một ngày",
+          "Giá thấp nhất trong series Galaxy S25"
+        ],
+        "cons": [
+          "Camera trước khi quay video có noise và màu sắc lệch",
+          "Dung lượng pin nhỏ hơn so với các mẫu khác trong series",
+          "Độ phân giải màn hình thấp hơn so với Samsung Galaxy S25 Ultra"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp với những người thích điện thoại nhỏ gọn nhưng đầy đủ tính năng, chụp hình tốt, quay phim tốt, hiệu suất tốt và thời gian sử dụng pin đủ cho một ngày làm việc bình thường.",
+        "type": "main"
+      },
+      {
+        "name": "Samsung Galaxy S25 Ultra",
+        "features": [
+          "Màn hình lớn hơn",
+          "Viền titan",
+          "Chip Snapdragon 8 Elite for Galaxy",
+          "RAM 12GB",
+          "Camera tele 5x",
+          "Chất lượng chụp hình trong điều kiện thiếu sáng tốt hơn",
+          "Dung lượng pin lớn hơn",
+          "Độ phân giải màn hình cao hơn"
+        ],
+        "pros": [
+          "Hiệu suất cao",
+          "Chất lượng chụp hình và quay phim xuất sắc",
+          "Thời gian sử dụng pin dài hơn",
+          "Chất lượng màn hình tốt hơn"
+        ],
+        "cons": [],
+        "price": "",
+        "recommendation": "Phù hợp với những người cần thời gian sử dụng pin dài hơn và thích màn hình lớn hơn để thao tác dễ dàng hơn.",
+        "type": "compare"
+      },
+      {
+        "name": "Samsung Galaxy S25 Plus",
+        "features": [],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "Phù hợp với những người thích thời gian sử dụng pin tốt hơn và thích một màn hình lớn hơn.",
+        "type": "compare"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "video_id": "jyeSmJV9Gq4",
+  "video_url": "https://www.youtube.com/watch?v=jyeSmJV9Gq4",
+  "video_title": "Trải nghiệm nhanh Xiaomi 14T: chưa có gì để chê ngoài việc bỏ củ sạc giống iPhone !!!",
+  "video_author": "Tony Phùng Studio",
+  "upload_date": "20240927",
+  "content": {
+    "products": [
+      {
+        "name": "Xiaomi 14T",
+        "features": [
+          "Màn hình OLED với độ phân giải 1220p, tần số quét 144Hz",
+          "CPU Dimensity 8300 Ultra",
+          "Camera có tiêu cự từ 0.6X đến 2X quang học",
+          "Dung lượng pin 5000mAh, hỗ trợ sạc nhanh 67W",
+          "Không bao gồm củ sạc trong hộp",
+          "Chống nước IP68",
+          "Hỗ trợ dịch vụ của Google"
+        ],
+        "pros": [
+          "Thiết kế mỏng, viền mỏng đều",
+          "Màn hình sáng và rõ nét",
+          "Hiệu năng mạnh mẽ với điểm số Antutu cao",
+          "Camera chụp ảnh sắc nét, hỗ trợ nhiều tiêu cự",
+          "Pin lớn, hỗ trợ sạc nhanh",
+          "Chống nước IP68"
+        ],
+        "cons": [
+          "Không có củ sạc đi kèm",
+          "Tần số quét 144Hz không mang lại nhiều khác biệt so với 120Hz",
+          "Nóng lên nhanh khi sử dụng"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp với người dùng cần hiệu năng cao và thích chụp ảnh, không quan trọng về việc không có củ sạc đi kèm",
+        "type": "main"
+      }
+    ]
+  }
+}

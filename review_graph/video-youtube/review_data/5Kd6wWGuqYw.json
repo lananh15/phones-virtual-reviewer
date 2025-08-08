@@ -1,0 +1,55 @@
+{
+  "video_id": "5Kd6wWGuqYw",
+  "video_url": "https://www.youtube.com/watch?v=5Kd6wWGuqYw",
+  "video_title": "Đánh giá iPhone 14 Pro sau 3 tuần: Đáng mua hơn cả iPhone 14 Pro Max?",
+  "video_author": "Vinh Xô",
+  "upload_date": "2022-10-07",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 14 Pro",
+        "features": [
+          "Camera 48MP cho phép chụp ảnh RAW với nhiều chi tiết",
+          "Thiết kế gọn nhẹ",
+          "Màn hình nhỏ hơn iPhone 14 Pro Max",
+          "Dynamic Island",
+          "Quay video cinematic 4K",
+          "Camera selfie có lấy nét tự động"
+        ],
+        "pros": [
+          "Camera chụp ảnh và quay video chất lượng cao",
+          "Thiết kế nhỏ gọn dễ thao tác bằng một tay",
+          "Trải nghiệm người dùng tốt với Dynamic Island",
+          "Chất lượng âm thanh tốt khi nghe nhạc, xem phim, chơi game"
+        ],
+        "cons": [
+          "HDR đôi khi không hiệu quả",
+          "Lỗi phần mềm với Dynamic Island",
+          "Thời lượng pin có thể không ổn định"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp với người dùng yêu thích thiết kế gọn nhẹ, chụp ảnh và quay video chất lượng cao. Không khuyến khích mua nếu không quan tâm đến camera 48MP.",
+        "type": "main"
+      },
+      {
+        "name": "iPhone 14 Pro Max",
+        "features": [
+          "Màn hình lớn hơn iPhone 14 Pro",
+          "Dynamic Island",
+          "Camera tương tự như iPhone 14 Pro"
+        ],
+        "pros": [
+          "Trải nghiệm màn hình lớn",
+          "Chất lượng camera tương đương iPhone 14 Pro"
+        ],
+        "cons": [
+          "Kích thước lớn hơn có thể khó thao tác bằng một tay",
+          "Nặng hơn so với iPhone 14 Pro"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp với người dùng thích màn hình lớn và không quan tâm đến kích thước và trọng lượng của thiết bị.",
+        "type": "compare"
+      }
+    ]
+  }
+}

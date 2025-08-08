@@ -1,0 +1,55 @@
+{
+  "video_id": "fjDmJdQY8P8",
+  "video_url": "https://www.youtube.com/watch?v=fjDmJdQY8P8",
+  "video_title": "Galaxy Z Flip7 đẹp nhưng chưa đủ thuyết phục mình",
+  "video_author": "Duy Luân Dễ Thương",
+  "upload_date": "2025-07-19",
+  "content": {
+    "products": [
+      {
+        "name": "Samsung Galaxy Z Flip7",
+        "features": [
+          "Ngoại hình mỏng hơn so với Samsung Galaxy Z Flip6",
+          "Màn hình bên trong rộng hơn so với Samsung Galaxy Z Flip6",
+          "Bàn phím thoải mái hơn khi gập lại",
+          "Màn hình phía trước rộng, có thể sử dụng để xem thông báo, widget, Now Brief, và làm viewfinder khi chụp hình",
+          "Cải tiến phần mềm cho phép hiệu ứng sáng quanh camera khi chụp hình hoặc quay phim",
+          "Hỗ trợ Gemini Live trực tiếp từ màn hình phía trước",
+          "Vết gấp trên màn hình bên trong mờ hơn so với các thế hệ trước"
+        ],
+        "pros": [
+          "Thiết kế mỏng, gọn gàng",
+          "Màn hình rộng rãi, tạo trải nghiệm thoải mái khi sử dụng",
+          "Màn hình phía trước cải tiến, hỗ trợ nhiều tính năng tiện ích",
+          "Chất lượng hình ảnh selfie cao nhờ sử dụng camera chính",
+          "Phần mềm được cải tiến, tạo hiệu ứng thú vị khi chụp hình và quay phim"
+        ],
+        "cons": [
+          "Không thuyết phục người dùng về mặt thực dụng so với điện thoại thông thường",
+          "Giá cao so với các tính năng thực tế mà nó mang lại"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho những người thích sự mới lạ, thời trang và không quá quan tâm đến yếu tố thực dụng",
+        "type": "main"
+      },
+      {
+        "name": "Samsung Galaxy Z Fold7",
+        "features": [
+          "Màn hình mở rộng, cung cấp không gian hiển thị lớn hơn",
+          "Ứng dụng và nội dung hiển thị tốt hơn trên màn hình lớn",
+          "Thiết kế mỏng và nhẹ"
+        ],
+        "pros": [
+          "Trải nghiệm sử dụng tốt hơn với màn hình lớn",
+          "Thiết kế mỏng và nhẹ, dễ dàng mang theo"
+        ],
+        "cons": [
+          "Giá cao hơn so với Samsung Galaxy Z Flip7"
+        ],
+        "price": "",
+        "recommendation": "Lựa chọn tốt cho những người cần không gian làm việc rộng rãi và hiệu suất cao",
+        "type": "compare"
+      }
+    ]
+  }
+}

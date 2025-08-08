@@ -1,0 +1,75 @@
+{
+  "video_id": "-ffVSegATdI",
+  "video_url": "https://www.youtube.com/watch?v=-ffVSegATdI",
+  "video_title": "Samsung Galaxy A36 Giảm Sâu - 5890K Quyết Khô Máu Cấu Hình Với Xiaomi!",
+  "video_author": "F.A CHANNEL",
+  "upload_date": "2025-06-14",
+  "content": {
+    "products": [
+      {
+        "name": "Samsung Galaxy A36 5G",
+        "features": [
+          "Giá cả phải chăng khi mua online",
+          "Bảo hành chính hãng Samsung",
+          "Hiệu năng ổn định với chip Snapdragon 6 Zen 3",
+          "RAM 8GB, bộ nhớ trong 128GB",
+          "Hỗ trợ 5G",
+          "Màn hình AMOLED, tần số quét 120Hz",
+          "Camera sau 50MP, khả năng quay video 4K 30fps",
+          "Pin 5000 mAh",
+          "Khả năng kháng nước IP67"
+        ],
+        "pros": [
+          "Giá rẻ hơn khi mua online",
+          "Hiệu năng cao so với các sản phẩm cùng tầm giá",
+          "Màn hình chất lượng cao",
+          "Camera chất lượng tốt",
+          "Pin bền bỉ",
+          "Khả năng kháng nước tốt"
+        ],
+        "cons": [
+          "Viền màn hình hơi dày",
+          "Màu sắc trong chụp ảnh chưa được tối ưu như các sản phẩm từ Trung Quốc"
+        ],
+        "price": "Dưới 6 triệu",
+        "recommendation": "Lựa chọn tối ưu cho nhu cầu chơi game, sử dụng lâu dài với hiệu năng ổn định và mức giá phải chăng.",
+        "type": "main"
+      },
+      {
+        "name": "Poco X7 5G",
+        "features": [
+          "Phần mềm Hyper có nhiều quảng cáo",
+          "Ít linh kiện hơn khi sử dụng lâu dài",
+          "Cấu hình ảnh tốt",
+          "Pin tốt"
+        ],
+        "pros": [
+          "Cấu hình ảnh và pin tốt"
+        ],
+        "cons": [
+          "Phần mềm Hyper có nhiều quảng cáo",
+          "Ít linh kiện hơn khi sử dụng lâu dài"
+        ],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      },
+      {
+        "name": "Tecno Camon 40 Pro",
+        "features": [
+          "Thiết kế hoàn thiện tốt, nhìn sang trọng",
+          "Màn hình mỏng"
+        ],
+        "pros": [
+          "Thiết kế và màn hình tốt"
+        ],
+        "cons": [
+          "Không bền bỉ và ổn định bằng Samsung Galaxy A36"
+        ],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      }
+    ]
+  }
+}

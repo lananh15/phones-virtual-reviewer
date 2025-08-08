@@ -1,0 +1,38 @@
+{
+  "video_id": "LtMfdUM89QE",
+  "video_url": "https://www.youtube.com/watch?v=LtMfdUM89QE",
+  "video_title": "Đánh giá iPhone 14 Plus: thật tốt, nhưng cũng thật tiếc!",
+  "video_author": "Tinh te",
+  "upload_date": "2022-11-10",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 14 Plus",
+        "features": [
+          "Màn hình 6.7 inch",
+          "Màn hình OLED",
+          "Tốc độ làm tươi 60Hz",
+          "Dung lượng pin lớn",
+          "Camera có khẩu độ lớn hơn và tính năng photonic engine",
+          "Chip A15 Bionic với 5 nhân GPU",
+          "6GB RAM"
+        ],
+        "pros": [
+          "Màn hình lớn tốt cho giải trí và chơi game",
+          "Hiệu năng tốt với chip A15 Bionic",
+          "Thời lượng pin dài, phù hợp với nhu cầu sử dụng nặng",
+          "Camera chụp đêm nhanh và chất lượng ảnh tốt",
+          "Khả năng quản lý nhiệt tốt, không bị nóng khi sử dụng nặng"
+        ],
+        "cons": [
+          "Giá có thể cao so với những gì máy mang lại",
+          "Không có camera Telephoto, có thể là hạn chế cho một số người dùng",
+          "Sử dụng chip cũ từ iPhone 13 Pro, mặc dù vẫn cung cấp hiệu năng tốt"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho những người yêu thích sử dụng smartphone có màn hình lớn, thích chơi game và xem nội dung giải trí. Nên đợi giá giảm để mua.",
+        "type": "main"
+      }
+    ]
+  }
+}

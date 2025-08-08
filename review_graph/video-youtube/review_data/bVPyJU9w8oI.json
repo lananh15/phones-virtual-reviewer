@@ -1,0 +1,78 @@
+{
+  "video_id": "bVPyJU9w8oI",
+  "video_url": "https://www.youtube.com/watch?v=bVPyJU9w8oI",
+  "video_title": "REVIEW iPHONE 15 PLUS: NGON HƠN 15 PRO MAX - ĐẦU NĂM 2024 CÓ NÊN XUỐNG TIỀN???",
+  "video_author": "Ngô Đức Duy",
+  "upload_date": "2024-01-04",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 15 Plus",
+        "features": [
+          "Màu sắc đẹp, đặc biệt là màu vàng và màu hồng",
+          "Mặt lưng kính pha màu, không bám vân tay",
+          "Khung nhôm, nhưng độ bền không bằng khung thép",
+          "Cổng USB Type-C với tốc độ 2.0, có thể sạc ngược",
+          "Dynamic Island",
+          "Màn hình OLED, không có màn hình 120Hz",
+          "Cấu hình mạnh ngang iPhone 14 Pro Max, chip A16 Bionic với 6GB RAM",
+          "Camera kép 48MP, không có camera tele",
+          "Có tính năng chụp ảnh 24MP từ cảm biến 48MP",
+          "Tự động nhận diện mặt người và đồ vật để chụp chân dung",
+          "Quay video 4K, tính năng siêu chống rung"
+        ],
+        "pros": [
+          "Màu sắc và thiết kế đẹp",
+          "Cổng USB Type-C tiện lợi",
+          "Dynamic Island mang lại trải nghiệm tương tác tốt",
+          "Hiệu năng mạnh mẽ",
+          "Camera cải tiến với nhiều tính năng mới",
+          "Quay video chất lượng cao"
+        ],
+        "cons": [
+          "Khung nhôm dễ bị biến dạng khi rơi",
+          "Không có màn hình 120Hz",
+          "Khả năng zoom hạn chế so với các mẫu Pro"
+        ],
+        "price": "hơn 20 triệu VND",
+        "recommendation": "Phù hợp cho những ai không quá quan tâm đến khả năng zoom mà cần một thiết bị có hiệu năng tốt, màu sắc đẹp và các tính năng camera mới.",
+        "type": "main"
+      },
+      {
+        "name": "iPhone 15 Pro Max",
+        "features": [
+          "Khung thép",
+          "Cổng USB Type-C nhanh hơn",
+          "Camera có khả năng zoom tốt hơn"
+        ],
+        "pros": [
+          "Độ bền cao hơn với khung thép",
+          "Khả năng zoom ưu việt"
+        ],
+        "cons": [
+          "Giá cao hơn"
+        ],
+        "price": "",
+        "recommendation": "Lựa chọn tốt cho những ai cần khả năng zoom mạnh mẽ và độ bền cao.",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 14 Plus",
+        "features": [
+          "Thiết kế tương tự iPhone 15 Plus",
+          "Không có nhiều cải tiến về màu sắc so với iPhone 15 Plus"
+        ],
+        "pros": [
+          "Thiết kế quen thuộc"
+        ],
+        "cons": [
+          "Ít cải tiến về màu sắc",
+          "Thiếu các tính năng mới như Dynamic Island"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho những ai không cần các tính năng mới nhất và muốn tiết kiệm chi phí.",
+        "type": "compare"
+      }
+    ]
+  }
+}

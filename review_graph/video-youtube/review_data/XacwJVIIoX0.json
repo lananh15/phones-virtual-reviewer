@@ -1,0 +1,80 @@
+{
+  "video_id": "XacwJVIIoX0",
+  "video_url": "https://www.youtube.com/watch?v=XacwJVIIoX0",
+  "video_title": "Review iPhone 15 Pro: gì cũng ngon trừ...",
+  "video_author": "Duy Luân Dễ Thương",
+  "upload_date": "2023-10-10",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 15 Pro",
+        "features": [
+          "Kích thước nhỏ gọn, dễ cầm",
+          "Camera 48MP, ống kính siêu rộng, ống kính tele 3X",
+          "Cảm biến lớn, công nghệ Pixel Bining, chụp thiếu sáng tốt",
+          "Hỗ trợ quay video định dạng ProRes",
+          "Kết nối với ổ cứng rời hoặc USB stick",
+          "Cổng USB-C, hỗ trợ USB 3.2",
+          "Màn hình Always On Display, tần số quét 120Hz",
+          "Dynamic Island",
+          "Action Button có thể tùy chỉnh"
+        ],
+        "pros": [
+          "Thiết kế nhỏ gọn, dễ thao tác bằng một tay",
+          "Camera chất lượng cao, đặc biệt trong điều kiện thiếu sáng",
+          "Hỗ trợ lưu trữ và quay video chất lượng cao",
+          "Tốc độ truyền dữ liệu nhanh với USB 3.2",
+          "Màn hình sắc nét, tần số quét cao",
+          "Cải tiến về thiết kế và tính năng với Dynamic Island và Action Button"
+        ],
+        "cons": [
+          "Thời lượng pin kém, cần sạc trong ngày",
+          "Zoom chỉ 3X, không bằng iPhone 15 Pro Max"
+        ],
+        "price": "19 triệu đồng (khuyến mãi)",
+        "recommendation": "Phù hợp với người dùng thích thiết kế nhỏ gọn, cần camera chất lượng cao và không quá quan trọng về thời lượng pin",
+        "type": "main"
+      },
+      {
+        "name": "iPhone 15 Pro Max",
+        "features": [
+          "Zoom 5X",
+          "Camera chất lượng cao"
+        ],
+        "pros": [
+          "Zoom xa hơn iPhone 15 Pro"
+        ],
+        "cons": [
+          "Zoom 3X kém hơn so với iPhone 15 Pro khi ở mức 3X"
+        ],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 15",
+        "features": [
+          "Camera 48MP"
+        ],
+        "pros": [],
+        "cons": [
+          "Cảm biến nhỏ hơn so với iPhone 15 Pro"
+        ],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 14 Pro",
+        "features": [],
+        "pros": [],
+        "cons": [
+          "Cảm giác cầm cứng và nặng"
+        ],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "video_id": "WgYL15doUy0",
+  "video_url": "https://www.youtube.com/watch?v=WgYL15doUy0",
+  "video_title": "iPhone 13 Pro Max còn hơn 13 triệu có đáng mua không?",
+  "video_author": "Dương Dê",
+  "upload_date": "2025-06-08",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 13 Pro Max",
+        "features": [
+          "Màn hình tần số quét 120Hz",
+          "Khung viền thép",
+          "Camera tele"
+        ],
+        "pros": [
+          "Cảm giác cầm nắm sang trọng",
+          "Màn hình tần số quét cao"
+        ],
+        "cons": [
+          "Nặng hơn so với các mẫu mới hơn",
+          "Dễ gặp lỗi màn hình"
+        ],
+        "price": "13 triệu",
+        "recommendation": "Không ưu tiên mua do có các lựa chọn tốt hơn với giá tương đương hoặc thấp hơn",
+        "type": "main"
+      },
+      {
+        "name": "iPhone 14 Pro",
+        "features": [
+          "Dynamic Island",
+          "Hiệu năng cao",
+          "Camera nhỉnh hơn"
+        ],
+        "pros": [
+          "Thiết kế mới hơn",
+          "Cảm giác cầm nắm gọn gàng hơn",
+          "Đỡ sợ bị lỗi màn hình"
+        ],
+        "cons": [],
+        "price": "13,690,000 VND",
+        "recommendation": "Nên cân nhắc mua nếu có thể chi thêm một chút so với giá của iPhone 13 Pro Max",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 14 Plus",
+        "features": [
+          "Màn hình 60Hz",
+          "Pin tốt hơn"
+        ],
+        "pros": [
+          "Giá rẻ hơn iPhone 13 Pro Max",
+          "Pin tốt hơn",
+          "Yên tâm hơn về lỗi màn hình"
+        ],
+        "cons": [
+          "Không có camera tele",
+          "Màn hình tần suất quét thấp hơn"
+        ],
+        "price": "12,019,000 VND",
+        "recommendation": "Lựa chọn tiết kiệm, phù hợp cho những ai không cần camera tele và màn hình tần số quét cao",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 15",
+        "features": [
+          "Dynamic Island",
+          "Hiệu năng tốt hơn iPhone 13 Pro Max",
+          "Camera chính nhỉnh hơn"
+        ],
+        "pros": [
+          "Giá thậm chí còn rẻ hơn iPhone 13 Pro Max",
+          "Thiết kế mới hơn",
+          "Cảm giác cầm nắm gọn gàng hơn"
+        ],
+        "cons": [
+          "Màn hình có thể không có tần số quét cao",
+          "Độ lớn màn hình không tốt bằng"
+        ],
+        "price": "13,190,000 VND",
+        "recommendation": "Lựa chọn tốt cho những ai muốn một thiết bị mới hơn với giá tương đương hoặc thấp hơn iPhone 13 Pro Max",
+        "type": "compare"
+      }
+    ]
+  }
+}

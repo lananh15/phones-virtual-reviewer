@@ -1,0 +1,60 @@
+{
+  "video_id": "fSpJVqaWEWw",
+  "video_url": "https://www.youtube.com/watch?v=fSpJVqaWEWw",
+  "video_title": "Đập Hộp Redmi Note 14 Pro Plus - Xiaomi Cần Làm Nhiều Hơn, Nâng Cấp \"AI\" Trải Nghiệm Vẫn Thế!",
+  "video_author": "F.A CHANNEL",
+  "upload_date": "2025-01-17",
+  "content": {
+    "products": [
+      {
+        "name": "Xiaomi Redmi Note 14 Pro Plus 5G",
+        "features": [
+          "Thiết kế mới với mặt lưng nhám và hoạ tiết vân sọc caro",
+          "Khung viền bóng cùng màu với máy",
+          "Cụm camera mới lớn hơn với camera chính 200MP, camera ultra wide 8.0MP và camera macro 2.0MP",
+          "Màn hình 6.67 inch, độ phân giải 1.5K, tần số quét 120Hz, độ sáng tối đa 3000 nits",
+          "Chip Snapdragon 7S Gen 3",
+          "RAM 8GB và bộ nhớ trong 256GB",
+          "Công nghệ sạc nhanh 120W",
+          "Không có jack cắm tai nghe 3.5mm",
+          "Chuẩn kháng nước IP68",
+          "Loa kép",
+          "Remote hồng ngoại tích hợp",
+          "Cổng thay SIM",
+          "Hệ điều hành MIUI với phiên bản Hyper 1.0.5.0",
+          "Tính năng AI cho dịch thuật và chỉnh sửa ảnh"
+        ],
+        "pros": [
+          "Thiết kế đẹp và cầm nắm chắc chắn",
+          "Cụm camera mới với khả năng chụp ảnh tốt",
+          "Màn hình sáng và rõ nét",
+          "Hiệu năng tốt với chip Snapdragon 7S Gen 3",
+          "Công nghệ sạc nhanh 120W",
+          "Kháng nước IP68",
+          "Tính năng AI hữu ích"
+        ],
+        "cons": [
+          "Không có jack cắm tai nghe 3.5mm",
+          "Dung lượng pin có thể không đáp ứng được nhu cầu sử dụng liên tục",
+          "Camera chính chưa thực sự ấn tượng so với các đối thủ cùng tầm giá",
+          "Quay video 4K chưa mượt"
+        ],
+        "price": "10 đến 11 triệu",
+        "recommendation": "Phù hợp với người dùng cần một chiếc điện thoại có thiết kế đẹp, hiệu năng tốt và công nghệ sạc nhanh, nhưng có thể cân nhắc nếu ưu tiên về dung lượng pin và chất lượng quay video.",
+        "type": "main"
+      },
+      {
+        "name": "Poco X7 Pro 5G",
+        "features": [],
+        "pros": [
+          "Hiệu năng cao",
+          "Dung lượng pin tốt"
+        ],
+        "cons": [],
+        "price": "8 triệu",
+        "recommendation": "Xứng đáng hơn Xiaomi Redmi Note 14 Pro Plus 5G nếu ưu tiên hiệu năng và dung lượng pin.",
+        "type": "compare"
+      }
+    ]
+  }
+}

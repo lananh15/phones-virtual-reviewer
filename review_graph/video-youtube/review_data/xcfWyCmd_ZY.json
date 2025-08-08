@@ -1,0 +1,65 @@
+{
+  "video_id": "xcfWyCmd_ZY",
+  "video_url": "https://www.youtube.com/watch?v=xcfWyCmd_ZY",
+  "video_title": "Sau gần 2 năm iPhone 15 vẫn ĐÁNG MUA, dù máy mới hay cũ !!!",
+  "video_author": "Tony Phùng Studio",
+  "upload_date": "2025-07-21",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 15",
+        "features": [
+          "Màn hình Dynamic Island",
+          "Cổng sạc USB Type-C",
+          "Chip Apple A16 Bionic",
+          "Camera 48MP",
+          "Quay video 4K 60fps",
+          "Khả năng chống nước IP68"
+        ],
+        "pros": [
+          "Thiết kế mới với Dynamic Island tăng tương tác",
+          "Cổng USB Type-C cho kết nối và tìm phụ kiện dễ dàng",
+          "Hiệu năng ổn định với chip A16 Bionic",
+          "Camera nâng cấp lên 48MP",
+          "Chất lượng quay video xuất sắc",
+          "Thiết kế hoàn thiện cao cấp"
+        ],
+        "cons": [
+          "Màn hình chỉ 60Hz",
+          "Không có autofocus cho chế độ macro",
+          "Dung lượng pin chỉ đủ dùng trong ngày",
+          "Không hỗ trợ sạc nhanh"
+        ],
+        "price": "Khoảng 15 triệu VND",
+        "recommendation": "Phù hợp cho người dùng cần một chiếc điện thoại có thiết kế mới, hiệu năng ổn định, và trải nghiệm iOS tốt. Đặc biệt đáng mua với mức giá hiện tại trong chương trình khuyến mãi.",
+        "type": "main"
+      },
+      {
+        "name": "iPhone 14",
+        "features": [
+          "Cổng sạc Lightning",
+          "Chip cũ hơn so với iPhone 15"
+        ],
+        "pros": [
+          "Vẫn có thể kết nối với thiết bị ngoại vi qua adapter"
+        ],
+        "cons": [
+          "Hạn chế về kết nối so với cổng USB Type-C",
+          "Cần adapter để kết nối, gây bất tiện"
+        ],
+        "price": "",
+        "recommendation": "Nếu không quá quan trọng về cổng kết nối mới và muốn tiết kiệm chi phí có thể cân nhắc.",
+        "type": "compare"
+      },
+      {
+        "name": "OPPO Reno14 5G",
+        "features": [],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "Có thể cân nhắc nếu tìm kiếm một lựa chọn Android trong tầm giá tương tự nhưng với một số tính năng vượt trội so với iPhone 15.",
+        "type": "compare"
+      }
+    ]
+  }
+}

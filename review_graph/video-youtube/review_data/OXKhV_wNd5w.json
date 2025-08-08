@@ -1,0 +1,54 @@
+{
+  "video_id": "OXKhV_wNd5w",
+  "video_url": "https://www.youtube.com/watch?v=OXKhV_wNd5w",
+  "video_title": "REVIEW IPHONE 14 PRO SAU 9 THÁNG DÙNG NHƯ PHÁ - PIN CHAI, BỂ LƯNG DÙNG VẪN NGON!",
+  "video_author": "F.A CHANNEL",
+  "upload_date": "2023-08-21",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 14 Pro",
+        "features": [
+          "Dynamic Island",
+          "Camera ấn tượng",
+          "Chất lượng quay video sắc nét",
+          "Màn hình chất lượng cao",
+          "Thiết kế gọn nhẹ"
+        ],
+        "pros": [
+          "Hài lòng sau 9-10 tháng sử dụng",
+          "Không có vấn đề về màn hình sọc",
+          "Tỷ lệ lỗi thấp",
+          "Camera chụp ảnh và quay video chất lượng cao",
+          "Dynamic Island tăng hiệu quả sử dụng ứng dụng"
+        ],
+        "cons": [
+          "Pin bị chai sau 9-10 tháng, giảm thời gian sử dụng",
+          "Chi phí thay mặt lưng cao",
+          "Tróc sơn ở phiên bản màu tím"
+        ],
+        "price": "25-26 triệu đồng",
+        "recommendation": "Phù hợp cho người dùng cần điện thoại có camera chất lượng cao, không nên chọn nếu cần thời lượng pin dài",
+        "type": "main"
+      },
+      {
+        "name": "iPhone 15 Pro",
+        "features": [],
+        "pros": [],
+        "cons": [],
+        "price": "31-32 triệu đồng",
+        "recommendation": "Có thể chờ mua nếu không gấp và muốn nâng cấp lên mẫu mới hơn",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 13 mini",
+        "features": [],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "Lựa chọn thay thế cho iPhone 14 Pro nếu muốn một thiết bị nhỏ gọn hơn",
+        "type": "compare"
+      }
+    ]
+  }
+}

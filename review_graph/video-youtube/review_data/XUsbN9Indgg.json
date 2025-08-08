@@ -1,0 +1,70 @@
+{
+  "video_id": "XUsbN9Indgg",
+  "video_url": "https://www.youtube.com/watch?v=XUsbN9Indgg",
+  "video_title": "OPPO Reno14 Pro vs. iPhone 16 & Xiaomi 14T Pro: Hướng đi lạ của OPPO!",
+  "video_author": "relab",
+  "upload_date": "2025-07-05",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 16",
+        "features": [
+          "Camera chính 48MP",
+          "Camera ultra wide 12MP"
+        ],
+        "pros": [],
+        "cons": [
+          "Không có camera tele",
+          "Xử lý flare kém",
+          "Chi tiết kém khi chụp ở tiêu cự tele từ 3X đến 7X",
+          "ảnh bị ám vàng"
+        ],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      },
+      {
+        "name": "Xiaomi 14T Pro 5G",
+        "features": [
+          "Camera chính 50MP",
+          "Cảm biến telephoto 2.6x 50MP",
+          "Camera góc siêu rộng 12MP"
+        ],
+        "pros": [
+          "Hợp tác với Leica",
+          "độ tương phản cao trong chế độ Leica",
+          "Xử lý flare tốt hơn iPhone"
+        ],
+        "cons": [
+          "Chất ảnh có thể không phù hợp với mọi người",
+          "Chi tiết và màu sắc kém hơn so với OPPO Reno14 Pro 5G khi chuyển sang tiêu cự tele"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho những người thích chất ảnh có phong cách riêng",
+        "type": "compare"
+      },
+      {
+        "name": "Oppo Reno14 Pro 5G",
+        "features": [
+          "3 camera 50MPX bao gồm camera chính, tele và góc siêu rộng",
+          "Camera tele 3.5x 50MP",
+          "Khả năng chụp đêm với đèn flash",
+          "AI xử lý ảnh chụp đêm và flash",
+          "Khả năng chụp dưới nước với AI"
+        ],
+        "pros": [
+          "Chi tiết ảnh tốt",
+          "Màu sắc hài hòa, không quá tải",
+          "Xử lý flare tốt",
+          "AI xử lý hiện tượng mắt đỏ khi chụp flash",
+          "AI đề xuất bố cục và tiêu cự sau khi chụp",
+          "AI xóa người thừa trong ảnh tự động"
+        ],
+        "cons": [],
+        "price": "",
+        "recommendation": "Phù hợp cho những bạn nữ và những người cần một máy chụp ảnh tốt trong điều kiện ánh sáng yếu",
+        "type": "main"
+      }
+    ]
+  }
+}

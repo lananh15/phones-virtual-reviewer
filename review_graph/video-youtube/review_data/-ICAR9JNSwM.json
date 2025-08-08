@@ -1,0 +1,40 @@
+{
+  "video_id": "-ICAR9JNSwM",
+  "video_url": "https://www.youtube.com/watch?v=-ICAR9JNSwM",
+  "video_title": "Review realme 14 5G: smartphone chính hãng chơi game tốt nhất của realme!",
+  "video_author": "Khôi Ngọng",
+  "upload_date": "2025-04-27",
+  "content": {
+    "products": [
+      {
+        "name": "Realme 14 5G",
+        "features": [
+          "Hỗ trợ 5G",
+          "Chip Snapdragon 6 Gen 4",
+          "Hệ thống tản nhiệt hiệu quả",
+          "Khả năng chơi game cao với hỗ trợ FPS lên đến 120FPS",
+          "Khả năng kháng nước IP69",
+          "Pin 6000mAh",
+          "Sạc nhanh 45W",
+          "Màn hình AMOLED 6.67 inch, độ sáng tối đa 2000 nits, tần số quét 120Hz",
+          "Camera sau 50MP, camera selfie 16MP",
+          "Hỗ trợ HDR và chuẩn xem Netflix L1"
+        ],
+        "pros": [
+          "Hiệu năng mạnh mẽ với chip Snapdragon 6 Gen 4",
+          "Thời lượng pin dài, hỗ trợ sạc nhanh",
+          "Màn hình chất lượng cao với tần số quét 120Hz và độ sáng cao",
+          "Khả năng kháng nước tốt",
+          "Hỗ trợ chơi game tốt với nhiều tùy chỉnh và hỗ trợ FPS cao"
+        ],
+        "cons": [
+          "Cảm giác cầm có thể hơi cấn do thiết kế viền",
+          "Không có nhiều lựa chọn về camera"
+        ],
+        "price": "9.409.000 VND",
+        "recommendation": "Phù hợp với người dùng yêu thích chơi game, pin lớn và cần một thiết bị có khả năng kháng nước tốt",
+        "type": "main"
+      }
+    ]
+  }
+}

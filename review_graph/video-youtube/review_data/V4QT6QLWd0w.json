@@ -1,0 +1,65 @@
+{
+  "video_id": "V4QT6QLWd0w",
+  "video_url": "https://www.youtube.com/watch?v=V4QT6QLWd0w",
+  "video_title": "Tại sao iPhone 16 vẫn bán chạy nhất thế giới?",
+  "video_author": "Vật Vờ Studio",
+  "upload_date": "2025-06-16",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 16",
+        "features": [
+          "Action Button và Camera Control",
+          "Thiết kế camera mới",
+          "Chip mạnh mẽ",
+          "Hỗ trợ Apple Intelligent",
+          "Thiết kế và màu sắc hấp dẫn"
+        ],
+        "pros": [
+          "Cân bằng tốt giữa hiệu năng và giá",
+          "Phù hợp với người dùng phổ thông",
+          "Thiết kế mới và màu sắc hấp dẫn",
+          "Hỗ trợ các tính năng mới nhất của iOS"
+        ],
+        "cons": [
+          "Màn hình 60Hz",
+          "Không có nhiều đột phá về công nghệ so với các dòng Pro"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp với người dùng phổ thông và những ai cần một chiếc iPhone mới với giá cả phải chăng hơn so với dòng Pro.",
+        "type": "main"
+      },
+      {
+        "name": "iPhone 15 Pro Max",
+        "features": [
+          "Camera Control"
+        ],
+        "pros": [
+          "Tính năng camera nâng cao"
+        ],
+        "cons": [
+          "Giá cao hơn so với iPhone 16",
+          "Không có nhiều khác biệt so với iPhone 16 ngoài tính năng camera"
+        ],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 16 Plus",
+        "features": [
+          "Tương tự iPhone 16 nhưng có kích thước lớn hơn"
+        ],
+        "pros": [
+          "Hiệu năng trên giá thành tốt"
+        ],
+        "cons": [
+          "Giá cao hơn iPhone 16"
+        ],
+        "price": "",
+        "recommendation": "Lựa chọn tốt cho những ai muốn một màn hình lớn hơn với hiệu năng tốt.",
+        "type": "compare"
+      }
+    ]
+  }
+}

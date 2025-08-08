@@ -1,0 +1,33 @@
+{
+  "video_id": "Z-k9qxJiou8",
+  "video_url": "https://www.youtube.com/watch?v=Z-k9qxJiou8",
+  "video_title": "iPhone 14 Plus chỉ còn 11 triệu có đáng mua không?",
+  "video_author": "Người Chơi Đồ",
+  "upload_date": "2025-07-05",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 14 Plus",
+        "features": [
+          "Pin 4325mAh",
+          "Màn hình OLED Super Retina XDR 6.7 inch, 458 PPI, tần số quét 60Hz",
+          "Chip A15 Bionic",
+          "Hai camera sau"
+        ],
+        "pros": [
+          "Thời lượng pin dài nhất trong dòng iPhone",
+          "Màn hình lớn, phù hợp cho giải trí và làm việc",
+          "Hiệu năng cao, phù hợp cho các tác vụ nặng",
+          "Giá cả phải chăng so với các mẫu iPhone khác"
+        ],
+        "cons": [
+          "Tần số quét màn hình chỉ 60Hz có thể khiến trải nghiệm không mượt mà",
+          "Chỉ có hai camera, không có camera tele, hạn chế trong chụp ảnh"
+        ],
+        "price": "11,190,000 VND cho phiên bản eSIM 128GB",
+        "recommendation": "Phù hợp cho người dùng cần một chiếc iPhone với màn hình lớn, pin bền và hiệu năng cao với mức giá hợp lý",
+        "type": "main"
+      }
+    ]
+  }
+}

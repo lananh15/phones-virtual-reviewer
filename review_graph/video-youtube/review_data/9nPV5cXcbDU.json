@@ -1,0 +1,55 @@
+{
+  "video_id": "9nPV5cXcbDU",
+  "video_url": "https://www.youtube.com/watch?v=9nPV5cXcbDU",
+  "video_title": "iPhone 14 còn đáng mua? (trải nghiệm sau 3 năm)",
+  "video_author": "Người Chơi Đồ",
+  "upload_date": "2025-07-01",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 14",
+        "features": [
+          "Màu trắng",
+          "Phiên bản eSIM",
+          "Camera nâng cấp với cảm biến lớn hơn, khẩu độ 1.5, photonic engine, action mode 2.8k 60fps, cinematic mode 4k 30fps",
+          "Hiệu năng mạnh mẽ với chip A15 Bionic 5 GPU",
+          "Thiết kế với nút gạt bật/tắt chuông và cổng Lightning",
+          "6GB RAM"
+        ],
+        "pros": [
+          "Giá cả phải chăng",
+          "Camera có nhiều cải tiến đáng giá",
+          "Hiệu năng cao hơn so với iPhone 13",
+          "Thiết kế tiện lợi với nút gạt và cổng Lightning",
+          "Màu sắc đa dạng, phù hợp với nhiều đối tượng"
+        ],
+        "cons": [
+          "Thiết kế không thay đổi nhiều so với iPhone 13",
+          "Chip A15 đã được sử dụng từ năm 2021",
+          "Viền máy có thể bị ố vàng, đặc biệt với màu sáng"
+        ],
+        "price": "9 triệu 790.000 VND",
+        "recommendation": "Phù hợp cho những ai cần một chiếc điện thoại với nhiều cải tiến về camera và hiệu năng, giá cả phải chăng so với các mẫu mới hơn",
+        "type": "main"
+      },
+      {
+        "name": "iPhone 13",
+        "features": [],
+        "pros": [],
+        "cons": [],
+        "price": "khoảng 8 triệu 900.000 VND",
+        "recommendation": "Nếu đang phân vân giữa iPhone 13 và iPhone 14, nên chọn iPhone 14 vì nó mới hơn và có nhiều cải tiến hơn",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 15",
+        "features": [],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "Nếu cần những tính năng mới nhất và sẵn sàng chi trả cao hơn, có thể cân nhắc iPhone 15",
+        "type": "compare"
+      }
+    ]
+  }
+}

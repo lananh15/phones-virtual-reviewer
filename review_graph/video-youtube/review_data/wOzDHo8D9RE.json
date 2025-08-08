@@ -1,0 +1,52 @@
+{
+  "video_id": "wOzDHo8D9RE",
+  "video_url": "https://www.youtube.com/watch?v=wOzDHo8D9RE",
+  "video_title": "Galaxy S24 Plus GIÁ CỰC TỐT, hơn iPhone 15 và iPhone 14 Plus chứ nhỉ?",
+  "video_author": "Dương Dê",
+  "upload_date": "2024-12-02",
+  "content": {
+    "products": [
+      {
+        "name": "Samsung Galaxy S24 Plus",
+        "features": [
+          "Màn hình tần số quét 120Hz",
+          "Độ phân giải màn hình cao",
+          "Viền màn hình mỏng",
+          "Không có tai thỏ chiếm dụng diện tích màn hình",
+          "Bộ nhớ trong 256GB"
+        ],
+        "pros": [
+          "Giá đã giảm xuống còn 18 triệu 490.000 đồng",
+          "Màn hình tần số quét cao",
+          "Độ phân giải màn hình cao hơn so với các đối thủ",
+          "Viền màn hình mỏng, không có tai thỏ",
+          "Bộ nhớ trong lớn gấp đôi so với đối thủ"
+        ],
+        "cons": [
+          "Giá ban đầu cao",
+          "Giá vẫn còn cao so với một số đối thủ khác"
+        ],
+        "price": "18 triệu 490.000 đồng",
+        "recommendation": "Phù hợp cho những người cần một chiếc điện thoại có màn hình tần số quét cao, độ phân giải màn hình cao, và bộ nhớ trong lớn với giá cả phải chăng.",
+        "type": "main"
+      },
+      {
+        "name": "iPhone 14 Plus",
+        "features": [
+          "Màn hình không có tần số quét cao",
+          "Độ phân giải màn hình thấp hơn",
+          "Bộ nhớ trong 128GB"
+        ],
+        "pros": [],
+        "cons": [
+          "Không có màn hình tần số quét cao",
+          "Độ phân giải màn hình thấp hơn so với Samsung Galaxy S24 Plus",
+          "Bộ nhớ trong chỉ 128GB"
+        ],
+        "price": "19 triệu 690.000 đồng",
+        "recommendation": "",
+        "type": "compare"
+      }
+    ]
+  }
+}

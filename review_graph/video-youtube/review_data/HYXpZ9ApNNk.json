@@ -1,0 +1,78 @@
+{
+  "video_id": "HYXpZ9ApNNk",
+  "video_url": "https://www.youtube.com/watch?v=HYXpZ9ApNNk",
+  "video_title": "Đừng quên Galaxy S24 / S24+: viền hết bóng, cầm thoải mái, vẫn đầy AI",
+  "video_author": "Duy Luân Dễ Thương",
+  "upload_date": "2024-01-18",
+  "content": {
+    "products": [
+      {
+        "name": "Samsung Galaxy S24 Plus",
+        "features": [
+          "Thiết kế mới với viền mờ, màu sắc pha xanh",
+          "Màn hình không còn là màn hình cong",
+          "Cải tiến hệ thống tản nhiệt",
+          "Hệ thống camera được cải tiến với AI",
+          "Tính năng AI mới như tóm tắt bài viết, dịch trang web real-time"
+        ],
+        "pros": [
+          "Thiết kế đẹp và hiện đại hơn",
+          "Cảm giác cầm nắm thoải mái hơn",
+          "Màn hình mỏng hơn so với các phiên bản trước",
+          "Cải tiến đáng kể về hệ thống tản nhiệt",
+          "Camera và tính năng AI mang lại trải nghiệm chụp ảnh, quay phim tốt hơn"
+        ],
+        "cons": [
+          "Chưa rõ liệu chip Exynos 2400 có mạnh bằng Snapdragon 8 Gen 3 for Galaxy hay không"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho những ai không muốn mua Galaxy S24 Ultra do giá cao hoặc kích thước lớn",
+        "type": "main"
+      },
+      {
+        "name": "Samsung Galaxy S24",
+        "features": [
+          "Thiết kế mới với viền mờ",
+          "Màn hình không còn là màn hình cong",
+          "Cải tiến hệ thống tản nhiệt",
+          "Hệ thống camera được cải tiến với AI",
+          "Tính năng AI mới như tóm tắt bài viết, dịch trang web real-time"
+        ],
+        "pros": [
+          "Thiết kế đẹp và hiện đại hơn",
+          "Cảm giác cầm nắm thoải mái hơn",
+          "Màn hình mỏng hơn so với các phiên bản trước",
+          "Cải tiến đáng kể về hệ thống tản nhiệt",
+          "Camera và tính năng AI mang lại trải nghiệm chụp ảnh, quay phim tốt hơn"
+        ],
+        "cons": [
+          "Chưa rõ liệu chip Exynos 2400 có mạnh bằng Snapdragon 8 Gen 3 for Galaxy hay không"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho những ai muốn một thiết bị hiện đại với nhiều tính năng AI",
+        "type": "main"
+      },
+      {
+        "name": "Samsung Galaxy S24 Ultra",
+        "features": [],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "Phù hợp cho những ai thích màu Titan mới và muốn một thiết bị cảm hứng cao",
+        "type": "compare"
+      },
+      {
+        "name": "Samsung Galaxy S23",
+        "features": [],
+        "pros": [],
+        "cons": [
+          "Viền bóng, không mượt khi tiếp giáp giữa phần viền và nắp lưng",
+          "Cảm giác cầm có thể gây lấn cấn"
+        ],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      }
+    ]
+  }
+}

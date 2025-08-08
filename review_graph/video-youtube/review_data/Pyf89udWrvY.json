@@ -1,0 +1,60 @@
+{
+  "video_id": "Pyf89udWrvY",
+  "video_url": "https://www.youtube.com/watch?v=Pyf89udWrvY",
+  "video_title": "Có Nên Mua iPhone 14 Pro Max Cũ với 17 Triệu Không - Đánh Giá CHI TIẾT",
+  "video_author": "Tony Phùng Studio",
+  "upload_date": "2025-05-29",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 14 Pro Max",
+        "features": [
+          "Dynamic Island",
+          "Màn hình OLED, 120Hz",
+          "Khung thép chắc chắn",
+          "Camera chính độ phân giải cao, camera tele và camera siêu rộng",
+          "Khả năng quay video ổn định",
+          "Camera selfie có autofocus",
+          "Khả năng kháng nước, sạc không dây, hỗ trợ 5G",
+          "6GB RAM"
+        ],
+        "pros": [
+          "Thiết kế chắc chắn",
+          "Màn hình lớn và chất lượng cao",
+          "Camera đủ dùng với khả năng quay video tốt",
+          "Hiệu năng ổn định cho hầu hết các ứng dụng và trò chơi",
+          "Giá cả phải chăng cho một sản phẩm đã qua sử dụng"
+        ],
+        "cons": [
+          "Vẫn sử dụng cổng Lightning thay vì USB Type-C",
+          "Không hỗ trợ AI trên thiết bị",
+          "Pin có thể đã suy giảm tùy vào tình trạng cụ thể của sản phẩm đã qua sử dụng"
+        ],
+        "price": "khoảng 16-17 triệu VND",
+        "recommendation": "Phù hợp cho những người cần một chiếc điện thoại có màn hình lớn, thiết kế chắc chắn và không yêu cầu những tính năng mới nhất như USB Type-C hay AI",
+        "type": "main"
+      },
+      {
+        "name": "iPhone 15 Pro",
+        "features": [
+          "Màn hình nhỏ hơn",
+          "Pin yếu hơn",
+          "Nhiều tính năng mới và hiện đại hơn",
+          "Cổng USB Type-C",
+          "Hiệu năng cao hơn"
+        ],
+        "pros": [
+          "Cổng USB Type-C cho khả năng kết nối và băng thông dữ liệu tốt hơn",
+          "Tính năng mới và hiệu năng cao hơn so với các mẫu iPhone cũ hơn"
+        ],
+        "cons": [
+          "Màn hình nhỏ hơn",
+          "Pin yếu hơn so với các mẫu iPhone Pro Max"
+        ],
+        "price": "",
+        "recommendation": "Lựa chọn tốt cho những người cần tính năng hiện đại và không quan trọng về kích thước màn hình hay dung lượng pin",
+        "type": "compare"
+      }
+    ]
+  }
+}

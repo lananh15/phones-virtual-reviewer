@@ -1,0 +1,48 @@
+{
+  "video_id": "1EORDaHF678",
+  "video_url": "https://www.youtube.com/watch?v=1EORDaHF678",
+  "video_title": "Review Galaxy Z Fold 6: màn hình lớn có đủ bỏ qua nhược điểm?",
+  "video_author": "Duy Luân Dễ Thương",
+  "upload_date": "2024-07-27",
+  "content": {
+    "products": [
+      {
+        "name": "Samsung Galaxy Z Fold6",
+        "features": [
+          "Màn hình gập lớn, rộng, cho trải nghiệm tốt khi xem nội dung lớn như bản đồ, email, và các ứng dụng khác",
+          "Màn hình phụ rộng hơn so với thế hệ trước",
+          "Cải tiến về ngoại hình, màu sắc và thiết kế",
+          "Các tính năng của Galaxy AI như tóm tắc trên web, dịch trên web, chuyển âm thanh thành văn bản",
+          "Camera đáp ứng tốt cho nhu cầu chụp ảnh, quay phim thông thường"
+        ],
+        "pros": [
+          "Trải nghiệm màn hình gập độc đáo và khác biệt",
+          "Màn hình phụ rộng hơn, cải thiện trải nghiệm sử dụng",
+          "Ngoại hình và màu sắc đẹp, sang trọng",
+          "Tính năng Galaxy AI hữu ích cho việc lướt web và xử lý thông tin nhanh",
+          "Camera phù hợp cho nhu cầu hàng ngày"
+        ],
+        "cons": [
+          "Màn hình bên trong vẫn còn bóng và có vết gấp",
+          "Màn hình ngoài hơi hẹp, ảnh hưởng đến trải nghiệm gõ phím",
+          "Tính năng mới của Galaxy AI không mang lại nhiều lợi ích thực tế",
+          "Thời lượng pin không bền bỉ như các điện thoại thông thường"
+        ],
+        "price": "hơn 41 triệu sau khi áp dụng các khuyến mãi",
+        "recommendation": "Phù hợp cho những người cần trải nghiệm màn hình lớn, di động cao, và thích thiết kế độc đáo. Không khuyến khích cho những ai cần một thiết bị chủ yếu để tạo nội dung.",
+        "type": "main"
+      },
+      {
+        "name": "OPPO Find N3",
+        "features": [],
+        "pros": [],
+        "cons": [
+          "Màn hình bóng hơn và vết gấp dễ thấy hơn so với Samsung Galaxy Z Fold6"
+        ],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      }
+    ]
+  }
+}

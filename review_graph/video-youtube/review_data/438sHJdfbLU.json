@@ -1,0 +1,49 @@
+{
+  "video_id": "438sHJdfbLU",
+  "video_url": "https://www.youtube.com/watch?v=438sHJdfbLU",
+  "video_title": "Mở hộp Xiaomi 15 Ultra màu trắng chính hãng đặc quyền đầu tiên Việt Nam",
+  "video_author": "Vật Vờ Studio",
+  "upload_date": "2025-03-03",
+  "content": {
+    "products": [
+      {
+        "name": "Xiaomi 15 Ultra 5G",
+        "features": [
+          "Màu trắng độc quyền",
+          "Cảm biến vân tay siêu âm",
+          "Hiệu năng mượt mà với Hyper AI",
+          "Chức năng chỉnh sửa ảnh AI",
+          "Củ sạc 90W",
+          "Khả năng chụp hình cải thiện so với phiên bản trước",
+          "Camera có khả năng zoom 30x"
+        ],
+        "pros": [
+          "Thiết kế đẹp với hoa văn đặc biệt",
+          "Hiệu năng cao",
+          "Chụp ảnh trong điều kiện sáng tốt",
+          "Chế độ chụp Master Portrait không làm da bị vàng",
+          "Zoom 30x vẫn rõ ràng"
+        ],
+        "cons": [
+          "Ốp lưng có thể không khít hoàn hảo",
+          "Camera ban đầu có thể chưa ổn định"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho những người thích thiết kế đẹp và hiệu năng cao, đặc biệt là trong việc chụp ảnh",
+        "type": "main"
+      },
+      {
+        "name": "Xiaomi 15 5G",
+        "features": [
+          "Phiên bản màu trắng độc quyền tại Thế Giới Di Động",
+          "Phiên bản bộ nhớ là 12/512 cũng được bán độc quyền tại Thế Giới Di Động"
+        ],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "Phù hợp cho những người muốn sở hữu phiên bản độc quyền với màu sắc và thiết kế đặc biệt",
+        "type": "compare"
+      }
+    ]
+  }
+}

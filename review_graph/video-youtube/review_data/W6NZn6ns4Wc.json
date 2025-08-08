@@ -1,0 +1,50 @@
+{
+  "video_id": "W6NZn6ns4Wc",
+  "video_url": "https://www.youtube.com/watch?v=W6NZn6ns4Wc",
+  "video_title": "Đánh giá iPhone 13: Đây mới là iPhone đáng mua nhất năm 2023",
+  "video_author": "Vật Vờ Studio",
+  "upload_date": "2023-04-27",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 13",
+        "features": [
+          "Kích thước nhỏ gọn, dễ cầm nắm",
+          "Cấu hình mạnh mẽ",
+          "Camera quay video và chụp hình đủ dùng",
+          "Pin bền bỉ, có thể trụ được hơn 6 tiếng sử dụng liên tục",
+          "Màn hình Super Retina XDR OLED",
+          "Khả năng tương thích tốt với ứng dụng bên thứ ba",
+          "Khả năng quay video vô đối trong phân khúc"
+        ],
+        "pros": [
+          "Giữ giá tốt sau 1 năm sử dụng",
+          "Thời lượng pin ấn tượng",
+          "Chất lượng camera tốt, đặc biệt là khả năng xử lý HDR",
+          "Hiển thị màu sắc rực rỡ và độ sáng tốt trong điều kiện thiếu sáng"
+        ],
+        "cons": [
+          "Màn hình chỉ có tần số quét 60Hz",
+          "Không có camera telephoto",
+          "Pin có thể bị hao nhanh sau thời gian dài sử dụng",
+          "Khả năng chơi game hạn chế do nóng máy nhanh"
+        ],
+        "price": "16,890,000 đồng",
+        "recommendation": "Là lựa chọn đáng mua cho những ai đang dùng iPhone 7 hoặc iPhone 8 và muốn nâng cấp lên một mẫu iPhone mới hơn mà không muốn chi quá nhiều.",
+        "type": "main"
+      },
+      {
+        "name": "iPhone 14 series",
+        "features": [],
+        "pros": [],
+        "cons": [
+          "Gặp nhiều vấn đề kỹ thuật",
+          "Giảm giá liên tục"
+        ],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      }
+    ]
+  }
+}

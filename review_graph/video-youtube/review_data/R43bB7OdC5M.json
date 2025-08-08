@@ -1,0 +1,68 @@
+{
+  "video_id": "R43bB7OdC5M",
+  "video_url": "https://www.youtube.com/watch?v=R43bB7OdC5M",
+  "video_title": "Đánh giá vivo V40 5G: Đã có Zeiss như vivo X200 Pro, chụp ảnh đẹp nhất phân khúc?",
+  "video_author": "Vật Vờ Studio",
+  "upload_date": "2024-12-05",
+  "content": {
+    "products": [
+      {
+        "name": "Vivo V40 5G",
+        "features": [
+          "Camera chính lớn",
+          "Pin 5515mAh",
+          "Công nghệ Silicon-carbon",
+          "Camera selfie 50MP",
+          "Quay video 4K",
+          "Tính năng video bokeh điện ảnh của ZEISS",
+          "Tính năng chuyển đổi lấy nét tự động ZEISS",
+          "Khả năng kháng nước và bụi IP68 và IP69",
+          "Âm lượng loa lớn",
+          "Màn hình AMOLED, độ sáng cao 4500 nits",
+          "Hiển thị HDR",
+          "Snapdragon 7 Gen 3",
+          "Hỗ trợ chuẩn xem phim Netflix cao",
+          "Tính năng AI xóa vật thể, tăng cường chất lượng ảnh"
+        ],
+        "pros": [
+          "Chất lượng ảnh chụp rất tốt trong mọi điều kiện",
+          "Thiết kế mỏng 7.5mm",
+          "Pin lâu, sạc nhanh",
+          "Màn hình sáng và rõ",
+          "Hiệu năng tốt với Snapdragon 7 Gen 3",
+          "Giá cả phải chăng"
+        ],
+        "cons": [
+          "Không có camera tele",
+          "Cảm giác cầm nắm có thể không thoải mái",
+          "Funtouch OS có thể không được ưa chuộng so với OriginOS"
+        ],
+        "price": "Khoảng 12-13 triệu đồng",
+        "recommendation": "Phù hợp cho người dùng muốn chụp hình chất lượng cao với mức giá tầm trung",
+        "type": "main"
+      },
+      {
+        "name": "Xiaomi 14T",
+        "features": [],
+        "pros": [],
+        "cons": [
+          "Ảnh chụp quá trắng, cần chỉnh sửa hậu kỳ"
+        ],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 13",
+        "features": [],
+        "pros": [],
+        "cons": [
+          "Ảnh chụp bị quá vàng, cần chỉnh sửa hậu kỳ"
+        ],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      }
+    ]
+  }
+}

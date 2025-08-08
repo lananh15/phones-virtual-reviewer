@@ -1,0 +1,42 @@
+{
+  "video_id": "FApirVU7OTY",
+  "video_url": "https://www.youtube.com/watch?v=FApirVU7OTY",
+  "video_title": "Đánh giá Galaxy S23 Ultra sau 1 năm: Đây là một chiếc điện thoại tốt!",
+  "video_author": "relab",
+  "upload_date": "2023-12-31",
+  "content": {
+    "products": [
+      {
+        "name": "Samsung Galaxy S23 Ultra",
+        "features": [
+          "Màn hình không gián đoạn",
+          "Viền kim loại bóng",
+          "Pin 5000mAh",
+          "Màn hình sáng, chi tiết, hiển thị tốt ngoài trời",
+          "Loa có âm lượng lớn nhưng bass không quá tốt",
+          "Hiệu năng ổn định với Snapdragon 8 Gen 2 Made for Galaxy",
+          "Camera chất lượng cao, hỗ trợ quay phim và chụp ảnh tốt",
+          "Phần mềm One UI trên Android 14"
+        ],
+        "pros": [
+          "Thiết kế không gián đoạn, màn hình không bị sước dễ dàng",
+          "Chất lượng xây dựng tốt, viền kim loại bền",
+          "Pin bền bỉ, không hao pin nhanh sau 1 năm sử dụng",
+          "Hiển thị sáng và rõ nét, tốt cho việc xem phim",
+          "Camera chụp ảnh và quay phim chất lượng cao",
+          "Hiệu năng ổn định, không quá nóng khi chơi game",
+          "Phần mềm ổn định, ít lỗi"
+        ],
+        "cons": [
+          "Màn hình dễ bám vân tay và dầu mặt",
+          "Loa có bass không tốt",
+          "Hiệu năng game không phải là tốt nhất",
+          "Phần mềm cần cải thiện về mượt mà của animation"
+        ],
+        "price": "19 triệu đồng",
+        "recommendation": "Phù hợp cho người dùng cần một chiếc điện thoại có camera tốt, thời lượng pin dài và hiệu năng ổn định. Không phải lựa chọn hàng đầu cho game thủ hardcore.",
+        "type": "main"
+      }
+    ]
+  }
+}

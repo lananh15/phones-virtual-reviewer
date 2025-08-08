@@ -1,0 +1,65 @@
+{
+  "video_id": "zkSYjygBO3k",
+  "video_url": "https://www.youtube.com/watch?v=zkSYjygBO3k",
+  "video_title": "Trên tay Samsung Galaxy S24 và S24+: Chip Exynos 2400, màn hình của S24+ có thay đổi lớn",
+  "video_author": "Vinh Xô",
+  "upload_date": "2024-01-18",
+  "content": {
+    "products": [
+      {
+        "name": "Samsung Galaxy S24",
+        "features": [
+          "Viền màn hình mỏng",
+          "Màn hình phẳng",
+          "Màn hình 120Hz biến thiên từ 1 đến 120Hz",
+          "Dung lượng RAM 8GB",
+          "Bộ nhớ UFS 4.0 khởi điểm 256GB",
+          "Sạc nhanh 25W",
+          "Pin 4000mAh",
+          "Camera chính 50MP",
+          "Thiết kế viền mỏng, cảm giác cầm nắm tốt",
+          "Có nhiều màu sắc, bao gồm màu đen và tím"
+        ],
+        "pros": [
+          "Thiết kế viền mỏng hơn và đều ở tất cả các cạnh",
+          "Độ sáng cao giúp khả năng hiển thị ngoài trời tốt hơn",
+          "Cảm giác cầm nắm tốt, không bị cấn",
+          "Thiết kế liền mạch, cảm giác mạnh mẽ hơn",
+          "Giữ lại nhiều thông số giống như thế hệ tiền nhiệm"
+        ],
+        "cons": [],
+        "price": "",
+        "recommendation": "Phù hợp cho người dùng thích thiết kế mỏng, hiệu năng tốt và màn hình phẳng",
+        "type": "main"
+      },
+      {
+        "name": "Samsung Galaxy S24 Plus",
+        "features": [
+          "Viền màn hình mỏng",
+          "Màn hình phẳng",
+          "Màn hình Quad-HD+",
+          "Màn hình 120Hz biến thiên từ 1 đến 120Hz",
+          "Dung lượng RAM lên đến 12GB",
+          "Bộ nhớ UFS 4.0 khởi điểm 256GB",
+          "Sạc nhanh 45W",
+          "Pin 4900mAh",
+          "Camera chính 50MP",
+          "Thiết kế viền mỏng, cảm giác cầm nắm tốt",
+          "Có nhiều màu sắc, bao gồm màu đen và tím"
+        ],
+        "pros": [
+          "Màn hình độ phân giải cao hơn so với Samsung Galaxy S24",
+          "Thiết kế viền mỏng hơn và đều ở tất cả các cạnh",
+          "Độ sáng cao giúp khả năng hiển thị ngoài trời tốt hơn",
+          "Cảm giác cầm nắm tốt, không bị cấn",
+          "Thiết kế liền mạch, cảm giác mạnh mẽ hơn",
+          "Giữ lại nhiều thông số giống như thế hệ tiền nhiệm"
+        ],
+        "cons": [],
+        "price": "",
+        "recommendation": "Phù hợp cho người dùng thích màn hình lớn với độ phân giải cao và hiệu năng mạnh mẽ",
+        "type": "main"
+      }
+    ]
+  }
+}

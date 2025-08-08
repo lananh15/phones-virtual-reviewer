@@ -1,0 +1,72 @@
+{
+  "video_id": "2CiyAvMUGwU",
+  "video_url": "https://www.youtube.com/watch?v=2CiyAvMUGwU",
+  "video_title": "Đánh giá iPhone 15 Pro : Đáng mua nhưng vẫn nhiều điểm trừ!",
+  "video_author": "Dương Dê",
+  "upload_date": "2024-01-06",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 15 Pro",
+        "features": [
+          "Cổng sạc Type-C",
+          "Khung viền được vát",
+          "Màn hình đẹp, tần số quét cao, màu sắc chân thực",
+          "Hiệu năng mượt mà, chơi game tốt",
+          "Camera chất lượng cao, chụp ảnh hiệu sáng tốt",
+          "Phím action button đa năng"
+        ],
+        "pros": [
+          "Cảm giác cầm nắm thoải mái",
+          "Hiệu năng cao, phù hợp với việc chơi game",
+          "Camera cải tiến, chụp ảnh và quay video tốt",
+          "Màn hình sắc nét, màu sắc chân thực",
+          "Chất lượng nghe gọi tốt, loa đàm thoại rõ ràng"
+        ],
+        "cons": [
+          "Pin không đủ dùng trong một ngày, cần sạc nhiều lần",
+          "Cổng sạc Type-C có thể gây bất tiện ban đầu",
+          "Bộ nhớ trong tối thiểu chỉ 128GB, không đủ cho nhu cầu quay video cao",
+          "Nhiệt độ máy tăng khi chơi game hoặc quay video trong điều kiện nóng",
+          "Giá cao khi nâng cấp bộ nhớ trong"
+        ],
+        "price": "25,990,000 đồng",
+        "recommendation": "Phù hợp cho người dùng cần hiệu năng cao và thích chụp ảnh, quay video chất lượng cao. Không khuyến khích cho những ai cần một thiết bị có thời lượng pin dài.",
+        "type": "main"
+      },
+      {
+        "name": "iPhone 15 Pro Max",
+        "features": [
+          "Phiên bản lớn hơn của iPhone 15 Pro",
+          "Có những tính năng tương tự như iPhone 15 Pro"
+        ],
+        "pros": [
+          "Màn hình lớn hơn",
+          "Pin có thể tốt hơn so với iPhone 15 Pro"
+        ],
+        "cons": [
+          "Kích thước lớn hơn có thể không phù hợp với mọi người"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho những người thích màn hình lớn và có thể cần pin tốt hơn.",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 14 Pro Max",
+        "features": [
+          "Phiên bản trước của iPhone 15 Pro"
+        ],
+        "pros": [
+          "Vẫn còn hiệu năng tốt",
+          "Giá bằng với iPhone 15 Pro khi mới ra mắt"
+        ],
+        "cons": [
+          "Công nghệ và tính năng cũ hơn so với iPhone 15 Pro"
+        ],
+        "price": "",
+        "recommendation": "Cân nhắc nếu thích màn hình lớn và pin tốt nhưng không cần những cải tiến mới nhất.",
+        "type": "compare"
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "video_id": "fK2eQyL29_U",
+  "video_url": "https://www.youtube.com/watch?v=fK2eQyL29_U",
+  "video_title": "16 tháng rồi, giá Galaxy S23 Ultra vẫn tận 18 triệu: Thực sự ngon đến thế sao?",
+  "video_author": "Vật Vờ Studio",
+  "upload_date": "2024-08-10",
+  "content": {
+    "products": [
+      {
+        "name": "Samsung Galaxy S23 Ultra",
+        "features": [
+          "Màn hình lớn",
+          "Pin khỏe",
+          "Sạc 1 tiếng đầy pin",
+          "Snapdragon 8 Gen 2 for Galaxy",
+          "Hiệu năng ổn định",
+          "Chơi game tốt",
+          "Màn hình đẹp",
+          "Có khả năng chống chói",
+          "Hỗ trợ WiFi L1",
+          "Màn hình cong",
+          "Có eSIM",
+          "S Pen",
+          "Update lâu dài đến 5 năm"
+        ],
+        "pros": [
+          "Pin đáp ứng đủ nhu cầu trong một ngày",
+          "Hiệu năng cao, không quá nóng khi chơi game",
+          "Màn hình hiển thị sắc nét, màu sắc rực rỡ",
+          "Hỗ trợ công việc với S Pen",
+          "Cập nhật phần mềm lâu dài"
+        ],
+        "cons": [
+          "Sạc một lần có thể hơi thiếu",
+          "Màn hình cong cần chú ý bảo vệ kỹ"
+        ],
+        "price": "17-18 triệu tùy hình thức của máy",
+        "recommendation": "Phù hợp cho người dùng cần một máy có hiệu năng cao, màn hình đẹp và sử dụng lâu dài",
+        "type": "main"
+      },
+      {
+        "name": "Xiaomi 14",
+        "features": [
+          "Pin trâu",
+          "Sạc nhanh",
+          "Camera leica"
+        ],
+        "pros": [
+          "Có các tính năng hiện đại như sạc nhanh và camera leica"
+        ],
+        "cons": [
+          "Thương hiệu và cụm camera leica có thể không được ưa chuộng bởi tất cả mọi người"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho người thích thử nghiệm với thương hiệu và công nghệ mới",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 14 Pro",
+        "features": [],
+        "pros": [],
+        "cons": [
+          "Pin không khỏe bằng Samsung Galaxy S23 Ultra",
+          "Sạc chậm hơn Samsung Galaxy S23 Ultra"
+        ],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      },
+      {
+        "name": "Samsung Galaxy S24 Ultra",
+        "features": [],
+        "pros": [
+          "Chụp hình và quay phim tốt",
+          "Màu sắc chân thực"
+        ],
+        "cons": [
+          "Không có nhiều khác biệt so với Samsung Galaxy S23 Ultra về hiệu năng"
+        ],
+        "price": "",
+        "recommendation": "Nếu đang dùng Samsung Galaxy S23 Ultra, không cần thiết phải nâng cấp lên Samsung Galaxy S24 Ultra",
+        "type": "compare"
+      },
+      {
+        "name": "Samsung Galaxy S25 Ultra",
+        "features": [],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "Là một lựa chọn hợp lý hơn cho những ai đang cân nhắc mua điện thoại mới",
+        "type": "compare"
+      }
+    ]
+  }
+}

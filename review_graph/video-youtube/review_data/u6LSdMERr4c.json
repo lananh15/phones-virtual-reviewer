@@ -1,0 +1,65 @@
+{
+  "video_id": "u6LSdMERr4c",
+  "video_url": "https://www.youtube.com/watch?v=u6LSdMERr4c",
+  "video_title": "iPhone 13 Pro Max Giá Đã Rất Rẻ - Liệu Có Đáng Mua Trong Năm 2025? Cấu Hình Trải Nghiệm Có Ngon?",
+  "video_author": "F.A CHANNEL",
+  "upload_date": "2025-03-12",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 13 Pro Max",
+        "features": [
+          "Màn hình 120Hz",
+          "Camera 3 ống kính",
+          "Mặt lưng kính nhám",
+          "Khung hợp kim chắc chắn",
+          "Hỗ trợ 5G",
+          "Khả năng quay video 4K 60fps cho tất cả các ống kính kể cả cam trước"
+        ],
+        "pros": [
+          "Thiết kế cứng cáp",
+          "Chất lượng hình ảnh camera tốt, màu sắc chính xác",
+          "Hỗ trợ cập nhật phần mềm lâu dài",
+          "Giá cả phải chăng so với các mẫu iPhone mới hơn"
+        ],
+        "cons": [
+          "Tình trạng sọc màn hình xảy ra thường xuyên",
+          "Pin yếu, chỉ còn 77% dung lượng sau thời gian dài sử dụng",
+          "Máy nóng khi sử dụng các tác vụ nặng như chơi game",
+          "Có thể gặp vấn đề với kết nối Bluetooth",
+          "Tỷ lệ cao mua phải hàng đã qua sửa chữa hoặc tân trang"
+        ],
+        "price": "13-14 triệu VND",
+        "recommendation": "Phù hợp cho những người không quá lo lắng về vấn đề sọc màn hình và cần một chiếc điện thoại có đủ tính năng cơ bản với mức giá hợp lý. Không phù hợp cho những người cần độ bền cao hoặc sử dụng nặng.",
+        "type": "main"
+      },
+      {
+        "name": "iPhone 12 Pro Max",
+        "features": [],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "Là một lựa chọn tốt hơn iPhone 13 Pro Max về mặt giá cả, rẻ hơn khoảng 2 triệu VND.",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 15 Plus",
+        "features": [],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "Là một lựa chọn an toàn hơn với mức giá cao hơn, phù hợp cho những người lo lắng về vấn đề sọc màn hình trên iPhone 13 Pro Max.",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 14 Pro Max",
+        "features": [],
+        "pros": [],
+        "cons": [],
+        "price": "17 triệu VND",
+        "recommendation": "Cung cấp sự an tâm hơn trong quá trình sử dụng so với iPhone 13 Pro Max, với mức giá cao hơn.",
+        "type": "compare"
+      }
+    ]
+  }
+}

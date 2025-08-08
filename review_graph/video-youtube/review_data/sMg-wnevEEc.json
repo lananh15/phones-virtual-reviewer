@@ -1,0 +1,83 @@
+{
+  "video_id": "sMg-wnevEEc",
+  "video_url": "https://www.youtube.com/watch?v=sMg-wnevEEc",
+  "video_title": "Thực tế iPhone 16 Pro Max: ngon thì không phải bàn, viền màn hình mỏng, nhưng mà to và nặng",
+  "video_author": "Duy Luân Dễ Thương",
+  "upload_date": "2024-09-24",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 16 Pro Max",
+        "features": [
+          "Viền màn hình mỏng hơn",
+          "Màn hình 6,9 inch",
+          "Màn hình có độ sáng cao và độ tương phản xuất sắc",
+          "Promotion 120Hz",
+          "Màu Desert Titanium",
+          "Camera chính 48MP, camera ultra wide 48MP",
+          "Chip Apple A18 Pro",
+          "Nút camera control"
+        ],
+        "pros": [
+          "Thiết kế màn hình mỏng, đẹp và hấp dẫn",
+          "Cảm giác cầm dễ chịu, tương tự iPhone 15 Pro Max",
+          "Màn hình sáng và tương phản tốt",
+          "Camera chất lượng cao",
+          "Thời gian sử dụng pin tốt"
+        ],
+        "cons": [
+          "Kích thước lớn và nặng hơn so với các thế hệ trước",
+          "Có thể cảm thấy nặng khi cầm"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho những người cần một chiếc điện thoại với màn hình lớn, camera tốt và thời gian sử dụng pin dài, nhưng cần cân nhắc nếu không thoải mái với trọng lượng của máy.",
+        "type": "main"
+      },
+      {
+        "name": "iPhone 15 Pro Max",
+        "features": [],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "Vẫn là một lựa chọn tốt với nhiều tính năng tương tự iPhone 16 Pro Max nhưng không có sự khác biệt lớn, phù hợp cho những ai không cần những cải tiến mới nhất.",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 16 Pro",
+        "features": [],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "Lựa chọn cho những ai muốn một thiết bị nhỏ gọn hơn nhưng vẫn đầy đủ tính năng Pro, chỉ trừ thời gian sử dụng pin có thể không bằng iPhone 16 Pro Max.",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 16 Plus",
+        "features": [],
+        "pros": [],
+        "cons": [],
+        "price": "rẻ hơn iPhone 16 Pro Max khoảng 4-5 triệu",
+        "recommendation": "Phù hợp cho những ai không cần các tính năng Pro và ưu tiên cảm giác cầm nhẹ nhàng hơn.",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 13 Pro Max",
+        "features": [],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "Có thể cân nhắc nâng cấp lên các thế hệ mới hơn nếu muốn trải nghiệm viền màn hình mỏng hơn và các tính năng cải tiến.",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 14 Pro Max",
+        "features": [],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "Có thể cân nhắc nâng cấp lên iPhone 16 Pro Max để trải nghiệm viền màn hình mỏng hơn và các tính năng cải tiến.",
+        "type": "compare"
+      }
+    ]
+  }
+}

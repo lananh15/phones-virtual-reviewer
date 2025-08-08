@@ -1,0 +1,50 @@
+{
+  "video_id": "_x3ZeIGOTwM",
+  "video_url": "https://www.youtube.com/watch?v=_x3ZeIGOTwM",
+  "video_title": "iPhone 14 giá chỉ còn quanh 10 triệu đã đáng mua hay chưa ???",
+  "video_author": "Tony Phùng Studio",
+  "upload_date": "2025-05-16",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 14",
+        "features": [
+          "Camera selfie có tính năng autofocus",
+          "Khả năng lấy nét tự động",
+          "Cải tiến về phần cứng bên trong",
+          "RAM 6GB",
+          "Thêm một nhân GPU",
+          "Cổng sạc Lightning"
+        ],
+        "pros": [
+          "Độ nét cao khi quay video và chụp ảnh, đặc biệt với camera selfie",
+          "Hiệu suất ổn định, không gặp lỗi phát sinh",
+          "Tương thích tốt với các ứng dụng iOS",
+          "Trải nghiệm người dùng mượt mà",
+          "Chất lượng xây dựng và hoàn thiện sản phẩm cao"
+        ],
+        "cons": [
+          "Giá cao khi mua mới",
+          "Không có nhiều cải tiến đáng kể so với các mẫu iPhone cũ hơn",
+          "Thời lượng pin có thể không đáp ứng được nếu sử dụng nặng"
+        ],
+        "price": "khoảng 10 triệu cho máy đã qua sử dụng 99%",
+        "recommendation": "Phù hợp cho những người cần một chiếc iPhone với hiệu suất ổn định, camera tốt, và không quá quan trọng về các cải tiến đột phá. Đặc biệt phù hợp cho việc livestream và quay video.",
+        "type": "main"
+      },
+      {
+        "name": "iPhone 13",
+        "features": [],
+        "pros": [
+          "Trải nghiệm quay video tốt với camera chính"
+        ],
+        "cons": [
+          "Camera selfie không có tính năng autofocus như iPhone 14"
+        ],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "video_id": "daG3v3mL83A",
+  "video_url": "https://www.youtube.com/watch?v=daG3v3mL83A",
+  "video_title": "So sánh chi tiết Galaxy S25 với iPhone 16 và Find X8",
+  "video_author": "Vinh Xô",
+  "upload_date": "2025-02-11",
+  "content": {
+    "products": [
+      {
+        "name": "Samsung Galaxy S25",
+        "features": [
+          "Màn hình ấn tượng",
+          "Thiết kế mỏng nhất, nhẹ nhất, ngắn nhất so với iPhone 16 và Find X8",
+          "Vật liệu làm từ nhôm",
+          "Khả năng chống nước IP68",
+          "Hỗ trợ 2 nano SIM",
+          "Cổng sạc USB Type-C 3.2",
+          "Hỗ trợ DisplayPort",
+          "Tỷ lệ màn hình so với thân máy là 91.1%",
+          "Camera selfie nhỏ",
+          "Độ phân giải màn hình Full HD+",
+          "Cảm biến vân tay trong màn hình",
+          "Công nghệ sạc ngược không dây 4.5W"
+        ],
+        "pros": [
+          "Thiết kế gọn nhẹ, dễ cầm nắm",
+          "Hỗ trợ quay video chuyên nghiệp",
+          "Thời lượng pin tốt",
+          "Hỗ trợ công nghệ Samsung DeX cho phép sử dụng như mini PC",
+          "Hỗ trợ DisplayPort",
+          "Chất lượng camera tốt nhưng tùy trong điều kiện thiếu sáng",
+          "Màu sắc hiển thị sáng và rực rỡ khi xem nội dung HDR"
+        ],
+        "cons": [
+          "Không phù hợp cho chơi game do bị bóp hiệu năng",
+          "Màu sắc có thể bị sai khi xem nội dung HDR",
+          "Loa ngoài không ấn tượng"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho người dùng cần một thiết bị nhỏ gọn với nhiều tính năng công nghệ cao và hỗ trợ làm việc như một mini PC",
+        "type": "main"
+      },
+      {
+        "name": "iPhone 16",
+        "features": [
+          "Vật liệu làm từ nhôm",
+          "Khả năng chống nước IP68",
+          "Hỗ trợ 1 nano SIM và 1 eSIM",
+          "Cổng sạc USB Type-C 2.0",
+          "Hỗ trợ DisplayPort",
+          "Tỷ lệ màn hình so với thân máy là 86%",
+          "Camera ultra wide 12MP",
+          "Không có cảm biến vân tay, sử dụng Face ID",
+          "Màu sắc tương đồng với OPPO Find X8 trong điều kiện chụp thiếu sáng",
+          "Sạc không dây chuẩn 15W",
+          "Công nghệ sạc ngược không dây 4.5W",
+          "Tích hợp sẵn MagSafe"
+        ],
+        "pros": [
+          "Chất lượng camera tốt, màu sắc và chi tiết tốt đặc biệt trong điều kiện chụp thiếu sáng",
+          "Hỗ trợ DisplayPort",
+          "Hỗ trợ MacSafe"
+        ],
+        "cons": [
+          "Không phù hợp cho chơi game",
+          "Tốc độ sạc chậm hơn so với các đối thủ",
+          "Không hỗ trợ tần số quét 120Hz",
+          "Giá cao hơn so với các sản phẩm cùng phân khúc",
+          "Loa ngoài không ấn tượng"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho người dùng trong hệ sinh thái Apple và cần bảo mật cao",
+        "type": "compare"
+      },
+      {
+        "name": "OPPO Find X8",
+        "features": [
+          "Vật liệu làm từ nhôm",
+          "Khả năng chống nước IP69",
+          "Hỗ trợ 2 nano SIM",
+          "Cổng sạc USB Type-C 3.0",
+          "Tỷ lệ màn hình so với thân máy là 90.3%",
+          "Màn hình kích thước 6.59 inch",
+          "Cảm biến vân tay trong màn hình",
+          "Camera 50MP trên cả 3 ống kính",
+          "Màu sắc tương đồng với iPhone 16 trong điều kiện chụp thiếu sáng",
+          "Dung lượng pin 5630mAh",
+          "Hỗ trợ sạc nhanh 80W và sạc không dây 50W",
+          "Công nghệ sạc ngược không dây 10W"
+        ],
+        "pros": [
+          "Khả năng chống nước vượt trội IP69",
+          "Màn hình lớn, phù hợp cho việc xem phim và chơi game",
+          "Thời lượng pin tốt",
+          "Cổng sạc nhanh và hiện đại hơn so với các đối thủ",
+          "Chất lượng camera tốt, đặc biệt khi chụp chân dung"
+        ],
+        "cons": [
+          "Không phù hợp cho chơi game do bị bóp hiệu năng",
+          "Không hỗ trợ xuất hình ảnh qua cổng sạc",
+          "Loa ngoài không ấn tượng"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho người dùng cần thời lượng pin dài và tính năng sạc nhanh, đồng thời thích xem phim và chơi game trên màn hình lớn",
+        "type": "compare"
+      }
+    ]
+  }
+}

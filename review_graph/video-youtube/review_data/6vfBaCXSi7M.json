@@ -1,0 +1,72 @@
+{
+  "video_id": "6vfBaCXSi7M",
+  "video_url": "https://www.youtube.com/watch?v=6vfBaCXSi7M",
+  "video_title": "Thực tế iPhone 16 Pro: pin đủ 1 ngày làm việc, profile 45W, vẫn nhỏ gọn",
+  "video_author": "Duy Luân Dễ Thương",
+  "upload_date": "2024-09-23",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 16 Pro",
+        "features": [
+          "Màn hình lớn hơn 6,3 inch",
+          "Thời gian sử dụng pin tốt hơn",
+          "Chạy chip Apple A18 Pro",
+          "RAM 8GB",
+          "Camera chính 48 MP",
+          "Hỗ trợ điều chỉnh tông màu sắc",
+          "Màn hình ProMotion 120Hz"
+        ],
+        "pros": [
+          "Cảm giác cầm thoải mái, nhẹ nhàng",
+          "Hiệu quả sử dụng năng lượng tốt hơn nhờ chip mới",
+          "Cải thiện đáng kể về quản lý nhiệt",
+          "Chất lượng ảnh và video tốt, đặc biệt ở điều kiện thiếu sáng",
+          "Thiết kế mỏng hơn, viền màn hình mỏng hơn"
+        ],
+        "cons": [
+          "Thời gian sử dụng pin vẫn chưa bằng các dòng Pro Max hoặc Plus",
+          "Không có nhiều cải tiến về tốc độ sạc so với các năm trước"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho những người cần một chiếc điện thoại có tính năng Pro nhưng vẫn đảm bảo cảm giác cầm nắm thoải mái và thời gian sử dụng pin ổn định trong ngày.",
+        "type": "main"
+      },
+      {
+        "name": "iPhone 16",
+        "features": [
+          "Màn hình 6,1 inch"
+        ],
+        "pros": [],
+        "cons": [
+          "Kích thước màn hình nhỏ hơn so với iPhone 16 Pro"
+        ],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 15 Plus",
+        "features": [],
+        "pros": [
+          "Trải nghiệm gõ phím tốt"
+        ],
+        "cons": [],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 14 Pro",
+        "features": [],
+        "pros": [],
+        "cons": [
+          "Cảm giác cầm không thoải mái, có thể gây đau tay khi cầm lâu"
+        ],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      }
+    ]
+  }
+}

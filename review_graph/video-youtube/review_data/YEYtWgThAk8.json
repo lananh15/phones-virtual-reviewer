@@ -1,0 +1,59 @@
+{
+  "video_id": "YEYtWgThAk8",
+  "video_url": "https://www.youtube.com/watch?v=YEYtWgThAk8",
+  "video_title": "ĐẬP HỘP GALAXY Z FOLD 7 47 TRIỆU - GALAXY Z FLIP 7 29 TRIỆU: MỎNG, ĐẸP, Z FLIP 7 ĐƯỢC THỰC SỰ:))",
+  "video_author": "Ngô Đức Duy",
+  "upload_date": "2025-07-10",
+  "content": {
+    "products": [
+      {
+        "name": "Samsung Galaxy Z Fold7",
+        "features": [
+          "Thiết kế mỏng và nhẹ",
+          "Màn hình bên ngoài giống điện thoại truyền thống",
+          "Màn hình lớn bên trong tương đương iPad mini",
+          "Chạy Android 16",
+          "Nếp gấp màn hình khó thấy, mượt mà",
+          "Camera chính 200MP từ S25 Ultra",
+          "Không hỗ trợ S-Pen"
+        ],
+        "pros": [
+          "Thiết kế mỏng và nhẹ, dễ cầm nắm",
+          "Màn hình bên ngoài cải tiến, dễ sử dụng",
+          "Màn hình lớn bên trong thích hợp cho đa nhiệm, xem phim, chơi game",
+          "Nếp gấp màn hình được cải thiện, khó thấy và mượt mà",
+          "Camera chất lượng cao"
+        ],
+        "cons": [
+          "Dung lượng pin thấp (4400mAh) so với các mẫu điện thoại gập khác",
+          "Camera lồi, có thể không ổn khi đặt trên bàn",
+          "Không hỗ trợ S-Pen"
+        ],
+        "price": "46 triệu VND",
+        "recommendation": "Phù hợp cho doanh nhân, người dùng cần thiết bị sang trọng với hiệu suất cao và thiết kế đẹp",
+        "type": "main"
+      },
+      {
+        "name": "Samsung Galaxy Z Flip7",
+        "features": [
+          "Thiết kế gập nhỏ gọn",
+          "Màn hình ngoài lớn, tràn viền",
+          "Camera chính 50MP",
+          "Không sử dụng chip Snapdragon, dùng chip Exynos 2500"
+        ],
+        "pros": [
+          "Thiết kế nhỏ gọn, dễ dàng mang theo",
+          "Màn hình ngoài lớn, tràn viền cho trải nghiệm tốt",
+          "Camera chất lượng cao, thích hợp cho chụp hình và quay video"
+        ],
+        "cons": [
+          "Sử dụng chip mới chưa được kiểm chứng rộng rãi",
+          "Giá cao so với một số người dùng trẻ"
+        ],
+        "price": "29 triệu VND",
+        "recommendation": "Thích hợp cho người trẻ, thường xuyên đi du lịch và cần một thiết bị gọn nhẹ với khả năng chụp hình tốt",
+        "type": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "video_id": "YSlKIv06gtE",
+  "video_url": "https://www.youtube.com/watch?v=YSlKIv06gtE",
+  "video_title": "Galaxy A55 Giá 8 Triệu Rất Đáng Mua Nhưng Hãy Lưu Ý Những Điều Này!",
+  "video_author": "F.A CHANNEL",
+  "upload_date": "2024-08-20",
+  "content": {
+    "products": [
+      {
+        "name": "Samsung Galaxy A55 5G",
+        "features": [
+          "Vỏ được làm từ kim loại",
+          "Màn hình bền nhưng không mỏng",
+          "Camera sau 50MP, hỗ trợ chống rung, quay video 4K",
+          "Camera selfie 32MP",
+          "Chip Exynos 1480, GPU Xclipse 530",
+          "RAM 8GB, bộ nhớ trong 128GB",
+          "Pin 5000mAh, sạc nhanh 25W"
+        ],
+        "pros": [
+          "Chất liệu kim loại tạo cảm giác chắc chắn",
+          "Hiệu năng tốt với chip mới và GPU mạnh",
+          "Camera chất lượng cao, hỗ trợ quay video 4K",
+          "Màn hình hiển thị sắc nét, màu sắc đẹp"
+        ],
+        "cons": [
+          "Viền máy có thể cảm thấy sắc, không thoải mái khi cầm",
+          "Màn hình dày",
+          "Sạc nhanh thấp so với các đối thủ cùng phân khúc"
+        ],
+        "price": "8 triệu",
+        "recommendation": "Phù hợp với người dùng cần điện thoại tầm trung với hiệu năng tốt, chất lượng camera cao và thiết kế chắc chắn.",
+        "type": "main"
+      }
+    ]
+  }
+}

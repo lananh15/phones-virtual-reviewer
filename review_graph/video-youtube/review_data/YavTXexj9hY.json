@@ -1,0 +1,76 @@
+{
+  "video_id": "YavTXexj9hY",
+  "video_url": "https://www.youtube.com/watch?v=YavTXexj9hY",
+  "video_title": "Mở hộp đánh giá nhanh OPPO Reno 14 5G và Reno 14 Pro 5G: có đại sứ Sơn Tùng MTP sẽ khác gì?",
+  "video_author": "Vinh Xô",
+  "upload_date": "2025-07-01",
+  "content": {
+    "products": [
+      {
+        "name": "OPPO Reno14 5G",
+        "features": [
+          "Thiết kế hoạ tiết như vây cá",
+          "Nhiều màu sắc để lựa chọn",
+          "Mặt lưng thiết kế kính",
+          "Logo nổi",
+          "Kháng nước IP68, IP69",
+          "Sạc nhanh 80W",
+          "Vi xử lý Dimensity",
+          "12GB RAM",
+          "Bộ nhớ trong 512GB",
+          "Giao diện ColorOS 15 dựa trên Android 15",
+          "Màn hình 6,59 inch",
+          "Camera chính 50MP, camera góc rộng 8MP, camera trước 50MP",
+          "Pin 6000mAh",
+          "Sạc nhanh có dây 80W"
+        ],
+        "pros": [
+          "Thiết kế đẹp và ấn tượng",
+          "Trọng lượng nhẹ",
+          "Hiệu năng mượt mà",
+          "Chụp ảnh đẹp",
+          "Tính năng AI cho chụp ảnh và sửa hình ảnh"
+        ],
+        "cons": [
+          "Không có sạc nhanh không dây",
+          "Cảm biến vân tay đặt thấp có thể khó sử dụng"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho người dùng không quá quan tâm đến camera tele và cấu hình cao nhất nhưng vẫn muốn trải nghiệm tốt về độ mượt, tính năng AI, pin và màn hình.",
+        "type": "main"
+      },
+      {
+        "name": "OPPO Reno14 Pro 5G",
+        "features": [
+          "Thiết kế hoạ tiết như vây cá",
+          "Nhiều màu sắc để lựa chọn",
+          "Mặt lưng thiết kế kính",
+          "Logo nổi",
+          "Kháng nước IP68, IP69",
+          "Sạc nhanh 80W",
+          "Vi xử lý Dimensity",
+          "12GB RAM",
+          "Bộ nhớ trong 512GB",
+          "Giao diện ColorOS 15 dựa trên Android 15",
+          "Màn hình 6,83 inch",
+          "Camera chính 50MP, camera góc rộng 5MP, camera trước 50MP",
+          "Pin 6200mAh",
+          "Sạc nhanh không dây 50W"
+        ],
+        "pros": [
+          "Thiết kế đẹp và ấn tượng",
+          "Trọng lượng nhẹ",
+          "Hiệu năng mượt mà",
+          "Chụp ảnh đẹp",
+          "Tính năng AI cho chụp ảnh và sửa hình ảnh"
+        ],
+        "cons": [
+          "Cảm biến vân tay đặt thấp có thể khó sử dụng"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho người dùng muốn trải nghiệm tốt về độ mượt, tính năng AI, pin và màn hình, đồng thời quan tâm đến camera tele và sạc nhanh không dây.",
+        "type": "main"
+      }
+    ]
+  }
+}

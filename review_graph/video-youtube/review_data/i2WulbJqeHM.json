@@ -1,0 +1,73 @@
+{
+  "video_id": "i2WulbJqeHM",
+  "video_url": "https://www.youtube.com/watch?v=i2WulbJqeHM",
+  "video_title": "Xiaomi 14T Pro vs Galaxy S24 FE: Chính xác 16,99 triệu nhưng khác nhiều!",
+  "video_author": "Vật Vờ Studio",
+  "upload_date": "2024-09-30",
+  "content": {
+    "products": [
+      {
+        "name": "Xiaomi 14T Pro 5G",
+        "features": [
+          "Mặt lưng kính",
+          "Kháng nước IP68",
+          "Hỗ trợ eSIM",
+          "Loa kép",
+          "Bộ nhớ 12GB RAM và 256GB bộ nhớ trong",
+          "Màn hình 6,67 inch",
+          "Độ sáng tối đa 4000 nits",
+          "Tần số quét 120Hz",
+          "Camera chính 50MP",
+          "Hỗ trợ Leica cho chế độ chụp ảnh",
+          "Quay video 4K",
+          "Chip Dimensity 9300 Plus",
+          "Pin 5000mAh",
+          "Sạc nhanh 120W",
+          "Hỗ trợ sạc không dây 50W"
+        ],
+        "pros": [
+          "Thiết kế mỏng, không bị cấn ở phần mặt trước",
+          "Hiệu năng mạnh mẽ với chip Dimensity 9300 Plus",
+          "Chất lượng camera tốt, hỗ trợ từ Leica",
+          "Thời lượng pin dài với sạc nhanh 120W và sạc không dây 50W",
+          "Màn hình sáng và rõ nét, tốt cho nội dung HDR"
+        ],
+        "cons": [
+          "Màn hình nhỏ hơn so với Samsung Galaxy S24 FE"
+        ],
+        "price": "14,49 triệu VND",
+        "recommendation": "Phù hợp cho người dùng cần hiệu năng cao và thời lượng pin tốt",
+        "type": "main"
+      },
+      {
+        "name": "Samsung Galaxy S24 FE",
+        "features": [
+          "Mặt lưng kính",
+          "Kháng nước IP68",
+          "Loa kép",
+          "Bộ nhớ 8GB RAM và 128GB bộ nhớ trong",
+          "Màn hình 6,7 inch",
+          "Camera chính 50MP, camera telephoto 8MP",
+          "Quay video 4K, hỗ trợ quay 8K",
+          "Pin 4700mAh",
+          "Sạc 25W",
+          "Hỗ trợ sạc không dây 15W"
+        ],
+        "pros": [
+          "Thương hiệu mạnh, hỗ trợ bảo hành dài hạn",
+          "Tính năng AI tiếng Việt tốt",
+          "Tương tác tốt với các ứng dụng mạng xã hội"
+        ],
+        "cons": [
+          "Thiết kế với viền màn hình dày",
+          "Hiệu năng thấp hơn so với Xiaomi 14T Pro",
+          "Camera thiếu chi tiết so với Xiaomi 14T Pro",
+          "Sạc chậm hơn nhiều so với Xiaomi 14T Pro"
+        ],
+        "price": "16,990 triệu VND",
+        "recommendation": "Phù hợp cho người dùng cần độ ổn định lâu dài và thương hiệu mạnh",
+        "type": "compare"
+      }
+    ]
+  }
+}

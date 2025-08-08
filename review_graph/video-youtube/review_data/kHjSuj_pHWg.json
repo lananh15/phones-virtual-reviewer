@@ -1,0 +1,45 @@
+{
+  "video_id": "kHjSuj_pHWg",
+  "video_url": "https://www.youtube.com/watch?v=kHjSuj_pHWg",
+  "video_title": "Quá nhiều lý do, mua và không nên mua Galaxy S24 Ultra trong năm 2025! HÃY LƯU Ý",
+  "video_author": "F.A CHANNEL",
+  "upload_date": "2025-03-03",
+  "content": {
+    "products": [
+      {
+        "name": "Samsung Galaxy S24 Ultra",
+        "features": [
+          "Màn hình phẳng hoàn toàn",
+          "Mặt lưng phẳng",
+          "Dynamic AMOLED 2K, tần số quét 120Hz",
+          "Mood S Pen có Bluetooth",
+          "Pin 5.000 mAh, sạc 45W"
+        ],
+        "pros": [
+          "Thiết kế đẹp hơn S25 Ultra",
+          "Giữ được vương vị của dòng S Ultra",
+          "Màn hình phẳng dễ dàng tìm cường lực",
+          "Mặt lưng không dễ bị bung keo như các mẫu trước",
+          "Hiệu năng tốt, sử dụng được 4 năm",
+          "Camera chất lượng cao, không khác biệt nhiều so với S25 Ultra"
+        ],
+        "cons": [
+          "Pin không trâu bằng S25 Ultra",
+          "Giá cao khi mua mới"
+        ],
+        "price": "19-24 triệu đồng cho hàng mới, 15-20% rẻ hơn cho hàng lướt",
+        "recommendation": "Nên mua hàng lướt để tiết kiệm chi phí, vì không có sự khác biệt lớn về hiệu năng so với S25 Ultra",
+        "type": "main"
+      },
+      {
+        "name": "Samsung Galaxy S25 Ultra",
+        "features": [],
+        "pros": [],
+        "cons": [],
+        "price": "27-28 triệu đồng",
+        "recommendation": "Nếu muốn sản phẩm mới và không quan tâm đến chi phí, có thể chọn S25 Ultra",
+        "type": "compare"
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "video_id": "1LbE6SJ4EI4",
+  "video_url": "https://www.youtube.com/watch?v=1LbE6SJ4EI4",
+  "video_title": "REVIEW iPHONE 15 PRO MAX SAU 24h: CAMERA QUÁ BÁ ĐẠO",
+  "video_author": "AnhEm TV",
+  "upload_date": "2023-09-27",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 15 Pro Max",
+        "features": [
+          "Viền Titan",
+          "Cổng Type-C",
+          "Action Button",
+          "Camera chính 48MP, camera tele 12MP, camera góc rộng 12MP",
+          "Khả năng zoom 5X, quay video zoom lên đến 15X",
+          "Chip A17 Pro",
+          "Dung lượng pin 4422 mAh",
+          "Tối ưu hóa sạc pin giới hạn ở mức 80%",
+          "Hiển thị số lượng chu kỳ sạc trong cài đặt"
+        ],
+        "pros": [
+          "Thiết kế nhẹ, cầm nắm thoải mái",
+          "Tính năng sạc đa năng với Type-C",
+          "Khả năng chụp ảnh và quay video chất lượng cao",
+          "Hiệu năng mạnh mẽ với chip A17 Pro"
+        ],
+        "cons": [
+          "Viền Titan dễ bị xước",
+          "Tốc độ sạc ngược chậm",
+          "Action Button có thể được coi là thừa thải bởi một số người dùng"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho những người thích công nghệ mới, thường xuyên sử dụng các tính năng camera cao cấp và cần hiệu năng mạnh mẽ",
+        "type": "main"
+      },
+      {
+        "name": "iPhone 14 Pro Max",
+        "features": [
+          "Viền thép không gỉ",
+          "Cổng sạc không được đề cập"
+        ],
+        "pros": [
+          "Viền thép không gỉ đẹp và sang trọng hơn so với viền Titan của iPhone 15 Pro Max"
+        ],
+        "cons": [
+          "Không có các tính năng mới như Type-C, Action Button"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho những người ưu tiên vẻ ngoài sang trọng và không cần nhiều tính năng mới nhất",
+        "type": "compare"
+      }
+    ]
+  }
+}

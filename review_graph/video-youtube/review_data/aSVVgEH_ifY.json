@@ -1,0 +1,78 @@
+{
+  "video_id": "aSVVgEH_ifY",
+  "video_url": "https://www.youtube.com/watch?v=aSVVgEH_ifY",
+  "video_title": "Mở hộp Galaxy Z Flip7 MÀN HÌNH VÔ CỰC nhưng Chip EXYNOS 2500",
+  "video_author": "Dương Dê",
+  "upload_date": "2025-07-10",
+  "content": {
+    "products": [
+      {
+        "name": "Samsung Galaxy Z Flip7",
+        "features": [
+          "Màn hình ngoài lớn hơn với kích thước 4,1 inch, tần số quét 120Hz, độ phân giải cao hơn 948x1048 pixel, kính cường lực Victus 2",
+          "Màn hình trong có kích thước 6,9 inch, tỷ lệ màn hình 21:9, độ sáng cao 2600 nits",
+          "Chip Exynos 2500, tiến trình sản xuất 3nm",
+          "RAM 12GB, bộ nhớ trong 256GB",
+          "Camera chính 50MP, khẩu độ f/1.8, tiêu cự 23mm, camera góc siêu rộng 12MP, khẩu độ f/2.2, tiêu cự 13mm",
+          "Pin 4300mAh, hỗ trợ sạc nhanh 25W, sạc không dây 15W và sạc ngược 4,5W",
+          "Thiết kế mỏng hơn, khi gập lại chỉ còn 13,7mm"
+        ],
+        "pros": [
+          "Màn hình ngoài lớn và chất lượng cao hơn, hỗ trợ hiển thị tốt hơn cho các tác vụ như selfie",
+          "Màn hình trong lớn hơn, độ sáng cao, nếp gấp ít cảm nhận được, cải thiện trải nghiệm sử dụng",
+          "Hiệu năng tốt với chip Exynos mới, quản lý nhiệt tốt",
+          "Thiết kế mỏng và nhẹ hơn, dễ dàng mang theo"
+        ],
+        "cons": [
+          "Camera không có nhiều cải tiến so với thế hệ trước",
+          "Dung lượng pin không tăng đáng kể, sạc nhanh chỉ 25W"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho người dùng thích thiết kế gập độc đáo, cần màn hình ngoài chất lượng cao cho các tác vụ nhanh và hiệu năng tốt cho các tác vụ hàng ngày.",
+        "type": "main"
+      },
+      {
+        "name": "Samsung Galaxy Z Flip6",
+        "features": [
+          "Màn hình ngoài 3,4 inch, độ phân giải thấp hơn, kính cường lực cũ",
+          "Màn hình trong 6,7 inch, tỷ lệ màn hình 22:9, độ sáng thấp hơn",
+          "Chip Snapdragon 8 Gen 3, tiến trình sản xuất 4nm",
+          "Camera chính 50MP, camera góc siêu rộng 12MP",
+          "Pin 4000mAh, hỗ trợ sạc nhanh 25W"
+        ],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      },
+      {
+        "name": "Samsung Galaxy Z Flip5",
+        "features": [],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "Được khuyên nên nâng cấp từ Z Flip4 do có sự khác biệt đáng kể về màn hình phụ bên ngoài.",
+        "type": "compare"
+      },
+      {
+        "name": "Samsung Galaxy Z Flip4",
+        "features": [],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "Không khuyên nâng cấp nếu đang sử dụng Samsung Galaxy Z Flip3 do không có nhiều khác biệt.",
+        "type": "compare"
+      },
+      {
+        "name": "Samsung Galaxy Z Flip3",
+        "features": [],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      }
+    ]
+  }
+}

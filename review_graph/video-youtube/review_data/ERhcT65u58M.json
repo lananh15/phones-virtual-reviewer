@@ -1,0 +1,84 @@
+{
+  "video_id": "ERhcT65u58M",
+  "video_url": "https://www.youtube.com/watch?v=ERhcT65u58M",
+  "video_title": "Nên mua Galaxy S25 nào? S25 Ultra, S25 thường, S25+ khác nhau ra sao?",
+  "video_author": "Duy Luân Dễ Thương",
+  "upload_date": "2025-01-23",
+  "content": {
+    "products": [
+      {
+        "name": "Samsung Galaxy S25",
+        "features": [
+          "Kích thước màn hình 6.2 inch",
+          "Cảm giác cầm nhẹ và thoải mái",
+          "Camera chính 50MP, camera góc siêu rộng 12MP, zoom 3x 10MP",
+          "Độ phân giải màn hình Full HD+",
+          "Tần suất quét màn hình từ 1 đến 120Hz",
+          "Sử dụng chip Snapdragon 8 Elite for Galaxy",
+          "RAM 12GB",
+          "Các tính năng AI như ra lệnh bằng tiếng Việt, audio eraser, best face"
+        ],
+        "pros": [
+          "Thiết kế nhỏ gọn, cầm nhẹ và thoải mái",
+          "Màn hình có độ phân giải tốt, phù hợp với kích thước",
+          "Hiệu năng mạnh mẽ với chip Snapdragon 8 Elite và RAM 12GB",
+          "Các tính năng AI hữu ích"
+        ],
+        "cons": [
+          "Có thể không phù hợp với người dùng thích màn hình lớn hơn"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho người dùng thích điện thoại nhỏ gọn, nhẹ và có nhu cầu sử dụng thông thường",
+        "type": "main"
+      },
+      {
+        "name": "Samsung Galaxy S25 Plus",
+        "features": [
+          "Kích thước màn hình 6.7 inch",
+          "Cảm giác cầm nặng hơn một chút so với S25",
+          "Camera chính 50MP, camera góc siêu rộng 12MP, zoom 3x 10MP",
+          "Độ phân giải màn hình Quad HD+",
+          "Tần suất quét màn hình từ 1 đến 120Hz",
+          "Sử dụng chip Snapdragon 8 Elite for Galaxy",
+          "RAM 12GB",
+          "Các tính năng AI như ra lệnh bằng tiếng Việt, audio eraser, best face"
+        ],
+        "pros": [
+          "Màn hình lớn hơn, phù hợp cho người dùng thích diện tích hiển thị lớn",
+          "Hiệu năng mạnh mẽ với chip Snapdragon 8 Elite và RAM 12GB",
+          "Các tính năng AI hữu ích"
+        ],
+        "cons": [
+          "Nặng hơn so với S25, có thể không phù hợp với người dùng thích điện thoại nhẹ"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho người dùng thích màn hình lớn và có nhu cầu sử dụng nhiều nội dung trên điện thoại",
+        "type": "main"
+      },
+      {
+        "name": "Samsung Galaxy S25 Ultra",
+        "features": [
+          "Màn hình chống chói",
+          "Camera chính 200MP, camera góc siêu rộng 50MP, zoom 3x 10MP và 5x 50MP",
+          "Độ phân giải màn hình Quad HD+",
+          "Tần suất quét màn hình từ 1 đến 120Hz",
+          "Sử dụng chip Snapdragon 8 Elite for Galaxy",
+          "RAM 12GB",
+          "Các tính năng AI như ra lệnh bằng tiếng Việt, audio eraser, best face"
+        ],
+        "pros": [
+          "Màn hình chống chói hiệu quả, phù hợp sử dụng ngoài trời",
+          "Camera cải tiến mạnh mẽ, đặc biệt là khả năng zoom và chụp đêm",
+          "Hiệu năng mạnh mẽ với chip Snapdragon 8 Elite và RAM 12GB",
+          "Các tính năng AI hữu ích"
+        ],
+        "cons": [
+          "Nặng và dày hơn so với các mẫu khác, có thể không phù hợp với người dùng thích điện thoại nhỏ gọn"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho người dùng chuyên nghiệp cần khả năng chụp ảnh và quay phim cao cấp, cũng như sử dụng trong điều kiện ánh sáng phức tạp",
+        "type": "main"
+      }
+    ]
+  }
+}

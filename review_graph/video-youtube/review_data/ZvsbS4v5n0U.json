@@ -1,0 +1,87 @@
+{
+  "video_id": "ZvsbS4v5n0U",
+  "video_url": "https://www.youtube.com/watch?v=ZvsbS4v5n0U",
+  "video_title": "iPhone 15 sau 2 năm vẫn còn 15 TRIỆU: ĐÁNG GIÁ hay vẫn BỊ ĐẮT?",
+  "video_author": "Vật Vờ Studio",
+  "upload_date": "2025-07-21",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 15",
+        "features": [
+          "Camera 48MP",
+          "Chip Apple A16 Bionic",
+          "Dynamic Island",
+          "Cổng sạc USB-C",
+          "Màn hình 6.1 inch",
+          "Quản lý nhiệt độ tốt",
+          "Thiết kế mới với màu sắc pastel và cạnh bo tròn"
+        ],
+        "pros": [
+          "Giá cả phải chăng",
+          "Thiết kế đẹp và hiện đại",
+          "Hiệu năng mạnh mẽ",
+          "Camera chất lượng cao",
+          "Quản lý nhiệt độ tốt",
+          "Cảm giác cầm nắm thoải mái"
+        ],
+        "cons": [
+          "Màn hình chỉ 60Hz",
+          "Không có camera telephoto",
+          "Màu sắc ảnh có thể ngả vàng",
+          "Không được trang bị Apple Intelligent"
+        ],
+        "price": "15,490,000 VND cho phiên bản 128GB, 18,490,000 VND cho phiên bản 256GB",
+        "recommendation": "Phù hợp cho người dùng cần một chiếc điện thoại có hiệu năng tốt, thiết kế đẹp và camera chất lượng cao với mức giá hợp lý. Đặc biệt phù hợp với sinh viên và người dùng trẻ.",
+        "type": "main"
+      },
+      {
+        "name": "iPhone 13",
+        "features": [
+          "Màn hình 60Hz",
+          "Quản lý nhiệt độ kém"
+        ],
+        "pros": [
+          "Hiệu năng đủ dùng cho các tác vụ cơ bản"
+        ],
+        "cons": [
+          "Nhanh nóng khi sử dụng các tác vụ nặng"
+        ],
+        "price": "Khoảng 16.7 triệu VND cách đây 2 năm",
+        "recommendation": "Phù hợp cho người dùng không yêu cầu cao về hiệu năng và quản lý nhiệt.",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 16",
+        "features": [
+          "Action button",
+          "Apple Intelligent"
+        ],
+        "pros": [
+          "Thêm tính năng mới"
+        ],
+        "cons": [
+          "Không đủ lý do để nâng cấp từ iPhone 15"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho người dùng muốn những tính năng mới nhất từ Apple nhưng không cần thiết phải nâng cấp nếu đang sử dụng iPhone 15.",
+        "type": "compare"
+      },
+      {
+        "name": "OPPO Reno14 5G",
+        "features": [
+          "Màn hình 120Hz",
+          "Camera telephoto"
+        ],
+        "pros": [
+          "Màn hình mượt mà hơn",
+          "Chụp ảnh zoom tốt hơn"
+        ],
+        "cons": [],
+        "price": "",
+        "recommendation": "Phù hợp cho người dùng cần một màn hình hiển thị mượt mà và chụp ảnh zoom tốt.",
+        "type": "compare"
+      }
+    ]
+  }
+}

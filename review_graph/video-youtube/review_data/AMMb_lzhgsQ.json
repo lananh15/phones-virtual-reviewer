@@ -1,0 +1,58 @@
+{
+  "video_id": "AMMb_lzhgsQ",
+  "video_url": "https://www.youtube.com/watch?v=AMMb_lzhgsQ",
+  "video_title": "So sánh Galaxy A36 vs Galaxy A55: LỰA CHỌN DỄ HAY KHÓ?",
+  "video_author": "Dương Dê",
+  "upload_date": "20250322",
+  "content": {
+    "products": [
+      {
+        "name": "Samsung Galaxy A36 5G",
+        "features": [
+          "Hỗ trợ sạc 45W",
+          "Kháng nước, kháng bụi IP67",
+          "Độ mỏng 7.4mm",
+          "Màn hình lớn, độ sáng tốt",
+          "Hiệu năng tương đồng với Samsung Galaxy A55",
+          "Vân tay trong màn hình",
+          "Loa kép"
+        ],
+        "pros": [
+          "Thiết kế mỏng và nhẹ, cảm giác cầm nắm thoải mái",
+          "Màn hình lớn và sáng",
+          "Hỗ trợ sạc nhanh",
+          "Giá rẻ hơn Samsung Galaxy A55"
+        ],
+        "cons": [
+          "Khung nhựa",
+          "Camera góc rộng kém hơn Samsung Galaxy A55"
+        ],
+        "price": "8 triệu VND",
+        "recommendation": "Nếu cần tiết kiệm thì nên mua Samsung Galaxy A36 thay vì Samsung Galaxy A55",
+        "type": "main"
+      },
+      {
+        "name": "Samsung Galaxy A55 5G",
+        "features": [
+          "Hỗ trợ sạc 25W",
+          "Kháng nước, kháng bụi IP67",
+          "Độ mỏng 8.2mm",
+          "Hiệu năng lý thuyết cao hơn Samsung Galaxy A36",
+          "Vân tay trong màn hình",
+          "Loa kép"
+        ],
+        "pros": [
+          "Chất liệu khung tốt hơn Samsung Galaxy A36",
+          "Camera góc rộng và selfie tốt hơn Samsung Galaxy A36"
+        ],
+        "cons": [
+          "Hỗ trợ sạc chậm hơn Samsung Galaxy A36",
+          "Giá cao hơn Samsung Galaxy A36"
+        ],
+        "price": "8.8 triệu VND",
+        "recommendation": "",
+        "type": "compare"
+      }
+    ]
+  }
+}

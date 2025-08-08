@@ -1,0 +1,48 @@
+{
+  "video_id": "8LX8hHZkw1Y",
+  "video_url": "https://www.youtube.com/watch?v=8LX8hHZkw1Y",
+  "video_title": "Đánh giá chi tiết Xiaomi 15 !!!",
+  "video_author": "Tony Phùng Studio",
+  "upload_date": "2025-04-25",
+  "content": {
+    "products": [
+      {
+        "name": "Xiaomi 15 5G",
+        "features": [
+          "Thiết kế mỏng, màn hình 6,36 inch",
+          "Khung viền kim loại, mặt lưng kính",
+          "Hiệu năng mạnh mẽ với Snapdragon 8 Elite",
+          "Bộ nhớ lên tới 512GB, RAM 12GB",
+          "Pin 5240mAh, sạc nhanh 90W",
+          "Camera chính sử dụng cảm biến Omnivision",
+          "Ống kính camera góc tele 2,6X (60mm), ống kính camera góc siêu rộng"
+        ],
+        "pros": [
+          "Thiết kế gọn gàng, màn hình lớn",
+          "Hiệu năng cao, phù hợp với nhu cầu đa dạng từ giải trí đến công việc",
+          "Dung lượng pin lớn, hỗ trợ sạc nhanh",
+          "Chất lượng camera tốt, đặc biệt là trong điều kiện ánh sáng tốt",
+          "Giá cả hợp lý so với các tính năng"
+        ],
+        "cons": [
+          "Cụm camera lớn có thể gây vướng khi sử dụng",
+          "Một số vấn đề về phần mềm và ứng dụng",
+          "Chất lượng ảnh trong điều kiện ánh sáng yếu không ổn định",
+          "Cảm biến camera chưa thể hiện tốt với màu da người Việt trong một số trường hợp"
+        ],
+        "price": "Dưới 20 triệu đồng",
+        "recommendation": "Phù hợp cho người dùng cần một chiếc điện thoại màn hình nhỏ, pin tốt với nhiều tính năng cao cấp",
+        "type": "main"
+      },
+      {
+        "name": "Samsung Galaxy S25",
+        "features": [],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "Lựa chọn nếu cần một thương hiệu có hỗ trợ tốt hơn về phụ kiện và bảo hành",
+        "type": "compare"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "video_id": "O0czMdLN8C0",
+  "video_url": "https://www.youtube.com/watch?v=O0czMdLN8C0",
+  "video_title": "Review iPhone 15 Plus sau 6 tháng: không hối hận",
+  "video_author": "Duy Luân Dễ Thương",
+  "upload_date": "2024-01-24",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 15 Plus",
+        "features": [
+          "Cảm giác cầm nhẹ nhàng, viền kim loại bo tròn",
+          "Mặt sau làm nhám, không bám vân tay",
+          "Màu sắc đa dạng và bắt mắt",
+          "Màn hình lớn, chất lượng hiển thị tốt",
+          "Camera chất lượng cao, 48 megapixel, công nghệ pixel binding",
+          "Thời gian sử dụng pin lâu",
+          "Chip Apple A16 Bionic",
+          "Cổng kết nối USB-C"
+        ],
+        "pros": [
+          "Thiết kế cao cấp, cảm giác cầm thoải mái",
+          "Màu sắc đẹp, phong phú",
+          "Hiệu năng mạnh mẽ, phù hợp với nhiều nhu cầu sử dụng",
+          "Camera chụp ảnh và quay video chất lượng cao",
+          "Thời gian sử dụng pin ấn tượng",
+          "Hỗ trợ USB-C, thuận tiện cho việc sạc và kết nối"
+        ],
+        "cons": [
+          "Màn hình không hỗ trợ tần số quét 120Hz",
+          "Không có camera zoom quang học",
+          "Cổng USB-C chỉ hỗ trợ tốc độ truyền dữ liệu USB 2.0"
+        ],
+        "price": "21 triệu VND",
+        "recommendation": "Phù hợp cho đa số mọi người, đặc biệt là những ai không có nhu cầu chụp ảnh zoom cao",
+        "type": "main"
+      }
+    ]
+  }
+}

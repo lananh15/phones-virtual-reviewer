@@ -1,0 +1,63 @@
+{
+  "video_id": "CcX0Y6EmWYU",
+  "video_url": "https://www.youtube.com/watch?v=CcX0Y6EmWYU",
+  "video_title": "Review Oppo Find X8: xài iPhone mà chán thì chuyển qua con này",
+  "video_author": "Duy Luân Dễ Thương",
+  "upload_date": "20241216",
+  "content": {
+    "products": [
+      {
+        "name": "OPPO Find X8",
+        "features": [
+          "Thiết kế đơn giản, nhẹ",
+          "Cảm giác cầm chắc chắn",
+          "Viền màn hình siêu mỏng",
+          "Camera sau mỏng, tích hợp hệ thống zoom kính tiềm vọng",
+          "Màu sắc hình ảnh ấm áp, đẹp mắt",
+          "Chụp thiếu sáng tốt",
+          "Tính năng AI trong camera",
+          "Dung lượng pin 5600 mAh",
+          "Sử dụng chip Dimensity 9400",
+          "Thời gian sử dụng pin dài"
+        ],
+        "pros": [
+          "Thiết kế nhẹ và đơn giản",
+          "Cảm giác cầm thoải mái",
+          "Viền màn hình mỏng",
+          "Camera sau mỏng, chất lượng hình ảnh tốt",
+          "Màu sắc hình ảnh đẹp",
+          "Chụp thiếu sáng hiệu quả",
+          "Tính năng AI hữu ích",
+          "Dung lượng pin lớn",
+          "Hiệu năng tốt từ chip Dimensity 9400",
+          "Thời gian sử dụng pin dài"
+        ],
+        "cons": [
+          "Camera trước không có autofocus",
+          "Khả năng quay phim chưa bằng iPhone",
+          "Khi quay thiếu sáng có thể bị giật hình",
+          "Chuyển giữa các ống kính có thể làm thay đổi màu sắc"
+        ],
+        "price": "23 triệu cho phiên bản 16GB RAM, 512GB bộ nhớ trong",
+        "recommendation": "Phù hợp cho những người thích chụp ảnh và không yêu cầu cao về quay phim, cũng như những ai cần một thiết bị với thời gian sử dụng pin dài.",
+        "type": "main"
+      },
+      {
+        "name": "OPPO Find X8 Pro 5G",
+        "features": [
+          "Thiết kế tương lai, công nghệ cao"
+        ],
+        "pros": [
+          "Thiết kế hấp dẫn"
+        ],
+        "cons": [
+          "Nặng hơn",
+          "Cảm giác cầm có thể gây mỏi khi sử dụng lâu"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho những người thích thiết kế công nghệ cao và không quan tâm đến trọng lượng của thiết bị.",
+        "type": "compare"
+      }
+    ]
+  }
+}

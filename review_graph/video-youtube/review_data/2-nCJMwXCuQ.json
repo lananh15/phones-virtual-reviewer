@@ -1,0 +1,81 @@
+{
+  "video_id": "2-nCJMwXCuQ",
+  "video_url": "https://www.youtube.com/watch?v=2-nCJMwXCuQ",
+  "video_title": "Đánh giá Galaxy S23 Plus sau hơn 1 tháng: KHEN CHÊ RÕ RÀNG",
+  "video_author": "Dương Dê",
+  "upload_date": "20230310",
+  "content": {
+    "products": [
+      {
+        "name": "Samsung Galaxy S23 Plus",
+        "features": [
+          "Màn hình 1080p với mật độ điểm ảnh 393 ppi",
+          "Chip Snapdragon 8 Gen 2",
+          "RAM 8GB",
+          "Bộ nhớ trong tối thiểu 256GB",
+          "Hỗ trợ sạc nhanh 45W",
+          "Bluetooth 5.3",
+          "Cảm biến vân tay trong màn hình"
+        ],
+        "pros": [
+          "Giá thực tế thấp hơn nhiều so với giá niêm yết",
+          "Thiết kế thoải mái khi cầm nắm",
+          "Hiệu năng tốt với chip Snapdragon 8 Gen 2",
+          "Bộ nhớ trong 256GB là tiêu chuẩn, phù hợp cho nhu cầu lưu trữ cao",
+          "Màn hình sáng, tần số quét cao 120Hz cho trải nghiệm mượt mà",
+          "Camera có hiệu suất tốt, hỗ trợ bởi phần mềm",
+          "Dung lượng pin tăng, đủ sử dụng trong một ngày làm việc"
+        ],
+        "cons": [
+          "Thiết kế không có nhiều đột phá, giống các mẫu Samsung trước",
+          "Hiệu năng RAM không quá ấn tượng, thường xuyên phải tải lại ứng dụng",
+          "Màn hình không sắc nét bằng iPhone 14 Plus",
+          "Màu sắc hiển thị không chân thực bằng iPhone 14 Plus"
+        ],
+        "price": "Giá thực tế rẻ hơn nhiều so với giá niêm yết, cụ thể không được nêu",
+        "recommendation": "Phù hợp cho những ai cần một chiếc điện thoại với hiệu năng tốt, bộ nhớ lớn và thích trải nghiệm Android. Là lựa chọn hợp lý hơn so với Samsung Galaxy S23 khi xét về giá cả và tính năng.",
+        "type": "main"
+      },
+      {
+        "name": "Samsung Galaxy S22 Plus",
+        "features": [],
+        "pros": [],
+        "cons": [
+          "Giá cao hơn nhiều so với S22 khi xét đến các tính năng tương đương"
+        ],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 14 Plus",
+        "features": [],
+        "pros": [
+          "Màn hình sắc nét hơn Samsung Galaxy S23 Plus",
+          "Màu sắc hiển thị chân thực hơn"
+        ],
+        "cons": [
+          "Không có tần số quét cao như Samsung Galaxy S23 Plus"
+        ],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      },
+      {
+        "name": "Xiaomi 13 Pro",
+        "features": [],
+        "pros": [
+          "Màn hình độ phân giải cao",
+          "Hỗ trợ xạc nhanh",
+          "Hiệu năng tốt"
+        ],
+        "cons": [
+          "Giá cao hơn Samsung Galaxy S23 Plus sau khi đã giảm giá"
+        ],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      }
+    ]
+  }
+}

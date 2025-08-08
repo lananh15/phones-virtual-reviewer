@@ -1,0 +1,53 @@
+{
+  "video_id": "3pFDTdWYx_E",
+  "video_url": "https://www.youtube.com/watch?v=3pFDTdWYx_E",
+  "video_title": "vivo ra con máy được thật sự: vivo V30 5G DNA Flagship & Snapdragon 7 Gen 3 - Lưu ý 2 điểm cuối!",
+  "video_author": "relab",
+  "upload_date": "2024-05-17",
+  "content": {
+    "products": [
+      {
+        "name": "Vivo V30 5G",
+        "features": [
+          "Màu sắc Sương Mai Đảo Ngọc, cảm hứng từ bãi biển cát trắng và biển xanh",
+          "Thiết kế mặt lưng cong, vệt sóng",
+          "Mặt lưng kính",
+          "Thiết kế camera có ý nghĩa về mặt vật lý, vòng sáng aura",
+          "Cảm biến hình ảnh từ Omivision",
+          "Phần mềm xử lý hình ảnh tốt",
+          "Chế độ chụp chân dung HD, sử dụng cảm biến chính 50MP",
+          "Màn hình AMOLED, độ phân giải FullHD 120Hz, độ sáng tối đa 1200 nits",
+          "Không có jack cắm tai nghe 3,5mm",
+          "Pin 5000mAh",
+          "Sạc nhanh 80W",
+          "Cảm biến vân tay tích hợp trong màn hình"
+        ],
+        "pros": [
+          "Thiết kế đẹp, màu sắc ấn tượng",
+          "Chất lượng chụp ảnh tốt, đặc biệt là trong điều kiện thiếu sáng",
+          "Màn hình sáng và rõ nét",
+          "Thời lượng pin tốt, hỗ trợ sạc nhanh"
+        ],
+        "cons": [
+          "Không có jack cắm tai nghe 3,5mm",
+          "Cảm biến hình ảnh Omivision không phải là lựa chọn hàng đầu",
+          "Không phù hợp cho việc chơi game nặng"
+        ],
+        "price": "14 triệu",
+        "recommendation": "Phù hợp cho người dùng ưu tiên chụp ảnh và thời lượng pin, không phù hợp cho game thủ",
+        "type": "main"
+      },
+      {
+        "name": "Vivo V30e",
+        "features": [
+          "Sử dụng chip Snapdragon 6 Gen 1"
+        ],
+        "pros": [],
+        "cons": [],
+        "price": "8-9 triệu",
+        "recommendation": "",
+        "type": "compare"
+      }
+    ]
+  }
+}

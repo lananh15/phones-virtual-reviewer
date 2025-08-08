@@ -1,0 +1,66 @@
+{
+  "video_id": "39C3REaOVqE",
+  "video_url": "https://www.youtube.com/watch?v=39C3REaOVqE",
+  "video_title": "REVIEW OPPO FIND X8 PRO GẦN 30 TRIỆU: ÔNG HOÀNG ZOOM XA, ĐẶC TRỊ ĐU IDOL, ĐI CONCERT!!!",
+  "video_author": "Ngô Đức Duy",
+  "upload_date": "20250121",
+  "content": {
+    "products": [
+      {
+        "name": "OPPO Find X8 Pro 5G",
+        "features": [
+          "Chip Dimensity 9400",
+          "16GB RAM",
+          "Màn hình OLED 6.78 inch, 120Hz, độ sáng tối đa 4500 nits",
+          "Pin 6000mAh",
+          "Hệ thống camera Hasselblad 4 mắt, mỗi camera 50MP",
+          "Khả năng zoom tối đa 120X",
+          "ColorOS 15",
+          "Mặt lưng có hoạ tiết ngọc trai",
+          "Sạc siêu nhanh 80W, sạc không dây 50W"
+        ],
+        "pros": [
+          "Thiết kế mặt lưng đẹp và độc đáo",
+          "Màn hình sáng và mượt",
+          "Hiệu năng mạnh mẽ",
+          "Khả năng zoom ấn tượng",
+          "Thời lượng pin dài",
+          "Trải nghiệm người dùng mượt mà với ColorOS 15"
+        ],
+        "cons": [
+          "Kích thước camera lớn gây khó chịu khi cầm",
+          "Màn hình cong có thể gây khó chịu khi vuốt từ mép",
+          "AI trong camera có thể làm ảnh trông giả khi zoom quá xa"
+        ],
+        "price": "23 triệu VND",
+        "recommendation": "Phù hợp cho những ai thích chụp ảnh, quay video, đặc biệt là trong các sự kiện như concert với khả năng zoom mạnh mẽ.",
+        "type": "main"
+      },
+      {
+        "name": "OPPO Find X8",
+        "features": [
+          "Khả năng zoom mạnh mẽ"
+        ],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "Là một lựa chọn tốt với những tính năng tương tự Oppo Find X8 Pro nhưng có thể có giá thấp hơn.",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 16 Pro Max",
+        "features": [
+          "Pin 4600mAh"
+        ],
+        "pros": [],
+        "cons": [
+          "Nặng và dày hơn so với OPPO Find X8 Pro",
+          "Khả năng zoom tối đa 25X"
+        ],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      }
+    ]
+  }
+}

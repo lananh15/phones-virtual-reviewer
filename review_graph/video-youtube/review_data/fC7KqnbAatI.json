@@ -1,0 +1,73 @@
+{
+  "video_id": "fC7KqnbAatI",
+  "video_url": "https://www.youtube.com/watch?v=fC7KqnbAatI",
+  "video_title": "iPhone 12 Pro Max Thực Sự Đã Lỗi Thời? Còn Đáng Mua Trong Năm 2025?",
+  "video_author": "F.A CHANNEL",
+  "upload_date": "2025-01-09",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 12 Pro Max",
+        "features": [
+          "Màn hình tai thỏ",
+          "Sử dụng cổng sạc Lightning",
+          "Thiết kế to và nặng",
+          "Camera ba mắt vẫn chưa lỗi thời",
+          "Màn hình 60Hz",
+          "Chip Apple A14",
+          "Bộ nhớ trong 128GB"
+        ],
+        "pros": [
+          "Camera ba mắt vẫn chưa lỗi thời",
+          "Cấu hình đủ tốt để sử dụng 2-3 năm tới",
+          "Giá cả phải chăng so với các mẫu iPhone mới hơn",
+          "Không có vấn đề sọc màn hình như một số mẫu mới",
+          "Phù hợp với nhu cầu cơ bản và sử dụng lâu dài"
+        ],
+        "cons": [
+          "Thiết kế lớn và nặng",
+          "Cổng sạc Lightning bắt đầu lỗi thời",
+          "Màn hình chỉ 60Hz",
+          "Thời lượng pin kém hơn so với iPhone 13"
+        ],
+        "price": "",
+        "recommendation": "Đáng mua cho những người dùng có nhu cầu phổ thông và không yêu cầu cao về công nghệ mới nhất",
+        "type": "main"
+      },
+      {
+        "name": "iPhone 13 Pro Max",
+        "features": [],
+        "pros": [],
+        "cons": [
+          "Vấn đề sọc màn hình"
+        ],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 11 Pro Max",
+        "features": [],
+        "pros": [],
+        "cons": [
+          "Lỗi thời hơn iPhone 12 Pro Max",
+          "Không có lựa chọn bộ nhớ 128GB"
+        ],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 13 Pro",
+        "features": [],
+        "pros": [],
+        "cons": [
+          "Kích thước màn hình nhỏ"
+        ],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      }
+    ]
+  }
+}

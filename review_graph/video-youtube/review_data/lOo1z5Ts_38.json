@@ -1,0 +1,45 @@
+{
+  "video_id": "lOo1z5Ts_38",
+  "video_url": "https://www.youtube.com/watch?v=lOo1z5Ts_38",
+  "video_title": "Đánh giá iPhone 14 Pro Max sau 3 năm (còn nên mua?)",
+  "video_author": "Người Chơi Đồ",
+  "upload_date": "2025-06-15",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 14 Pro Max",
+        "features": [
+          "Viền thép không gỉ",
+          "Camera 48MP, 3 cam, có ProRAW",
+          "Màn hình viên thuốc",
+          "Cổng Lightning"
+        ],
+        "pros": [
+          "Ngoại hình sang trọng với viền thép bóng",
+          "Camera chất lượng cao, không khác biệt nhiều so với các đời mới",
+          "Trải nghiệm sử dụng mượt mà, phản hồi nhanh",
+          "Giá cả hợp lý tại thời điểm hiện tại"
+        ],
+        "cons": [
+          "Nặng, khó cầm một tay",
+          "Cổng Lightning kém tiện lợi so với Type-C"
+        ],
+        "price": "16,7 triệu VND cho phiên bản 128GB eSIM, pin 88%",
+        "recommendation": "Phù hợp cho những người thích ngoại hình sang trọng và không cần những tính năng mới nhất của các đời iPhone sau",
+        "type": "main"
+      },
+      {
+        "name": "iPhone 13 Pro Max",
+        "features": [],
+        "pros": [
+          "Trải nghiệm sử dụng mượt mà, phản hồi nhanh",
+          "Màn hình đẹp, có ProMotion"
+        ],
+        "cons": [],
+        "price": "",
+        "recommendation": "Vẫn là một lựa chọn tốt cho những ai không cần những cải tiến mới nhất",
+        "type": "compare"
+      }
+    ]
+  }
+}

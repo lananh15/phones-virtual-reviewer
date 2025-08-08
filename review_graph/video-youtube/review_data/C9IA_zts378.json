@@ -1,0 +1,73 @@
+{
+  "video_id": "C9IA_zts378",
+  "video_url": "https://www.youtube.com/watch?v=C9IA_zts378",
+  "video_title": "Đánh giá chi tiết Xiaomi 14T và Xiaomi 14T Pro: KHEN CHÊ RÕ RÀNG!",
+  "video_author": "Dương Dê",
+  "upload_date": "2024-10-16",
+  "content": {
+    "products": [
+      {
+        "name": "Xiaomi 14T",
+        "features": [
+          "Củ sạc 67W",
+          "Ốp lưng đi kèm",
+          "Thiết kế màu đen không để lại vân tay",
+          "Khung nhựa",
+          "Tiêu chuẩn kháng nước kháng bụi IP68",
+          "Màn hình 144Hz, 1.5K, độ sáng 4K nits",
+          "Chip Dimensity 8300",
+          "RAM 12GB",
+          "Bộ nhớ trong 512GB",
+          "Camera chính khẩu độ mở không bằng Xiaomi 14T Pro, camera tele 2X",
+          "Pin 5000mAh",
+          "Loa kép",
+          "Cảm biến vân tay"
+        ],
+        "pros": [
+          "Sạc nhanh, 45 phút sạc đầy",
+          "Màn hình sáng và chi tiết",
+          "Hiệu năng mạnh mẽ",
+          "Bộ nhớ trong lớn",
+          "Camera chụp ảnh tốt trong điều kiện thiếu sáng"
+        ],
+        "cons": [
+          "Khung nhựa so với khung kim loại của bản Pro",
+          "Camera chính và tele kém hơn so với Xiaomi 14T Pro"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho người dùng cần hiệu năng cao và bộ nhớ lớn với mức giá hợp lý",
+        "type": "main"
+      },
+      {
+        "name": "Xiaomi 14T Pro 5G",
+        "features": [
+          "Củ sạc 120W",
+          "Ốp lưng đi kèm",
+          "Thiết kế màu đen không để lại vân tay",
+          "Khung kim loại",
+          "Tiêu chuẩn kháng nước kháng bụi IP68",
+          "Màn hình 144Hz, 1.5K, độ sáng 4K nits",
+          "Chip Dimensity 9300 Plus",
+          "RAM 12GB",
+          "Bộ nhớ trong 512GB",
+          "Camera chính khẩu độ mở lớn hơn Xiaomi 14T, camera tele 2.6X",
+          "Pin 5000mAh",
+          "Loa kép",
+          "Cảm biến vân tay"
+        ],
+        "pros": [
+          "Sạc cực nhanh, vài chục phút sạc đầy",
+          "Màn hình sáng và chi tiết",
+          "Hiệu năng mạnh mẽ",
+          "Bộ nhớ trong lớn",
+          "Camera chụp ảnh tốt trong điều kiện thiếu sáng",
+          "Chất liệu khung kim loại cao cấp"
+        ],
+        "cons": [],
+        "price": "",
+        "recommendation": "Phù hợp cho người dùng cần hiệu năng cao, camera tốt và thiết kế cao cấp",
+        "type": "main"
+      }
+    ]
+  }
+}

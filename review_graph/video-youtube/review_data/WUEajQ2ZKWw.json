@@ -1,0 +1,46 @@
+{
+  "video_id": "WUEajQ2ZKWw",
+  "video_url": "https://www.youtube.com/watch?v=WUEajQ2ZKWw",
+  "video_title": "Galaxy S24 Rẻ Hơn 7 Triệu - Rất Đáng Mua Trong Năm 2025 Vì Lý Do Này!",
+  "video_author": "F.A CHANNEL",
+  "upload_date": "2025-04-09",
+  "content": {
+    "products": [
+      {
+        "name": "Samsung Galaxy S24 Like New",
+        "features": [
+          "Phiên bản chạy chip Snapdragon 8 Zen 3",
+          "Màn hình Dynamic AMOLED, LTPO, HD, 6.2 inch, 120Hz",
+          "Camera ba ống kính: chính, góc rộng, tele",
+          "Dung lượng pin 4000 mAh, sạc 25W",
+          "Phiên bản 128GB và 256GB, UFS 3.1 và UFS 4.0",
+          "Thiết kế mỏng nhẹ, trọng lượng 167g"
+        ],
+        "pros": [
+          "Giá rẻ hơn so với các phiên bản mới hơn",
+          "Hiệu năng tương đương với Galaxy S25",
+          "Tối ưu hóa hiệu năng và phần mềm tốt",
+          "Thời gian sử dụng pin tốt",
+          "Chất lượng camera tốt, không khác biệt nhiều so với Galaxy S25",
+          "Thiết kế nhẹ và mỏng, dễ dàng cầm nắm và mang theo"
+        ],
+        "cons": [
+          "Phiên bản chạy Exynos 2400 kém hơn Snapdragon",
+          "Các tính năng AI không đầy đủ như các phiên bản cao cấp hơn"
+        ],
+        "price": "10-11 triệu đồng",
+        "recommendation": "Nếu bạn đang tìm kiếm một chiếc điện thoại có hiệu năng tốt, giá cả phải chăng và không cần những tính năng AI cao cấp, thì Samsung Galaxy S24 Like New là một lựa chọn hợp lý.",
+        "type": "main"
+      },
+      {
+        "name": "Samsung Galaxy S25",
+        "features": [],
+        "pros": [],
+        "cons": [],
+        "price": "17 triệu 6",
+        "recommendation": "",
+        "type": "compare"
+      }
+    ]
+  }
+}

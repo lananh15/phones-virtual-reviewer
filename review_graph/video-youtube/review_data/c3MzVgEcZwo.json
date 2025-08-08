@@ -1,0 +1,59 @@
+{
+  "video_id": "c3MzVgEcZwo",
+  "video_url": "https://www.youtube.com/watch?v=c3MzVgEcZwo",
+  "video_title": "Review Samsung Galaxy Z Fold 5",
+  "video_author": "Duy Luân Dễ Thương",
+  "upload_date": "2023-08-04",
+  "content": {
+    "products": [
+      {
+        "name": "Samsung Galaxy Z Fold5",
+        "features": [
+          "Thiết kế không khoảng hở, gần như khít hẳn",
+          "Mỏng hơn so với phiên bản trước",
+          "Màn hình phụ phía trước có tỷ lệ dài và hợp lý, dễ sử dụng bằng một tay",
+          "Màn hình gập bên trong lớn hơn, hiển thị nội dung nhiều hơn",
+          "Camera chất lượng tốt",
+          "Thời gian sử dụng pin trong vòng 1 ngày",
+          "Chạy chip Snapdragon 8 Gen 2"
+        ],
+        "pros": [
+          "Thiết kế liền lạc, đẹp mắt",
+          "Cảm giác cầm nắm chắc chắn, cao cấp",
+          "Trải nghiệm màn hình gập độc đáo, hiệu quả cao khi xem bản đồ, dịch web, đọc văn bản",
+          "Ứng dụng đã được tối ưu cho màn hình gập",
+          "Hiệu năng mạnh mẽ, phù hợp với nhiều tác vụ nặng"
+        ],
+        "cons": [
+          "Vết gấp giữa màn hình vẫn còn",
+          "Giá cao so với mặt bằng chung của smartphone"
+        ],
+        "price": "37,990,000 VND cho phiên bản 512GB",
+        "recommendation": "Phù hợp cho những người yêu thích công nghệ mới, muốn trải nghiệm một chiếc điện thoại gập với hiệu năng cao và thiết kế đẹp.",
+        "type": "main"
+      },
+      {
+        "name": "Samsung Galaxy Z Flip5",
+        "features": [],
+        "pros": [
+          "Thiết kế đẹp"
+        ],
+        "cons": [],
+        "price": "",
+        "recommendation": "Phù hợp cho những người thích thiết kế đẹp và phong cách.",
+        "type": "compare"
+      },
+      {
+        "name": "Samsung Galaxy S23 Ultra",
+        "features": [],
+        "pros": [
+          "Camera chất lượng cao"
+        ],
+        "cons": [],
+        "price": "",
+        "recommendation": "Nên mua nếu bạn muốn chụp ảnh chất lượng cao nhất.",
+        "type": "compare"
+      }
+    ]
+  }
+}

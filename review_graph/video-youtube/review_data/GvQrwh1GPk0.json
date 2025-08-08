@@ -1,0 +1,36 @@
+{
+  "video_id": "GvQrwh1GPk0",
+  "video_url": "https://www.youtube.com/watch?v=GvQrwh1GPk0",
+  "video_title": "Đánh giá Galaxy S23 sau 3 tháng: Xuất sắc! Ngoại trừ hai lưu ý",
+  "video_author": "relab",
+  "upload_date": "2023-06-30",
+  "content": {
+    "products": [
+      {
+        "name": "Samsung Galaxy S23",
+        "features": [
+          "Thời lượng pin tốt",
+          "Chip Snapdragon 8 Gen 2 for Galaxy",
+          "Hiệu năng tốt khi chơi game",
+          "Khả năng quay video 8K",
+          "Màn hình Dynamic AMOLED 120Hz"
+        ],
+        "pros": [
+          "Thời lượng pin dài hơn 8 tiếng với tác vụ hỗn hợp",
+          "Không quá nóng khi sử dụng 4G",
+          "Chip Snapdragon 8 Gen 2 for Galaxy tối ưu hóa hiệu năng và nhiệt độ",
+          "Cân bằng giữa hiệu năng và thời gian sử dụng",
+          "Khả năng chụp ảnh và quay video tốt",
+          "Màn hình hiển thị rõ ràng, không bị lóa"
+        ],
+        "cons": [
+          "Âm thanh có phần bị bí do màng loa chống nước",
+          "Khả năng sạc nhanh chỉ 25W, mất nhiều thời gian để sạc đầy"
+        ],
+        "price": "19 triệu đồng",
+        "recommendation": "Phù hợp với người dùng phổ thông cần một chiếc điện thoại có hiệu năng tốt, thời lượng pin dài và khả năng chụp ảnh, quay video tốt.",
+        "type": "main"
+      }
+    ]
+  }
+}

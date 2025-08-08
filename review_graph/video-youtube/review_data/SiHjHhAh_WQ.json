@@ -1,0 +1,47 @@
+{
+  "video_id": "SiHjHhAh_WQ",
+  "video_url": "https://www.youtube.com/watch?v=SiHjHhAh_WQ",
+  "video_title": "Samsung Galaxy S23 còn đáng mua nữa không?",
+  "video_author": "Duy Luân Dễ Thương",
+  "upload_date": "2023-11-22",
+  "content": {
+    "products": [
+      {
+        "name": "Samsung Galaxy S23",
+        "features": [
+          "Snapdragon 8 Gen 2 for Galaxy",
+          "Màn hình hiển thị tốt, tần số quét cao",
+          "Thiết kế nhỏ gọn, mỏng, cân đối",
+          "Camera chất lượng tốt",
+          "One UI 6.0"
+        ],
+        "pros": [
+          "Kích thước nhỏ gọn, dễ cầm nắm",
+          "Hiệu năng mạnh mẽ với chip Snapdragon 8 Gen 2",
+          "Thiết kế đẹp, đơn giản, mặt sau không cầu kỳ",
+          "Màn hình chất lượng cao, hiển thị tốt ngay cả dưới ánh nắng",
+          "Pin bền, có thể sử dụng cả ngày",
+          "Camera đáp ứng tốt nhu cầu chụp ảnh hàng ngày",
+          "Giao diện One UI 6.0 mượt mà và dễ sử dụng"
+        ],
+        "cons": [
+          "Viền màn hình có thể được làm mờ để đẹp hơn",
+          "Video quay trong điều kiện thiếu sáng có thể bị rung",
+          "Lỗi nhỏ trong quay video 4K 30fps với đen xìu ở đầu video"
+        ],
+        "price": "17 triệu 9",
+        "recommendation": "Phù hợp cho những ai thích một chiếc điện thoại flagship nhỏ gọn, hiệu năng cao và có mức giá tốt tại thời điểm hiện tại.",
+        "type": "main"
+      },
+      {
+        "name": "Samsung Galaxy S23 Ultra",
+        "features": [],
+        "pros": [],
+        "cons": [],
+        "price": "22 triệu 9",
+        "recommendation": "Lựa chọn tốt cho những ai thích màn hình lớn và có nhu cầu cao hơn về chất lượng camera.",
+        "type": "compare"
+      }
+    ]
+  }
+}

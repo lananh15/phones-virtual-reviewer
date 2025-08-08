@@ -1,0 +1,52 @@
+{
+  "video_id": "CgEapa6X7us",
+  "video_url": "https://www.youtube.com/watch?v=CgEapa6X7us",
+  "video_title": "Đánh giá iPhone 16 Pro sau 9 tháng: Giá chạm đáy, đã đến lúc đáng mua nhất!",
+  "video_author": "Vật Vờ Studio",
+  "upload_date": "2025-06-28",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 16 Pro",
+        "features": [
+          "Màn hình 6.3 inch",
+          "Chip A18 Pro",
+          "Camera có khả năng zoom 5X, góc siêu rộng 48MP",
+          "Pin 3582.5mAh",
+          "Hỗ trợ iOS 18.5",
+          "Có các phiên bản 128GB và 256GB"
+        ],
+        "pros": [
+          "Giá cả phải chăng so với các phiên bản khác",
+          "Hiệu năng mạnh mẽ với chip A18 Pro",
+          "Camera chất lượng cao",
+          "Thiết kế thời trang và dễ cầm nắm",
+          "Màn hình Promotion với khả năng thay đổi tần số quét"
+        ],
+        "cons": [
+          "Dung lượng pin thấp so với các mẫu điện thoại Android tầm trung",
+          "Có thể nóng khi sử dụng các tác vụ nặng",
+          "Hạn chế về tính năng Apple Intelligent tiếng Việt"
+        ],
+        "price": "25.090.000 đồng cho phiên bản 128GB",
+        "recommendation": "Phù hợp cho người dùng iPhone cũ muốn nâng cấp lên một mẫu mới với nhiều cải tiến về hiệu năng và camera, đặc biệt là những người không thường xuyên sử dụng các tác vụ nặng.",
+        "type": "main"
+      },
+      {
+        "name": "iPhone 16 Pro Max",
+        "features": [
+          "Phiên bản cao cấp hơn iPhone 16 Pro"
+        ],
+        "pros": [
+          "Có dung lượng pin và màn hình lớn hơn iPhone 16 Pro"
+        ],
+        "cons": [
+          "Giá cao hơn iPhone 16 Pro"
+        ],
+        "price": "30.590.000 đồng",
+        "recommendation": "",
+        "type": "compare"
+      }
+    ]
+  }
+}

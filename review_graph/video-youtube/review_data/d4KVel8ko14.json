@@ -1,0 +1,58 @@
+{
+  "video_id": "d4KVel8ko14",
+  "video_url": "https://www.youtube.com/watch?v=d4KVel8ko14",
+  "video_title": "Mở hộp OPPO Reno13 : TIẾT KIỆM 3 TRIỆU ĐỒNG CÓ ĐƯỢC KHÔNG?",
+  "video_author": "Dương Dê",
+  "upload_date": "2025-01-10",
+  "content": {
+    "products": [
+      {
+        "name": "OPPO Reno13 Pro 5G",
+        "features": [
+          "Củ sạc nhanh 80W",
+          "Ốp lưng",
+          "Kháng nước, kháng bụi IP68 và IP69",
+          "Camera Tele",
+          "Màn hình AMOLED 1 tỷ màu, tần số quét 120Hz, độ sáng 1200 nits",
+          "Các tính năng AI như phục chế ảnh, chống lóa AI, xóa vật thể"
+        ],
+        "pros": [
+          "Có khả năng kháng nước và bụi",
+          "Camera tele cho khả năng zoom và chụp ảnh tốt",
+          "Màn hình chất lượng cao",
+          "Các tính năng AI hỗ trợ tốt cho việc chụp ảnh và xử lý hình ảnh"
+        ],
+        "cons": [],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      },
+      {
+        "name": "OPPO Reno13 5G",
+        "features": [
+          "Củ sạc nhanh 80W",
+          "Ốp lưng",
+          "Kháng nước, kháng bụi IP68 và IP69",
+          "Màn hình AMOLED 1 tỷ màu, tần số quét 120Hz, độ sáng 1200 nits, độ phân giải 1,5K",
+          "Chip Dimensity 8350, RAM 12GB",
+          "Các phiên bản bộ nhớ trong 256GB và 512GB",
+          "Các tính năng AI như phục chế ảnh, chống lóa AI, xóa vật thể"
+        ],
+        "pros": [
+          "Giá tiết kiệm hơn so với phiên bản Pro",
+          "Vẫn giữ được nhiều tính năng cao cấp như kháng nước, kháng bụi",
+          "Màn hình chất lượng cao với độ phân giải 1,5K và tấm nền AMOLED",
+          "Thiết kế mỏng và nhẹ, dễ cầm nắm",
+          "Pin tương đương với phiên bản Pro mặc dù mỏng hơn"
+        ],
+        "cons": [
+          "Không có camera tele, giảm khả năng zoom và chụp ảnh xa",
+          "Cắt giảm nhẹ về dung lượng pin"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho những người muốn tiết kiệm chi phí nhưng vẫn muốn có một chiếc điện thoại với nhiều tính năng cao cấp",
+        "type": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "video_id": "aCFytPx5Drs",
+  "video_url": "https://www.youtube.com/watch?v=aCFytPx5Drs",
+  "video_title": "Đánh giá chi tiết OPPO Find X8 Pro chính hãng: Đông người thêm vui",
+  "video_author": "Vinh Xô",
+  "upload_date": "2024-12-10",
+  "content": {
+    "products": [
+      {
+        "name": "OPPO Find X8 Pro 5G",
+        "features": [
+          "Dung lượng pin cao",
+          "Sạc nhanh 80W",
+          "Sạc nhanh không dây 50W",
+          "Vi xử lý Dimensity 9400",
+          "Khả năng chống nước IP68 và IP69",
+          "Kính cường lực Gorilla Glass 7i",
+          "Mỏng 8.2mm",
+          "Quay video 4K 60fps",
+          "Chụp ảnh và xóa phông tốt",
+          "Màn hình không lõm"
+        ],
+        "pros": [
+          "Thiết kế mỏng, dễ cầm nắm",
+          "Chống nước tốt",
+          "Hiệu năng cao với vi xử lý mới",
+          "Chất lượng chụp ảnh và quay video tốt",
+          "Sạc nhanh và hiệu quả"
+        ],
+        "cons": [
+          "Kính cường lực không phải phiên bản mới nhất",
+          "Cảm biến vân tay đặt thấp, không thuận tiện",
+          "Màu sắc khi zoom không đồng đều"
+        ],
+        "price": "27 triệu",
+        "recommendation": "Phù hợp cho người dùng cần một chiếc điện thoại có hiệu năng cao, thiết kế đẹp và khả năng chụp ảnh tốt",
+        "type": "main"
+      },
+      {
+        "name": "OPPO Find X7 Ultra",
+        "features": [
+          "Kính cường lực Gorilla Glass Victus 2",
+          "Chống nước IP68"
+        ],
+        "pros": [
+          "Chất lượng chụp ảnh tốt",
+          "Thiết kế đẹp"
+        ],
+        "cons": [
+          "Nặng và dày hơn so với Find X8 Pro",
+          "Cảm biến vân tay không được đánh giá cao"
+        ],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      }
+    ]
+  }
+}

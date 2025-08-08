@@ -1,0 +1,1684 @@
+{
+  "products": [
+    {
+      "canonical_name": "iPhone 12 Pro Max",
+      "slug": "iphone-12-pro-max",
+      "category": "iPhone",
+      "general": {
+        "model": "iPhone 12 Pro Max 128GB I Chính hãng VN/A",
+        "link": "https://cellphones.com.vn/iphone-12-pro-max.html",
+        "price": "23.490.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754112658/12-pro-max_kcok7q.webp"
+      },
+      "hardware": {
+        "chipset": "Apple A14 Bionic (5 nm)",
+        "cpu": "Hexa-core",
+        "ram": "6 GB",
+        "storage": "128 GB",
+        "battery": "Li-Ion, sạc nhanh 20W, sạc không dây 15W, USB Power Delivery 2.0",
+        "sim": "2 SIM (nano‑SIM và eSIM)",
+        "nfc": true
+      },
+      "software": {
+        "os": "iOS 14.1 hoặc cao hơn (Tùy vào phiên bản phát hành)"
+      },
+      "camera": {
+        "rear": "Camera chính: 12 MP, f/1.6, 26mm, 1.4µm, dual pixel PDAF, OIS\nCamera tele: 12 MP, f/2.0, 52mm, 1/3.4\", 1.0µm, PDAF, OIS, 2x optical zoom\nCamera góc siêu rộng: 12 MP, f/2.4, 120˚, 13mm, 1/3.6\"\nCảm biến: TOF 3D LiDAR scanner",
+        "front": "12 MP, f/2.2, 23mm (wide), 1/3.6\"\nSL 3D, (depth/biometrics sensor)"
+      },
+      "display": {
+        "technology": "OLED",
+        "size": "6.7 inches",
+        "resolution": "1284 x 2778 pixels",
+        "features": [
+          "HDR10, Dolby Vision, True-tone, Độ sáng 800 nits"
+        ]
+      }
+    },
+    {
+      "canonical_name": "iPhone 13",
+      "slug": "iphone-13",
+      "category": "iPhone",
+      "general": {
+        "model": "iPhone 13 128GB | Chính hãng VN/A",
+        "link": "https://cellphones.com.vn/iphone-13.html",
+        "price":"11.190.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754112658/iphone_13_pdp_position-4_design__vn_vzp3ig.webp"
+      },
+      "hardware": {
+        "chipset": "Apple A15",
+        "cpu": "3.22 GHz",
+        "ram": "4 GB",
+        "storage": "128 GB",
+        "battery": "3240mAh",
+        "sim": "2 SIM (nano‑SIM và eSIM)",
+        "nfc": true
+      },
+      "software": {
+        "os": "iOS 15"
+      },
+      "camera": {
+        "rear": "Camera góc rộng: 12MP, f/1.6\nCamera góc siêu rộng: 12MP, ƒ/2.4",
+        "front": "12MP, f/2.2"
+      },
+      "display": {
+        "technology": "Super Retina XDR OLED",
+        "size": "6.1 inches",
+        "resolution": "2532 x 1170 pixels",
+        "features": [
+          "Màn hình super Retina XDR, OLED, 460 ppi, HDR display, công nghệ True Tone Wide color (P3), Haptic Touch, Lớp phủ oleophobic chống bám vân tay"
+        ]
+      }
+    },
+    {
+      "canonical_name": "iPhone 13 Pro Max",
+      "slug": "iphone-13-pro-max",
+      "category": "iPhone",
+      "general": {
+        "model": "iPhone 13 Pro Max 128GB | Chính hãng VN/A",
+        "link": "https://cellphones.com.vn/iphone-13-pro-max.html",
+        "price": "22.990.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754112658/iphone-13-pro-max-9_1_o1iklx.webp"
+      },
+      "hardware": {
+        "chipset": "Apple A15 Bionic 6 nhân",
+        "cpu": "3.22 GHz",
+        "ram": "6 GB",
+        "storage": "128 GB",
+        "battery": "4352mAh",
+        "sim": "2 SIM (nano‑SIM và eSIM)",
+        "nfc": true
+      },
+      "software": {
+        "os": "iOS15"
+      },
+      "camera": {
+        "rear": "Camera góc rộng: 12MP, ƒ/1.5\nCamera góc siêu rộng: 12MP, ƒ/1.8\nCamera tele : 12MP, /2.8",
+        "front": "12MP, ƒ/2.2"
+      },
+      "display": {
+        "technology": "Super Retina XDR OLED",
+        "size": "6.7 inches",
+        "resolution": "2778 x 1284 pixel",
+        "features": [
+          "Tần số quét 120 Hz, 1200 nits, Super Retina XDR với ProMotion 6.1‑inch,  OLED, 458 pp, HDR display, True Tone, Wide color (P3), Haptic Touch"
+        ]
+      }
+    },
+    {
+      "canonical_name": "iPhone 14",
+      "slug": "iphone-14",
+      "category": "iPhone",
+      "general": {
+        "model": "iPhone 14 128GB  | Chính hãng VN/A",
+        "link": "https://cellphones.com.vn/iphone-14.html",
+        "price": "12.590.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754112658/iphone_14_blue_pdp_image_position-5_colors__vn_1_1_ub66tf.webp"
+      },
+      "hardware": {
+        "chipset": "Apple A15 Bionic 6 nhân",
+        "cpu": "3.22 GHz",
+        "ram": "6 GB",
+        "storage": "128 GB",
+        "battery": "3,279mAh",
+        "sim": "2 SIM (nano‑SIM và eSIM)",
+        "nfc": true
+      },
+      "software": {
+        "os": "iOS 16"
+      },
+      "camera": {
+        "rear": "Camera góc rộng: 12MP, ƒ/1.5\nCamera góc siêu rộng: 12MP, ƒ/2.4",
+        "front": "12MP, ƒ/1.9"
+      },
+      "display": {
+        "technology": "OLED",
+        "size": "6.1 inches",
+        "resolution": "2532 x 1170 pixels",
+        "features": [
+          "Tần số quét 60Hz, 1200 nits, Kính cường lực Ceramic Shield,  Super Retina XDR"
+        ]
+      }
+    },
+    {
+      "canonical_name": "iPhone 14 Pro",
+      "slug": "iphone-14-pro",
+      "category": "iPhone",
+      "general": {
+        "model": "iPhone 14 Pro 128GB | Chính hãng VN/A",
+        "link": "https://cellphones.com.vn/iphone-14-pro.html",
+        "price": "22.990.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754112659/iphone-14-pro_2__4_vpuugc.webp"
+      },
+      "hardware": {
+        "chipset": "Apple A16 Bionic 6 nhân",
+        "cpu": "6 nhân",
+        "ram": "6 GB",
+        "storage": "128 GB",
+        "battery": "3200 mAh",
+        "sim": "2 SIM (nano‑SIM và eSIM)",
+        "nfc": true
+      },
+      "software": {
+        "os": "iOS 16"
+      },
+      "camera": {
+        "rear": "Camera chính: 48 MP, f/1.8, 24mm, OIS\nCamera góc siêu rộng: 12 MP, f/2.2, 120˚, 1.4µm\nCamera tele: 12 MP, f/2.8, PDAF, OIS, 3x optical zoom\nCảm biến độ sâu TOF 3D LiDAR",
+        "front": "Camera selfie: 12 MP, f/1.9, 23mm, PDAF"
+      },
+      "display": {
+        "technology": "Super Retina XDR OLED",
+        "size": "6.1 inches",
+        "resolution": "2556 x 1179 pixels",
+        "features": [
+          "Công nghệ ProMotion với tần số quét 120Hz\nTỷ lệ tương phản 2.000.000: 1\nĐộ sáng tối đa: 2.000 nits (ngoài trời)"
+        ]
+      }
+    },
+    {
+      "canonical_name": "iPhone 14 Plus",
+      "slug": "iphone-14-plus",
+      "category": "iPhone",
+      "general": {
+        "model": "iPhone 14 Plus 128GB | Chính hãng VN/A",
+        "link": "https://cellphones.com.vn/iphone-14-plus.html",
+        "price": "16.490.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754112658/iphone_14_blue_pdp_image_position-5_colors__vn_zusxcy.webp"
+      },
+      "hardware": {
+        "chipset": "Apple A15 Bionic",
+        "cpu": "6 nhân",
+        "ram": "6 GB",
+        "storage": "128 GB",
+        "battery": "4325 mAh",
+        "sim": "2 SIM (nano‑SIM và eSIM)",
+        "nfc": true
+      },
+      "software": {
+        "os": "iOS 16"
+      },
+      "camera": {
+        "rear": "Camera chính: 12MP, 26 mm, ƒ/1.5\nCamera góc siêu rộng: 12MP, 13 mm, ƒ/2.4, 120°",
+        "front": "12MP khẩu độ f/1.9, Autofocus"
+      },
+      "display": {
+        "technology": "Super Retina XDR OLED",
+        "size": "6.7 inches",
+        "resolution": "2778 x 1284 pixel",
+        "features": [
+          "Tần số quét 60 Hz, 458 ppi, HDR, True Tone, độ sáng 1200 nits , màn hình chống bám vân tay, 2,000,000:1\nKính cường lực Ceramic Shield"
+        ]
+      }
+    },
+    {
+      "canonical_name": "iPhone 14 Pro Max",
+      "slug": "iphone-14-pro-max",
+      "category": "iPhone",
+      "general": {
+        "model": "iPhone 14 Pro Max 128GB | Chính hãng VN/A",
+        "link": "https://cellphones.com.vn/iphone-14-pro-max.html",
+        "price": "25.590.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754112658/14-pro-max_yyqtap.webp"
+      },
+      "hardware": {
+        "chipset": "Apple A16 Bionic 6-core",
+        "cpu": "CPU 6 lõi với 2 lõi hiệu năng và 4 lõi tiết kiệm điện",
+        "ram": "6 GB",
+        "storage": "128 GB",
+        "battery": "4.323 mAh",
+        "sim": "2 SIM (nano‑SIM và eSIM)",
+        "nfc": true
+      },
+      "software": {
+        "os": "iOS 16"
+      },
+      "camera": {
+        "rear": "Camera chính: 48 MP, f/1.8, 24mm, 1.22µm, PDAF, OIS\nCamera góc siêu rộng: 12 MP, f/2.2, 13mm, 120˚, 1.4µm, PDAF\nCamera tele: 12 MP, f/2.8, 77mm (telephoto), PDAF, OIS, 3x optical zoom\nCảm biến độ sâu TOF 3D LiDAR",
+        "front": "Camera selfie: 12 MP, f/1.9, 23mm, 1/3.6\", PDAF"
+      },
+      "display": {
+        "technology": "Super Retina XDR OLED",
+        "size": "6.7 inches",
+        "resolution": "2796 x 1290-pixel",
+        "features": [
+          "120Hz, Always-On display, HDR, True Tone, Haptic Touch, 2,000,000:1, 2000 nits"
+        ]
+      }
+    },
+    {
+      "canonical_name": "iPhone 15",
+      "slug": "iphone-15",
+      "category": "iPhone",
+      "general": {
+        "model": "iPhone 15 128GB | Chính hãng VN/A",
+        "link": "https://cellphones.com.vn/iphone-15.html",
+        "price": "15.390.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754111983/vn_iphone_15_pink_pdp_image_position-5_colors_2_yjpl3v.webp"
+      },
+      "hardware": {
+        "chipset": "Apple A16 Bionic 6 nhân",
+        "cpu": "CPU 6 lõi với 2 lõi hiệu năng và 4 lõi tiết kiệm điện",
+        "ram": "6 GB",
+        "storage": "128 GB",
+        "battery": "3349 mAh",
+        "sim": "2 SIM (nano‑SIM và eSIM)",
+        "nfc": true
+      },
+      "software": {
+        "os": "iOS 17"
+      },
+      "camera": {
+        "rear": "Chính 48 MP & Phụ 12 MP",
+        "front": "12MP, ƒ/1.9"
+      },
+      "display": {
+        "technology": "Super Retina XDR OLED",
+        "size": "6.1 inches",
+        "resolution": "2556 x 1179 pixels",
+        "features": [
+          "Dynamic Island, HDR display, True Tone, Wide color (P3), Haptic Touch, Lớp phủ oleophobia chống dấu vân tay, 2000 nits, Mặt kính cảm ứng: Kính cường lực Ceramic Shield, Tần số quét 60 Hz"
+        ]
+      }
+    },
+    {
+      "canonical_name": "iPhone 15 Pro",
+      "slug": "iphone-15-pro",
+      "category": "iPhone",
+      "general": {
+        "model": "iPhone 15 Pro 128GB | Chính hãng VN/A",
+        "link": "https://cellphones.com.vn/iphone-15-pro.html",
+        "price": "23.990.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754111982/iphone-15-pro_8__2_aqdvak.webp"
+      },
+      "hardware": {
+        "chipset": "Apple A17 Pro 6 nhân",
+        "cpu": "CPU 6 lõi mới với 2 lõi hiệu năng và 4 lõi hiệu suất",
+        "ram": "8 GB",
+        "storage": "128 GB",
+        "battery": "3274 mAh",
+        "sim": "2 SIM (nano‑SIM và eSIM)",
+        "nfc": true
+      },
+      "software": {
+        "os": "iOS 17"
+      },
+      "camera": {
+        "rear": "Camera chính: 48MP, 24 mm, ƒ/1.78\nCamera góc siêu rộng: 12 MP, 13 mm, ƒ/2.2\nCamera Tele 3x: 12 MP, 77 mm, ƒ/2.8",
+        "front": "12MP, ƒ/1.9"
+      },
+      "display": {
+        "technology": "Super Retina XDR OLED",
+        "size": "6.1 inches",
+        "resolution": "2556 x 1179 pixels",
+        "features": [
+          "Tốc độ làm mới 120Hz, 460 ppi, HDR, True Tone, Dải màu rộng (P3), Haptic Touch, Tỷ lệ tương phản 2.000.000:1, Độ sáng 2.000 nit"
+        ]
+      }
+    },
+    {
+      "canonical_name": "iPhone 15 Plus",
+      "slug": "iphone-15-plus",
+      "category": "iPhone",
+      "general": {
+        "model": "iPhone 15 Plus 128GB | Chính hãng VN/A",
+        "link": "https://cellphones.com.vn/iphone-15-plus.html",
+        "price": "18.990.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754111982/iphone-15-plus-series-image-03_pclcyr.webp"
+      },
+      "hardware": {
+        "chipset": "Apple A16 Bionic",
+        "cpu": "CPU 6 lõi với 2 lõi hiệu năng và 4 lõi tiết kiệm điện",
+        "ram": "6 GB",
+        "storage": "128 GB",
+        "battery": "4383 mAh",
+        "sim": "2 SIM (nano‑SIM và eSIM)",
+        "nfc": true
+      },
+      "software": {
+        "os": "iOS 17"
+      },
+      "camera": {
+        "rear": "Chính 48 MP & Phụ 12 MP",
+        "front": "12MP, ƒ/1.9"
+      },
+      "display": {
+        "technology": "Super Retina XDR OLED",
+        "size": "6.7 inches",
+        "resolution": "2796 x 1290-pixel",
+        "features": [
+          "Dynamic Island, HDR display, True Tone, Wide color (P3), Tần số quét 60 Hz, Haptic Touch, Lớp phủ oleophobia chống dấu vân tay, Độ sáng tối đa: 2000 nits, Mật độ điểm ảnh 460 ppi"
+        ]
+      }
+    },
+    {
+      "canonical_name": "iPhone 15 Pro Max",
+      "slug": "iphone-15-pro-max",
+      "category": "iPhone",
+      "general": {
+        "model": "iPhone 15 Pro Max 256GB | Chính hãng VN/A",
+        "link": "https://cellphones.com.vn/iphone-15-pro-max.html",
+        "price": "27.690.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754111982/iphone-15-pro-max_7__1_aemvhk.webp"
+      },
+      "hardware": {
+        "chipset": "Apple A17 Pro 6 nhân",
+        "cpu": "CPU 6 lõi mới với 2 lõi hiệu năng và 4 lõi hiệu suất",
+        "ram": "8 GB",
+        "storage": "256 GB",
+        "battery": "4422 mAh",
+        "sim": "2 SIM (nano‑SIM và eSIM)",
+        "nfc": true
+      },
+      "software": {
+        "os": "iOS 17"
+      },
+      "camera": {
+        "rear": "Camera chính: 48MP, 24 mm, ƒ/1.78\nCamera góc siêu rộng: 12 MP, 13 mm, ƒ/2.2\nCamera Tele: 12 MP",
+        "front": "12MP, ƒ/1.9"
+      },
+      "display": {
+        "technology": "Super Retina XDR OLED",
+        "size": "6.7 inches",
+        "resolution": "2796 x 1290-pixel",
+        "features": [
+          "Tốc độ làm mới 120Hz, 460 ppi, 2000 nits, HDR, True Tone, Dải màu rộng (P3), Haptic Touch, Tỷ lệ tương phản 2.000.000:1"
+        ]
+      }
+    },
+    {
+      "canonical_name": "iPhone 16",
+      "slug": "iphone-16",
+      "category": "iPhone",
+      "general": {
+        "model": "iPhone 16 128GB | Chính hãng VN/A",
+        "link": "https://cellphones.com.vn/iphone-16.html",
+        "price": "18.890.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754111982/iphone-16-6_2_nxlbmd.webp"
+      },
+      "hardware": {
+        "chipset": "Apple A18",
+        "cpu": "CPU 6 lõi mới với 2 lõi hiệu năng và 4 lõi tiết kiệm điện",
+        "ram": "8GB",
+        "storage": "128 GB",
+        "battery": "22 giờ",
+        "sim": "Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim",
+        "nfc": true
+      },
+      "software": {
+        "os": "iOS 18"
+      },
+      "camera": {
+        "rear": "Camera chính: 48MP, f/1.6, 26mm, Focus Pixels 100%, hỗ trợ ảnh có độ phân giải siêu cao\nCamera góc siêu rộng: 12MP, ƒ/2.2, 13 mm, Focus Pixels 100%, Độ phóng đại quang học 2x, độ thu nhỏ quang học 2x; phạm vi thu phóng quang học 4x Độ thu phóng kỹ thu",
+        "front": "12MP, ƒ/1.9, Tự động lấy nét theo pha Focus Pixels"
+      },
+      "display": {
+        "technology": "Super Retina XDR OLED",
+        "size": "6.1 inches",
+        "resolution": "2556 x 1179 pixels",
+        "features": [
+          "Dynamic Island, Màn hình HDR, True Tone, Dải màu rộng (P3), Haptic Touch, Tỷ lệ tương phản 2.000.000:1, Độ sáng tối đa 1000 nit, 460 ppi, Lớp phủ kháng dầu chống in dấu vân tay, Hỗ trợ hiển thị đồng thời nhiều ngôn ngữ và ký tự"
+        ]
+      }
+    },
+    {
+      "canonical_name": "iPhone 16 Pro",
+      "slug": "iphone-16-pro",
+      "category": "iPhone",
+      "general": {
+        "model": "iPhone 16 Pro 128GB | Chính hãng VN/A",
+        "link": "https://cellphones.com.vn/iphone-16-pro.html",
+        "price": "25.090.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754111982/iphone-16-pro-6_se3zhn.webp"
+      },
+      "hardware": {
+        "chipset": "Apple A18 Pro",
+        "cpu": "CPU 6 lõi mới với 2 lõi hiệu năng và 4 lõi tiết kiệm điện",
+        "ram": "8GB",
+        "storage": "128 GB",
+        "battery": "27 giờ",
+        "sim": "Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim",
+        "nfc": true
+      },
+      "software": {
+        "os": "iOS 18"
+      },
+      "camera": {
+        "rear": "Camera chính: 48MP, f/1.78, 24mm, chống rung quang học dịch chuyển cảm biến thế hệ thứ hai, Focus Pixels 100%, hỗ trợ ảnh có độ phân giải siêu cao\nHỗ trợ Telephoto 2x 12MP: 52 mm, ƒ/1.6\nCamera góc siêu rộng: 48MP, 13 mm, ƒ/2.2 và trường ảnh 120°, H",
+        "front": "12MP, ƒ/1.9, Tự động lấy nét theo pha Focus Pixels"
+      },
+      "display": {
+        "technology": "Super Retina XDR OLED",
+        "size": "6.3 inches",
+        "resolution": "2622 x 1206  pixels",
+        "features": [
+          "Dynamic Island, Màn hình HDR, True Tone, Dải màu rộng (P3), Haptic Touch, Tỷ lệ tương phản 2.000.000:1, Độ sáng tối đa 1000 nit, 460 ppi, Lớp phủ kháng dầu chống in dấu vân tay, Hỗ trợ hiển thị đồng thời nhiều ngôn ngữ và ký tự"
+        ]
+      }
+    },
+    {
+      "canonical_name": "iPhone 16 Plus",
+      "slug": "iphone-16-plus",
+      "category": "iPhone",
+      "general": {
+        "model": "iPhone 16 Plus 128GB | Chính hãng VN/A",
+        "link": "https://cellphones.com.vn/iphone-16-plus.html",
+        "price": "21.890.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754111982/iphone-16-plus-6_axr9qi.webp"
+      },
+      "hardware": {
+        "chipset": "Apple A18",
+        "cpu": "CPU 6 lõi mới với 2 lõi hiệu năng và 4 lõi tiết kiệm điện",
+        "ram": "8GB",
+        "storage": "128 GB",
+        "battery": "27 giờ",
+        "sim": "Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim",
+        "nfc": true
+      },
+      "software": {
+        "os": "iOS 18"
+      },
+      "camera": {
+        "rear": "Camera chính: 48MP, f/1.6, 26mm, Focus Pixels 100%, hỗ trợ ảnh có độ phân giải siêu cao\nCamera góc siêu rộng: 12MP, ƒ/2.2, 13 mm, Focus Pixels 100%, Độ phóng đại quang học 2x, độ thu nhỏ quang học 2x; phạm vi thu phóng quang học 4x Độ thu phóng kỹ thu",
+        "front": "12MP, ƒ/1.9, Tự động lấy nét theo pha Focus Pixels"
+      },
+      "display": {
+        "technology": "Super Retina XDR OLED",
+        "size": "6.7 inches",
+        "resolution": "2796 x 1290-pixel",
+        "features": [
+          "Dynamic Island, Màn hình HDR, True Tone, Dải màu rộng (P3), Haptic Touch, Tỷ lệ tương phản 2.000.000:1, Độ sáng tối đa 1000 nit, 460 ppi, Lớp phủ kháng dầu chống in dấu vân tay, Hỗ trợ hiển thị đồng thời nhiều ngôn ngữ và ký tự"
+        ]
+      }
+    },
+    {
+      "canonical_name": "iPhone 16 Pro Max",
+      "slug": "iphone-16-pro-max",
+      "category": "iPhone",
+      "general": {
+        "model": "iPhone 16 Pro Max 256GB | Chính hãng VN/A",
+        "link": "https://cellphones.com.vn/iphone-16-pro-max.html",
+        "price": "29.990.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754111983/iphone-16-pro-max-6_c0yroh.webp"
+      },
+      "hardware": {
+        "chipset": "Apple A18 Pro",
+        "cpu": "CPU 6 lõi mới với 2 lõi hiệu năng và 4 lõi hiệu suất",
+        "ram": "8GB",
+        "storage": "256 GB",
+        "battery": "33 giờ",
+        "sim": "Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim",
+        "nfc": true
+      },
+      "software": {
+        "os": "iOS 18"
+      },
+      "camera": {
+        "rear": "Camera chính: 48MP, f/1.78, 24mm, 2µm, chống rung quang học dịch chuyển cảm biến thế hệ thứ hai, Focus Pixels 100%\nTelephoto 2x 12MP: 52 mm, ƒ/1.6\nCamera góc siêu rộng: 48MP, 13 mm,ƒ/2.2 và trường ảnh 120°, Hybrid Focus Pixels, ảnh có độ phân giải",
+        "front": "12MP, ƒ/1.9, Tự động lấy nét theo pha Focus Pixels"
+      },
+      "display": {
+        "technology": "Super Retina XDR OLED",
+        "size": "6.9 inches",
+        "resolution": "2868 x 1320 pixels",
+        "features": [
+          "Dynamic Island, Màn hình Luôn Bật, Công nghệ ProMotion với tốc độ làm mới thích ứng lên đến 120Hz, Màn hình HDR, True Tone, Dải màu rộng (P3), Haptic Touch, Tỷ lệ tương phản 2.000.000:1"
+        ]
+      }
+    },
+    {
+      "canonical_name": "OPPO Reno14 5G",
+      "slug": "oppo-reno14-5g",
+      "category": "OPPO",
+      "general": {
+        "model": "OPPO Reno14 5G 12GB 256GB",
+        "link": "https://cellphones.com.vn/dien-thoai-oppo-reno14.html",
+        "price": "15.700.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754113170/oppo-reno14-5g_cdhdzj.webp"
+      },
+      "hardware": {
+        "chipset": "MediaTek Dimensity 8350 5G, tối đa 3.35GHz",
+        "cpu": "8 nhân, 3.35GHz",
+        "ram": "12 GB",
+        "storage": "256 GB",
+        "battery": "6000mAh",
+        "sim": "2 Nano-SIM",
+        "nfc": true
+      },
+      "software": {
+        "os": "ColorOS 15, Android 15"
+      },
+      "camera": {
+        "rear": "Chính 50MP OIS, F/1.8\nTele 50MP OIS, F/2.8\nGóc rộng 8MP, F/2.2",
+        "front": "50MP, F/2.0"
+      },
+      "display": {
+        "technology": "AMOLED",
+        "size": "6.59 inches",
+        "resolution": "1256 x 2760 pixels",
+        "features": [
+          "Tần số quét 120Hz, độ sáng 1200 nits, kính GG7i"
+        ]
+      }
+    },
+    {
+      "canonical_name": "OPPO Reno14 Pro 5G",
+      "slug": "oppo-reno14-pro-5g",
+      "category": "OPPO",
+      "general": {
+        "model": "OPPO Reno14 Pro 5G",
+        "link": "https://www.duchuymobile.com/oppo-reno14-pro-5g",
+        "price": "15.999.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754113170/oppo-reno14-pro-5g-trang_awjadb.jpg"
+      },
+      "hardware": {
+        "chipset": "Dimensity 8450 5G 8 nhân",
+        "cpu": "3.25 GHz",
+        "ram": "12 GB",
+        "storage": "512 GB",
+        "battery": "6200 mAh, 80W",
+        "sim": "Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim",
+        "nfc": true
+      },
+      "software": {
+        "os": "Android 15"
+      },
+      "camera": {
+        "rear": "50MP + 50MP + 50MP",
+        "front": "50 MP"
+      },
+      "display": {
+        "technology": "AMOLED",
+        "size": "6.83 inches",
+        "resolution": "1272 x 2800 pixels",
+        "features": [
+          "Kính cường lực Corning Gorilla Glass 7i, 1B colors, 120Hz, HDR10+, 1200 nits"
+        ]
+      }
+    },
+    {
+      "canonical_name": "OPPO Reno13 5G",
+      "slug": "oppo-reno13-5g",
+      "category": "OPPO",
+      "general": {
+        "model": "OPPO Reno 13 5G 12GB 256GB - Cũ Đẹp",
+        "link": "https://cellphones.com.vn/dien-thoai-oppo-reno13-12gb-256gb-cu-dep.html",
+        "price": "8.890.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754113169/dien-thoai-oppo-reno13-12gb-256gb_2__mie0by.webp"
+      },
+      "hardware": {
+        "chipset": "MediaTek Dimensity 8350 5G 8 nhân",
+        "cpu": "1 nhân 3.35 GHz, 3 nhân 3.2 GHz & 4 nhân 2.2 GHz",
+        "ram": "12 GB",
+        "storage": "256 GB",
+        "battery": "Li-Ion 5600 mAh",
+        "sim": "2 Nano-SIM",
+        "nfc": true
+      },
+      "software": {
+        "os": "ColorOS 15.0"
+      },
+      "camera": {
+        "rear": "Chính 50 MP & Phụ 8 MP, 2 MP",
+        "front": "50MP; f/2.0; FOV 90°; ống kính 5P lens, hỗ trợ AF"
+      },
+      "display": {
+        "technology": "AMOLED",
+        "size": "6.59 inches",
+        "resolution": "1256 x 2760 pixels",
+        "features": [
+          "1.5K (1256 x 2760 Pixles), Tần số quét 120 Hz, 1200 nits, Kính cường lực Corning Gorilla Glass 7i"
+        ]
+      }
+    },
+    {
+      "canonical_name": "OPPO Reno12 5G",
+      "slug": "oppo-reno12-5g",
+      "category": "OPPO",
+      "general": {
+        "model": "OPPO Reno12 5G 12GB 256GB",
+        "link": "https://cellphones.com.vn/dien-thoai-oppo-reno12-5g.html",
+        "price": "8.990.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754113170/reno12-5g_kqj6rf.webp"
+      },
+      "hardware": {
+        "chipset": "MediaTek Dimensity 7300",
+        "cpu": "4 nhân 2.5 GHz & 4 nhân 2 GHz",
+        "ram": "12 GB",
+        "storage": "256 GB",
+        "battery": "5000mAh",
+        "sim": "2 Nano SIM",
+        "nfc": true
+      },
+      "software": {
+        "os": "Android 14"
+      },
+      "camera": {
+        "rear": "50MP + OIS\nCamera góc rộng: 8MP\nCamera xóa phông: 2MP",
+        "front": "32MP"
+      },
+      "display": {
+        "technology": "AMOLED",
+        "size": "6.7 inches",
+        "resolution": "1080 x 2412 Pixels",
+        "features": [
+          "Tần số quét 120Hz"
+        ]
+      }
+    },
+    {
+      "canonical_name": "OPPO Find X8",
+      "slug": "oppo-find-x8",
+      "category": "OPPO",
+      "general": {
+        "model": "OPPO Find X8 16GB 512GB",
+        "link": "https://cellphones.com.vn/dien-thoai-oppo-find-x8.html",
+        "price": "21.580.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754113170/dien-thoai-oppo-find-x8-xam-1_goux0i.webp"
+      },
+      "hardware": {
+        "chipset": "MediaTek Dimensity 9400",
+        "cpu": "8 nhân",
+        "ram": "16 GB",
+        "storage": "512 GB",
+        "battery": "5630 mAh",
+        "sim": "Dual nano-SIM hoặc 1 nano-SIM + 1 eSIM",
+        "nfc": true
+      },
+      "software": {
+        "os": "ColorOS 15, nền tảng Android 15"
+      },
+      "camera": {
+        "rear": "50MP OIS (Chính) + 50MP (Chân dung Tele) + 50MP (Góc rộng)",
+        "front": "32MP, khẩu độ F/2.4"
+      },
+      "display": {
+        "technology": "AMOLED",
+        "size": "6.59 inches",
+        "resolution": "1256 x 2760 pixels",
+        "features": [
+          "Tần số quét: 120Hz, Kính cường lực GG 7i, Độ sáng tối đa: 1600 nits, Màu sắc hiển thị: 1 tỷ màu"
+        ]
+      }
+    },
+    {
+      "canonical_name": "OPPO Find X8 Pro 5G",
+      "slug": "oppo-find-x8-pro-5g",
+      "category": "OPPO",
+      "general": {
+        "model": "OPPO Find X8 Pro 5G 16GB 512GB",
+        "link": "https://cellphones.com.vn/dien-thoai-oppo-find-x8-pro.html",
+        "price": "29.450.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754113169/dien-thoai-oppo-find-x8-pro_5g__wzjqja.webp"
+      },
+      "hardware": {
+        "chipset": "MediaTek Dimensity 9400",
+        "cpu": "1 nhân 3.6 GHz, 3 nhân 3.3 GHz & 4 nhân 2.4 GHz",
+        "ram": "16 GB",
+        "storage": "512 GB",
+        "battery": "5910 mAh",
+        "sim": "2 Nano SIM hoặc 1 Nano SIM + 1 eSIM",
+        "nfc": true
+      },
+      "software": {
+        "os": "Android 15"
+      },
+      "camera": {
+        "rear": "Camera chính: 50 MP OIS\nCamera góc siêu rộng 50 MP\nCamera tele kính tiềm vọng 50 MP hỗ trợ zoom quang 3X\nCamera tele kính tiềm vọng zoom quang 6X.",
+        "front": "32 MP"
+      },
+      "display": {
+        "technology": "AMOLED",
+        "size": "6.78 inches",
+        "resolution": "1264 x 2780 Pixels",
+        "features": [
+          "Tần số quét 120 Hz, 4.500 nits"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Vivo V30 5G",
+      "slug": "vivo-v30-5g",
+      "category": "Vivo",
+      "general": {
+        "model": "Vivo V30 5G",
+        "link": "https://cellphones.com.vn/dien-thoai-vivo-v30-5g.html",
+        "price": "13.590.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754113653/dien-thoai-vivo-v30-5g_1__lslufu.webp"
+      },
+      "hardware": {
+        "chipset": "Snapdragon 7 Gen 3 8 nhân",
+        "cpu": "1 nhân 2.63 GHz, 3 nhân 2.4 GHz & 4 nhân 1.8 GHz",
+        "ram": "12 GB",
+        "storage": "512 GB",
+        "battery": "5000 mAh",
+        "sim": "2 SIM (Nano-SIM)",
+        "nfc": true
+      },
+      "software": {
+        "os": "Android 14"
+      },
+      "camera": {
+        "rear": "2 camera 50 MP",
+        "front": "50 MP"
+      },
+      "display": {
+        "technology": "AMOLED",
+        "size": "6.78 inches",
+        "resolution": "2800 × 1260 pixels",
+        "features": [
+          "Tần số quét 120 Hz, 2800 nits"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Vivo V40 5G",
+      "slug": "vivo-v40-5g",
+      "category": "Vivo",
+      "general": {
+        "model": "Vivo V40 5G",
+        "link": "https://www.thegioididong.com/dtdd/vivo-v40-5g",
+        "price":"12.760.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754113654/vivo-v40-5g-cam-hong-5-638682157929701947-750x500_pjtrk9.jpg"
+      },
+      "hardware": {
+        "chipset": "Snapdragon 7 Gen 3 8 nhân",
+        "cpu": "1 nhân 2.63 GHz, 3 nhân 2.4 GHz & 4 nhân 1.8 GHz",
+        "ram": "12 GB",
+        "storage": "256 GB",
+        "battery": "5500 mAh",
+        "sim": "2 SIM (Nano-SIM)",
+        "nfc": true
+      },
+      "software": {
+        "os": "Android 14"
+      },
+      "camera": {
+        "rear": "2 camera 50 MP",
+        "front": "50 MP"
+      },
+      "display": {
+        "technology": "AMOLED",
+        "size": "6.78 inches",
+        "resolution": "2800 × 1260 pixels",
+        "features": [
+          "Tần số quét 120 Hz, 4500 nits"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Realme 14 5G",
+      "slug": "realme-14-5g",
+      "category": "Realme",
+      "general": {
+        "model": "Realme 14 5G",
+        "link": "https://www.thegioididong.com/dtdd/realme-14-5g",
+        "price":"10.300.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754113654/realme-14-xam-05-638878505483030462-750x500_fnpzz8.jpg"
+      },
+      "hardware": {
+        "chipset": "Snapdragon 6 Gen 4 5G 8 nhân",
+        "cpu": "2.3 GHz",
+        "ram": "12 GB",
+        "storage": "256 GB",
+        "battery": "6000 mAh",
+        "sim": "2 SIM (Nano-SIM)",
+        "nfc": true
+      },
+      "software": {
+        "os": "Android 15"
+      },
+      "camera": {
+        "rear": "Chính 50 MP & Phụ 2 MP",
+        "front": "16 MP"
+      },
+      "display": {
+        "technology": "AMOLED",
+        "size": "6.67 inches",
+        "resolution": "2400 × 1080 pixels",
+        "features": [
+          "Tần số quét 120 Hz, 2000 nits"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Samsung Galaxy S23",
+      "slug": "samsung-galaxy-s23",
+      "category": "Samsung",
+      "general": {
+        "model": "Samsung Galaxy S23 8GB 256GB",
+        "link": "https://cellphones.com.vn/samsung-galaxy-s23.html",
+        "price": "24.990.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754113654/galaxys23_frontr30_phantomblack_221122_vxfnd0.webp"
+      },
+      "hardware": {
+        "chipset": "Snapdragon 8 Gen 2",
+        "cpu": "1 nhân 3.36 GHz, 4 nhân 2.8 GHz & 3 nhân 2 GHz",
+        "ram": "8 GB",
+        "storage": "256 GB",
+        "battery": "3900 mAh",
+        "sim": "2 Nano-SIM + eSIM",
+        "nfc": true
+      },
+      "software": {
+        "os": "Android"
+      },
+      "camera": {
+        "rear": "Camera chính 50 MP, f/1.8  & Phụ 12 MP, f/2.2, 10 MP, f/2.4",
+        "front": "12MP, f/2.2"
+      },
+      "display": {
+        "technology": "Dynamic AMOLED 2X",
+        "size": "6.1 inches",
+        "resolution": "1080 x 2340 pixels (FullHD+)",
+        "features": [
+          "Tần số quét 120Hz, Kính cường lực Corning Gorilla Glass Victus 2, Độ sáng tối đa: 1750 nits"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Samsung Galaxy S23 Plus",
+      "slug": "samsung-galaxy-s23-plus",
+      "category": "Samsung",
+      "general": {
+        "model": "Samsung Galaxy S23 Plus 8GB 256GB",
+        "link": "https://cellphones.com.vn/samsung-galaxy-s23-plus.html",
+        "price": "19.990.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754113654/s23-plus_f8pduw.webp"
+      },
+      "hardware": {
+        "chipset": "Snapdragon 8 Gen 2 (4 nm)",
+        "cpu": "1x3.2 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510",
+        "ram": "8 GB",
+        "storage": "256 GB",
+        "battery": "4700 mAh",
+        "sim": "2 Nano SIM hoặc 1 Nano + 1 eSIM",
+        "nfc": true
+      },
+      "software": {
+        "os": "Android 13"
+      },
+      "camera": {
+        "rear": "Camera chính góc rộng: 50 MP, f/1.8, Dual Pixel PDAF, OIS\nCamera tele: 10 MP, f/2, 3x optical zoom\nCamera góc siêu rộng:12 MP, f/2.2",
+        "front": "12MP,  f/2.2"
+      },
+      "display": {
+        "technology": "Dynamic AMOLED 2X",
+        "size": "6.6 inches",
+        "resolution": "1080 x 2340 pixels (FullHD+)",
+        "features": [
+          "Tần số quét 120Hz, HDR10+, Kính cường lực Corning® Gorilla® Glass Victus® 2"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Samsung Galaxy S23 Ultra",
+      "slug": "samsung-galaxy-s23-ultra",
+      "category": "Samsung",
+      "general": {
+        "model": "Samsung Galaxy S23 Ultra 256GB",
+        "link": "https://cellphones.com.vn/samsung-galaxy-s23-ultra.html",
+        "price": "19.490.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754113654/s23-ultra-tim_ur8nh8.webp"
+      },
+      "hardware": {
+        "chipset": "Snapdragon 8 Gen 2 (4 nm)",
+        "cpu": "1x3.36 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510",
+        "ram": "8 GB",
+        "storage": "256 GB",
+        "battery": "5.000mAh",
+        "sim": "2 Nano SIM hoặc 1 Nano + 1 eSIM",
+        "nfc": true
+      },
+      "software": {
+        "os": "Android 13"
+      },
+      "camera": {
+        "rear": "Siêu rộng: 12MP, F2.2 (Dual Pixel AF)\nChính: 200MP, F1.7 OIS ±3° (Super Quad Pixel AF)\nTele 1: 10MP, F4.9 (10X, Dual Pixel AF) OIS\nTele 2: 10MP, F2.4 (3X, Dual Pixel AF) OIS Thu phóng chuẩn không gian 100X",
+        "front": "12MP, F2.2 (Dual Pixel AF)"
+      },
+      "display": {
+        "technology": "Dynamic AMOLED 2X",
+        "size": "6.8 inches",
+        "resolution": "1440 x 3088 pixels (QHD+)",
+        "features": [
+          "120Hz, HDR10+, 1750 nits, Gorilla Glass Victus 2"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Samsung Galaxy S24",
+      "slug": "samsung-galaxy-s24",
+      "category": "Samsung",
+      "general": {
+        "model": "Samsung Galaxy S24 8GB 256GB",
+        "link": "https://cellphones.com.vn/samsung-galaxy-s24.html",
+        "price": "16.790.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754114041/samsung-galaxy-s24_7__tsrz96.webp"
+      },
+      "hardware": {
+        "chipset": "Exynos 2400",
+        "cpu": "1 nhân 3.3 GHz, 5 nhân 3.2 GHz & 2 nhân 2.3 GHz",
+        "ram": "8 GB",
+        "storage": "256 GB",
+        "battery": "4000 mAh",
+        "sim": "SIM 1 + SIM 2 / SIM 1 + eSIM / 2 eSIM",
+        "nfc": true
+      },
+      "software": {
+        "os": "Android 14, One UI 6.1"
+      },
+      "camera": {
+        "rear": "Camera chính 50 MP, f/1.8\nCamera tele: 10 MP, f/2.4,  PDAF, OIS, zoom quang học 3x\nCamera góc siêu rộng: 12 MP, f/2.2, 120˚",
+        "front": "12 MP, f/2.2"
+      },
+      "display": {
+        "technology": "Dynamic AMOLED 2X",
+        "size": "6.2 inches",
+        "resolution": "1080 x 2340 pixels (FullHD+)",
+        "features": [
+          "120Hz, Độ sáng tối đa 2600 nits, Corning® Gorilla® Glass Victus® 2, 16 triệu màu"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Samsung Galaxy S24 Plus",
+      "slug": "samsung-galaxy-s24-plus",
+      "category": "Samsung",
+      "general": {
+        "model": "Samsung Galaxy S24 Plus 12GB 256GB",
+        "link": "https://cellphones.com.vn/samsung-galaxy-s24-plus.html",
+        "price": "16.490.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754114041/galaxy-s24-plus-vang_oxhdxm.webp"
+      },
+      "hardware": {
+        "chipset": "Exynos 2400",
+        "cpu": "3.2GHz,2.9GHz,2.6GHz,1.95GHz",
+        "ram": "12 GB",
+        "storage": "256 GB",
+        "battery": "4,900mAh",
+        "sim": "SIM 1 + SIM 2 / SIM 1 + eSIM / 2 eSIM",
+        "nfc": true
+      },
+      "software": {
+        "os": "Android 14, One UI 6.1"
+      },
+      "camera": {
+        "rear": "Camera chính góc rộng: 50 MP, f/1.8, Dual Pixel PDAF, OIS\nCamera tele: 10 MP, f/2.4, PDAF, OIS, zoom quang học 3x\nCamera góc siêu rộng: 12 MP, f/2.2, 120˚",
+        "front": "12 MP, f/2.2"
+      },
+      "display": {
+        "technology": "Dynamic AMOLED 2X",
+        "size": "6.7 inches",
+        "resolution": "3120 x 1440 pixels (Quad HD+)",
+        "features": [
+          "120Hz, Độ sáng tối đa 2600 nits, Corning® Gorilla® Glass Victus® 2, 16 triệu màu"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Samsung Galaxy S24 Ultra",
+      "slug": "samsung-galaxy-s24-ultra",
+      "category": "Samsung",
+      "general": {
+        "model": "Samsung Galaxy S24 Ultra 12GB 256GB",
+        "link": "https://cellphones.com.vn/samsung-galaxy-s24-ultra.html",
+        "price": "23.850.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754114042/ss-s24-ultra-den-600_pfqhtg.webp"
+      },
+      "hardware": {
+        "chipset": "Snapdragon 8 Gen 3 For Galaxy",
+        "cpu": "3.39GHz,3.1GHz,2.9GHz,2.2GHz",
+        "ram": "12 GB",
+        "storage": "256 GB",
+        "battery": "5,000mAh",
+        "sim": "SIM 1 + SIM 2 / SIM 1 + eSIM / 2 eSIM",
+        "nfc": true
+      },
+      "software": {
+        "os": "Android 14, One UI 6.1"
+      },
+      "camera": {
+        "rear": "Camera chính: 200MP, Laser AF, OIS\nCamera: 50MP,  PDAF, OIS, zoom quang học 5x\nCamera tele: 10M\nPCamera góc siêu rộng: 12 MP, f/2.2, 13mm, 120˚",
+        "front": "12 MP, f/2.2"
+      },
+      "display": {
+        "technology": "Dynamic AMOLED 2X",
+        "size": "6.8 inches",
+        "resolution": "1440 x 3120 pixels",
+        "features": [
+          "Độ sáng cao nhất 2,600 nits, 120Hz, Corning® Gorilla® Armor®, 16 triệu màu"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Samsung Galaxy S24 FE",
+      "slug": "samsung-galaxy-s24-fe",
+      "category": "Samsung",
+      "general": {
+        "model": "Samsung Galaxy S24 FE 5G 8GB 128GB",
+        "link": "https://cellphones.com.vn/dien-thoai-samsung-galaxy-s24-fe.html",
+        "price": "12.590.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754114041/samsung-galaxy-s24-fe_4_l4uia6.webp"
+      },
+      "hardware": {
+        "chipset": "Exynos 2400e (4nm)",
+        "cpu": "3.1 GHz",
+        "ram": "8 GB",
+        "storage": "128 GB",
+        "battery": "4700 mAh",
+        "sim": "2 Nano SIM hoặc 1 Nano SIM + 1 eSIM",
+        "nfc": true
+      },
+      "software": {
+        "os": "Android 14"
+      },
+      "camera": {
+        "rear": "50MP + 12vMP + 8MP",
+        "front": "10MP"
+      },
+      "display": {
+        "technology": "Dynamic AMOLED",
+        "size": "6.7 inches",
+        "resolution": "1080 x 2400 pixels (FullHD+)",
+        "features": [
+          "120Hz"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Samsung Galaxy S25",
+      "slug": "samsung-galaxy-s25",
+      "category": "Samsung",
+      "general": {
+        "model": "Samsung Galaxy S25 256GB",
+        "link": "https://cellphones.com.vn/dien-thoai-samsung-galaxy-s25.html",
+        "price": "18.690.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754114041/samsung-galaxy-s25_2__uepch6.webp"
+      },
+      "hardware": {
+        "chipset": "Snapdragon 8 Elite dành cho Galaxy (3nm)",
+        "cpu": "Tốc độ CPU 4.47GHz, 3.5GHz8 nhân",
+        "ram": "12 GB",
+        "storage": "256 GB",
+        "battery": "4000 mAh",
+        "sim": "2 Nano SIM hoặc 2 eSIM hoặc 1 Nano SIM + 1 eSIM",
+        "nfc": true
+      },
+      "software": {
+        "os": "Android 15"
+      },
+      "camera": {
+        "rear": "Camera siêu rộng 12MP\nCamera góc rộng 50MP\nCamera Tele 10MP",
+        "front": "12MP"
+      },
+      "display": {
+        "technology": "Dynamic AMOLED 2X",
+        "size": "6.2 inches",
+        "resolution": "2340 x 1080-pixel",
+        "features": [
+          "120Hz, 2600 nits, Corning® Gorilla® Armor 2"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Samsung Galaxy S25 Ultra",
+      "slug": "samsung-galaxy-s25-ultra",
+      "category": "Samsung",
+      "general": {
+        "model": "Samsung Galaxy S25 Ultra 12GB 256GB",
+        "link": "https://cellphones.com.vn/dien-thoai-samsung-galaxy-s25-ultra.html",
+        "price": "28.380.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754114042/samsung-galaxy-s25-ultra_z89k7h.webp"
+      },
+      "hardware": {
+        "chipset": "Snapdragon 8 Elite dành cho Galaxy (3nm)",
+        "cpu": null,
+        "ram": "12 GB",
+        "storage": "256 GB",
+        "battery": "5000 mAh",
+        "sim": "2 Nano-SIM + eSIM",
+        "nfc": true
+      },
+      "software": {
+        "os": "Android 15"
+      },
+      "camera": {
+        "rear": "Camera siêu rộng 50MP, Camera góc rộng 200 MP, Camera Tele (5x) 50MP, Camera Tele (3x) 10MP",
+        "front": "12 MP"
+      },
+      "display": {
+        "technology": "Dynamic AMOLED 2X",
+        "size": "6.9 inches",
+        "resolution": "3120 x 1440 pixels (Quad HD+)",
+        "features": [
+          "120Hz, 2600 nits, Corning® Gorilla® Armor 2"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Samsung Galaxy S25 Plus",
+      "slug": "samsung-galaxy-s25-plus",
+      "category": "Samsung",
+      "general": {
+        "model": "Samsung Galaxy S25 Plus 256GB",
+        "link": "https://cellphones.com.vn/dien-thoai-samsung-galaxy-s25-plus.html",
+        "price": "22.700.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754114041/samsung-galaxy-s25-plus_4_xshvjp.webp"
+      },
+      "hardware": {
+        "chipset": "Snapdragon 8 Elite dành cho Galaxy (3nm)",
+        "cpu": "Tốc độ CPU: 4.47GHz, 3.5GHz8 nhân",
+        "ram": "12 GB",
+        "storage": "256 GB",
+        "battery": "4900 mAh",
+        "sim": "2 Nano-SIM + eSIM",
+        "nfc": true
+      },
+      "software": {
+        "os": "Android 17"
+      },
+      "camera": {
+        "rear": "Camera siêu rộng 12MP, Camera góc rộng 50MP, Camera Tele 10MP",
+        "front": "12MP"
+      },
+      "display": {
+        "technology": "Dynamic AMOLED 2X",
+        "size": "6.7 inches",
+        "resolution": "3120 x 1440 pixels (Quad HD+)",
+        "features": [
+          "120Hz, 2600 nits, Corning® Gorilla® Armor 2"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Samsung Galaxy Z Fold5",
+      "slug": "samsung-galaxy-z-fold5",
+      "category": "Samsung",
+      "general": {
+        "model": "Samsung Galaxy Z Fold5 12GB 512GB",
+        "link": "https://cellphones.com.vn/samsung-galaxy-z-fold-5.html",
+        "price": "29.990.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754114572/samsung-z-fold5_1_ghi3yj.webp"
+      },
+      "hardware": {
+        "chipset": "Snapdragon 8 Gen 2 for Galaxy (4nm) 8 nhân",
+        "cpu": "1 nhân 3.36 GHz, 4 nhân 2.8 GHz & 3 nhân 2 GHz",
+        "ram": "12 GB",
+        "storage": "512 GB",
+        "battery": "4400 mAh",
+        "sim": "2 SIM (nano‑SIM và eSIM)",
+        "nfc": true
+      },
+      "software": {
+        "os": "Android 13"
+      },
+      "camera": {
+        "rear": "Camera siêu rộng: 12MP F2.2, 123°, 1.12μm\nCamera góc rộng: 50MP, F1.8, Dual Pixel AF, OIS, 2.0μm\nCamera Tele: 10 MP, F2.4, PDAF, OIS, 1.0μm, zoom 3X, zoom kỹ thuật số 30X",
+        "front": "Camera bên ngoài:10 MP, f/2.2\nCamera bên trong: 4 MP, F1.8"
+      },
+      "display": {
+        "technology": "Dynamic AMOLED 2X",
+        "size": "7.6 inches",
+        "resolution": "2176 x 1812 pixels (QXGA+)",
+        "features": [
+          "Màn hình chính rộng: 7,6 inch, 21.6:18, Dynamic AMOLED 2X, 1-120Hz, Hỗ trợ S Pen, Màn hình ngoài rộng: 6,2 inch, HD+ (2316 x 904), Dynamic AMOLED 2X, 23.1:9, 48-120Hz, Độ sáng tối đa: 1750 nits\nMặt kính cảm ứng Chính: Ultra Thin Glass & Phụ: Corning"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Samsung Galaxy Z Fold6",
+      "slug": "samsung-galaxy-z-fold6",
+      "category": "Samsung",
+      "general": {
+        "model": "Samsung Galaxy Z Fold 6 12GB 256GB",
+        "link": "https://cellphones.com.vn/samsung-galaxy-z-fold-6.html",
+        "price": "39.990.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754114568/samsung-galaxy-z-fold-6-hong_5__mzciqh.webp"
+      },
+      "hardware": {
+        "chipset": "Snapdragon 8 Gen 3 for Galaxy Tăng lên 42% AI",
+        "cpu": "8 nhân 3.39 GHz, 3.1GHz, 2.9GHz, 2.2GHz",
+        "ram": "12 GB",
+        "storage": "256 GB",
+        "battery": "4400 mAh",
+        "sim": "SIM 1 + SIM 2 / SIM 1 + eSIM / 2 eSIM",
+        "nfc": true
+      },
+      "software": {
+        "os": "Android"
+      },
+      "camera": {
+        "rear": "Camera góc rộng: 50.0 MP, f/1.8, Thu phóng quang học 2x\nCamera chụp góc siêu rộng: 12.0 MP, f/2.2\nCamera ống kính tele: 10.0 MP, f/2.4, Thu phóng Quang học 3x",
+        "front": "Camera bên ngoài:10 MP, f/2.2\nCamera bên trong: 4 MP, F1.8"
+      },
+      "display": {
+        "technology": "Dynamic AMOLED 2X",
+        "size": "7.6 inches",
+        "resolution": "2160 x 1856 (QXGA+)",
+        "features": [
+          "Màn hình chính: 7.6\", Dynamic AMOLED 2X, 120Hz, độ sâu màu sắc 16M, 2600nits, Màn hình phụ: 6.3\", 968 x 2376 (HD+), Dynamic AMOLED 2X, Kính cường lực Corning® Gorilla® Glass Victus® 2"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Samsung Galaxy Z Fold7",
+      "slug": "samsung-galaxy-z-fold7",
+      "category": "Samsung",
+      "general": {
+        "model": "Samsung Galaxy Z Fold7 12GB 256GB",
+        "link": "https://cellphones.com.vn/dien-thoai-samsung-galaxy-z-fold-7.html",
+        "price": "44.990.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754114569/samsung-galaxy-z-fold-7-xam_sc0zgk.webp"
+      },
+      "hardware": {
+        "chipset": "Snapdragon® 8 Elite 3nm for Galaxy",
+        "cpu": "8 nhân, 4.47GHz, 3.5GHz",
+        "ram": "12 GB",
+        "storage": "256 GB",
+        "battery": "4400mAh",
+        "sim": "2 Nano-SIM",
+        "nfc": true
+      },
+      "software": {
+        "os": "Android 16"
+      },
+      "camera": {
+        "rear": "200 MP, F1.7 + 12 MP, F2.2 + 10 MP, F2.4",
+        "front": "10MP, F2.2"
+      },
+      "display": {
+        "technology": "Dynamic AMOLED 2X",
+        "size": "8.0 inches",
+        "resolution": "Chính: QXGA+ (1968 x 2184 Pixels) & Phụ: Full HD+ (1080 x 2520 Pixels)",
+        "features": [
+          "Tần số quét: 120 Hz, Độ phân giải màn hình chính: 2184 x 1968 (QXGA+), Kích cỡ màn hình phụ: 6.5\"\nĐộ phân giải màn hình phụ: 2520 x 1080 (FHD+), Độ sâu màu sắc: 16M"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Samsung Galaxy Z Flip5",
+      "slug": "samsung-galaxy-z-flip5",
+      "category": "Samsung",
+      "general": {
+        "model": "Samsung Galaxy Z Flip5 512GB",
+        "link": "https://cellphones.com.vn/samsung-galaxy-z-flip-5.html",
+        "price": "14.490.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754114571/samsung-z-flip5_1_lnn8cn.webp"
+      },
+      "hardware": {
+        "chipset": "Snapdragon 8 Gen 2 for Galaxy",
+        "cpu": "1 nhân 3.36 GHz, 4 nhân 2.8 GHz & 3 nhân 2 GHz",
+        "ram": "8 GB",
+        "storage": "512 GB",
+        "battery": "3700 mAh",
+        "sim": "Nano-SIM + eSIM",
+        "nfc": true
+      },
+      "software": {
+        "os": "Android 13"
+      },
+      "camera": {
+        "rear": "Camera siêu rộng: 12MP, F2.2, 123°, 1.12 μm, FFCamera chính: 12MP, F1.8, Dual Pixel, 1.8μm, OIS",
+        "front": "10MP, F2.4, 1.22μm"
+      },
+      "display": {
+        "technology": "Dynamic AMOLED 2X",
+        "size": "6.7 inches",
+        "resolution": "1080 x 2640 pixels",
+        "features": [
+          "Màn hình trong: Dynamic AMOLED 2X, FHD+ (2640 x 1080 Pixels), 120 Hz, Ultra Thin Glass, độ sáng tối đa 1000nitsMàn hình phụ: 3.4\" (720x748) Super AMOLED, 60Hz, 306ppi, Corning Gorilla Glass Victus 2"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Samsung Galaxy Z Flip7",
+      "slug": "samsung-galaxy-z-flip7",
+      "category": "Samsung",
+      "general": {
+        "model": "Samsung Galaxy Z Flip7 12GB 256GB",
+        "link": "https://cellphones.com.vn/dien-thoai-samsung-galaxy-z-flip-7.html",
+        "price": "26.990.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754114568/samsung-galaxy-z-flip-7-xanh_zg2ir5.webp"
+      },
+      "hardware": {
+        "chipset": "Exynos 2500 (3 nm), tốc độ xung nhịp 3.3GHz, 2.74GHz, 2.36GHz, 1.8GHz",
+        "cpu": "10 nhân, 3.3 GHz, 2.74GHz, 2.36GHz, 1.8GHz",
+        "ram": "12 GB",
+        "storage": "256 GB",
+        "battery": "4300mAh",
+        "sim": "2 Nano-SIM",
+        "nfc": true
+      },
+      "software": {
+        "os": "Android"
+      },
+      "camera": {
+        "rear": "50 MP, F1.8 + 12 MP, F2.2",
+        "front": "10MP, F2.2"
+      },
+      "display": {
+        "technology": "Dynamic AMOLED 2X",
+        "size": "6.9 inches",
+        "resolution": "Màn chính: 6.9 inch, tỷ lệ 21:9, Dynamic AMOLED 2X, 2520 x 1080 pixels, FHD+, tần số quét 120Hz, độ sáng tối đa 2600 nits, màn phụ: 4.1 inch, tỷ lệ vuông, Super AMOLED FlexWindow, 1048 x 948 pixels, tần số quét 120Hz, độ sáng tối đa 2600 nits",
+        "features": [
+          "Tần số quét: 120 Hz, Độ phân giải màn hình chính: 2520 x 1080 (FHD+), Kích cỡ màn hình phụ: 4.1\"\nĐộ phân giải màn hình phụ: 1048 x 948, Công nghệ màn hình phụ: Super AMOLED, Độ sâu màu sắc: 16M"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Samsung Galaxy A56 5G",
+      "slug": "samsung-galaxy-a56-5g",
+      "category": "Samsung",
+      "general": {
+        "model": "Samsung Galaxy A56 5G 8GB 128GB",
+        "link": "https://cellphones.com.vn/dien-thoai-samsung-galaxy-a56.html",
+        "price": "9.310.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754114568/samsung-galaxy-a56.1_1_misvwk.webp"
+      },
+      "hardware": {
+        "chipset": "Exynos 1580",
+        "cpu": "8 nhân 2.9GHz, 2.6GHz, 1.9GHz",
+        "ram": "8 GB",
+        "storage": "128 GB",
+        "battery": "5000 mAh",
+        "sim": "SIM 1 + SIM 2 / SIM 1 + eSIM / 2 eSIM",
+        "nfc": true
+      },
+      "software": {
+        "os": "Android"
+      },
+      "camera": {
+        "rear": "50.0 MP, F/1.8  + 12.0 MP, F/2.2  + 5.0 MP, F/2.4",
+        "front": "12.0 MP, F/2.2"
+      },
+      "display": {
+        "technology": "Super AMOLED",
+        "size": "6.7 inches",
+        "resolution": "1080 x 2340 pixels (FullHD+)",
+        "features": [
+          "16 triệu màu, 120 Hz, 1200 nit, kính cường lực Corning Gorilla Glass Victus+"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Samsung Galaxy A55 5G",
+      "slug": "samsung-galaxy-a55-5g",
+      "category": "Samsung",
+      "general": {
+        "model": "Samsung Galaxy A55 5G 8GB 128GB",
+        "link": "https://cellphones.com.vn/samsung-galaxy-a55.html",
+        "price": "7.590.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754114568/samsung-galaxy-a55_auuqnv.webp"
+      },
+      "hardware": {
+        "chipset": "Exynos 1480 4nm 2.4GHz",
+        "cpu": "4 nhân 2.7 GHz & 4 nhân 2.0 GHz",
+        "ram": "8 GB",
+        "storage": "128 GB",
+        "battery": "5000 mAh",
+        "sim": "2 SIM (Nano-SIM)",
+        "nfc": true
+      },
+      "software": {
+        "os": "Android 14"
+      },
+      "camera": {
+        "rear": "Camera chính: 50 MP OIS+HDR\nCamera góc rộng: 12MP\nCamera macro: 5MP",
+        "front": "32 MP"
+      },
+      "display": {
+        "technology": "Super AMOLED",
+        "size": "6.6 inches",
+        "resolution": "1080 x 2340 pixels (FullHD+)",
+        "features": [
+          "Tần số quét 120Hz, 1000nits\n96% DCI-P3, 1000 nits, Gorilla Glass 7+"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Samsung Galaxy A36 5G",
+      "slug": "samsung-galaxy-a36-5g",
+      "category": "Samsung",
+      "general": {
+        "model": "Samsung Galaxy A36 5G 8GB 128GB",
+        "link": "https://cellphones.com.vn/dien-thoai-samsung-galaxy-a36.html",
+        "price": "7.640.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754114568/samsung-galaxy-a36_1__1_1_latiod.webp"
+      },
+      "hardware": {
+        "chipset": "Snapdragon 6 Gen 3",
+        "cpu": "8 nhân 2.4GHz, 1.8GHz",
+        "ram": "8 GB",
+        "storage": "128 GB",
+        "battery": "5000 mAh",
+        "sim": "SIM 1 + SIM 2 / SIM 1 + eSIM / 2 eSIM",
+        "nfc": true
+      },
+      "software": {
+        "os": "Android"
+      },
+      "camera": {
+        "rear": "50.0 MP, F/1.8  + 8.0 MP, F/2.2  + 5.0 MP,  F/2.4",
+        "front": "12.0 MP, F/2.2"
+      },
+      "display": {
+        "technology": "Super AMOLED",
+        "size": "6.7 inches",
+        "resolution": "1080 x 2340 pixels (FullHD+)",
+        "features": [
+          "16 triệu màu, 120 Hz, 1.200 nit, kính cường lực Corning Gorilla Glass Victus+"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Xiaomi 15 5G",
+      "slug": "xiaomi-15-5g",
+      "category": "Xiaomi",
+      "general": {
+        "model": "Xiaomi 15 5G 12GB 256GB",
+        "link": "https://cellphones.com.vn/dien-thoai-xiaomi-15.html",
+        "price": "22.040.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754115026/dien-thoai-xiaomi-15_19__dhovbn.webp"
+      },
+      "hardware": {
+        "chipset": "Snapdragon 8 Elite (Tiến trình sản xuất 3nm)",
+        "cpu": "2 x Lõi Prime, tốc độ tối đa 4,32GHz6 x Lõi hiệu suất, lên đến 3,53GHz",
+        "ram": "12 GB",
+        "storage": "256 GB",
+        "battery": "5240mAh",
+        "sim": "Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim",
+        "nfc": true
+      },
+      "software": {
+        "os": "Xiaomi HyperOS 2"
+      },
+      "camera": {
+        "rear": "Camera chính Leica: 50MP, ƒ/1.62, OIS, Tiêu cự tương đương 23mm\nCamera tele Leica: 50MP, ƒ/2.0, OIS\nCamera góc siêu rộng Leica: 50MP, ƒ/2.2, 115°",
+        "front": "Camera trước: 32MP, ƒ/2.0, 90°,  Tiêu cự 21mm"
+      },
+      "display": {
+        "technology": "CrystalRes AMOLED",
+        "size": "6.36 inches",
+        "resolution": "2670 x 1200 pixels",
+        "features": [
+          "Độ sáng 3200 nits, Tự động tinh chỉnh tần số quét 1-120Hz, Tốc độ phản hồi cảm ứng lên đến 300Hz, Hỗ trợ 68 tỷ màu, Dải màu DCI-P3, Hỗ trợ Dolby Vision, HDR10+, HDR10, Độ sáng DC, Công nghệ cảm ứng ướt"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Xiaomi 15 Ultra 5G",
+      "slug": "xiaomi-15-ultra-5g",
+      "category": "Xiaomi",
+      "general": {
+        "model": "Xiaomi 15 Ultra 5G 16GB 512GB",
+        "link": "https://cellphones.com.vn/dien-thoai-xiaomi-15-ultra.html",
+        "price": "32.360.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754115026/dien-thoai-xiaomi-15-ultra_u9ur63.webp"
+      },
+      "hardware": {
+        "chipset": "Snapdragon 8 Elite (Tiến trình sản xuất 3nm)",
+        "cpu": "2 x Lõi Prime, tốc độ tối đa 4,32GHz6 x Lõi hiệu suất, lên đến 3,53GHz",
+        "ram": "16 GB",
+        "storage": "512 GB",
+        "battery": "5410mAh",
+        "sim": "Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim",
+        "nfc": true
+      },
+      "software": {
+        "os": "Xiaomi HyperOS 2"
+      },
+      "camera": {
+        "rear": "Camera chính Leica: 50MP, ƒ/1.63, OIS\nCamera tele Leica: 50MP, ƒ/1.8, OIS\nCamera siêu tele Leica: 200MP, ƒ/2.6, OIS\nCamera góc siêu rộng Leica: 50MP, ƒ/2.2, 115° FOV",
+        "front": "Camera trước: 32MP, ƒ/2.0, 90° FOV\nCảm biến OV32B\nTiêu cự 21mm"
+      },
+      "display": {
+        "technology": "AMOLED",
+        "size": "6.73 inches",
+        "resolution": "3200 x 1440 pixel",
+        "features": [
+          "68 tỷ màu, Tần số quét 1-120Hz, Tốc độ phản hồi cảm ứng 300Hz, Độ sáng tối đa 3200 nits trong nhiều tình huống, Điều chỉnh độ sáng PWM 1920Hz/DC dimming, Original color PRO | Pro HDR | Công nghệ cảm ứng khi ướtHDR10+, Dolby Vision"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Xiaomi Redmi Note 14 Pro 5G",
+      "slug": "xiaomi-redmi-note-14-pro-5g",
+      "category": "Xiaomi",
+      "general": {
+        "model": "Xiaomi Redmi Note 14 Pro 5G 8GB 256GB - Đã Kích Hoạt",
+        "link": "https://cellphones.com.vn/xiaomi-redmi-note-14-pro-5g-8gb-256gb-cu-da-kich-hoat.html",
+        "price": "6.990.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754115028/xiaomi-redmi-note-14-pro-5g-8gb-256gb_5__1_u3d7ej.webp"
+      },
+      "hardware": {
+        "chipset": "MediaTek Dimensity 7300-Ultra 8 nhân",
+        "cpu": "4 nhân 2.5 GHz & 4 nhân 2 GHz",
+        "ram": "8 GB",
+        "storage": "256 GB",
+        "battery": "5110 mAh",
+        "sim": "2 Nano-SIM",
+        "nfc": true
+      },
+      "software": {
+        "os": "Xiaomi HyperOS (Android 14)"
+      },
+      "camera": {
+        "rear": "Chính 200 MP & Phụ 8 MP, 2 MP",
+        "front": "20 MP"
+      },
+      "display": {
+        "technology": "AMOLED",
+        "size": "6.67 inches",
+        "resolution": "1220 x 2712 pixels",
+        "features": [
+          "Tần số quét 120 Hz, Độ sáng tối đa: 3000 nits, Kính cường lực Corning Gorilla Glass Victus 2"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Xiaomi Redmi Note 14 Pro Plus 5G",
+      "slug": "xiaomi-redmi-note-14-pro-plus-5g",
+      "category": "Xiaomi",
+      "general": {
+        "model": "Xiaomi Redmi Note 14 Pro Plus 5G 8GB 256GB",
+        "link": "https://cellphones.com.vn/dien-thoai-xiaomi-redmi-note-14-pro-plus.html",
+        "price": "9.290.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754115027/dien-thoai-xiaomi-redmi-note-14-pro-plus-tim_qb5wl7.webp"
+      },
+      "hardware": {
+        "chipset": "Snapdragon® 7s Gen 3",
+        "cpu": "8 nhân, xung nhịp 2.5Ghz",
+        "ram": "8 GB",
+        "storage": "256 GB",
+        "battery": "5110 mAh",
+        "sim": "2 Nano-SIM",
+        "nfc": true
+      },
+      "software": {
+        "os": "Android 14"
+      },
+      "camera": {
+        "rear": "Chính 200MP, OIS - f/1.65 Góc siêu rộng 8MP - f/2.2 Macro 2MP - f/2.4",
+        "front": "Camera trước - f/2.2"
+      },
+      "display": {
+        "technology": "AMOLED",
+        "size": "6.67 inches",
+        "resolution": "2712 x 1220 pixels",
+        "features": [
+          "Tần số quét: Lên đến 120Hz, Độ sáng: 3000 nits, Độ sâu màu: 12-bit, Tỷ lệ tương phản: 5,000,000:1"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Xiaomi 14T",
+      "slug": "xiaomi-14t",
+      "category": "Xiaomi",
+      "general": {
+        "model": "Xiaomi 14T 12GB 512GB",
+        "link": "https://cellphones.com.vn/xiaomi-14t.html",
+        "price": "13.240.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754115027/xiaomi_14t_2__x7trwd.webp"
+      },
+      "hardware": {
+        "chipset": "MediaTek Dimensity 8300-Ultra",
+        "cpu": "1x Cortex-A715, Lên đến 3,35GHz; 3x  Cortex-A715, Lên đến 3,2GHz; 4x Cortex-A510  lên đến 2,2GHz",
+        "ram": "12 GB",
+        "storage": "512 GB",
+        "battery": "5000 mAh",
+        "sim": "Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim",
+        "nfc": true
+      },
+      "software": {
+        "os": "Xiaomi HyperOS (Android 14)"
+      },
+      "camera": {
+        "rear": "Camera chính: 50MP, 23mm, ƒ/1 7\nCảm biến hình ảnh IMX906 của Sony 2 0 m Super Pixel\nMáy ảnh tele: 50MP, 50mm, ƒ/1 9\nMáy ảnh góc siêu rộng: 12MP, 15mm, ƒ/2 2",
+        "front": "32MPƒ/2,0\nFOV 80,8˚\nChế độ ban đêm\nHDR\nTính năng chụp ảnh bằng lòng bàn tay"
+      },
+      "display": {
+        "technology": "AMOLED",
+        "size": "6.67 inches",
+        "resolution": "1220 x 2712 pixels",
+        "features": [
+          "144Hz, 1,5K CrystalRes AMOLED,  446 ppi, 4000 nits, Độ sâu màu 12 bit, Làm mờ PWM lên đến 3840HDR10+, Dolby Vision"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Xiaomi 14T Pro 5G",
+      "slug": "xiaomi-14t-pro-5g",
+      "category": "Xiaomi",
+      "general": {
+        "model": "Xiaomi 14T Pro 12GB 512GB",
+        "link": "https://cellphones.com.vn/xiaomi-14t-pro.html",
+        "price": "14.890.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1754115027/xiaomi_14t_pro_1__uejyxd.webp"
+      },
+      "hardware": {
+        "chipset": "MediaTek Dimensity 9300+",
+        "cpu": " 1 x Cortex-X4, tối đa 3,4GHz; 3 x Cortex-X4,  lên đến 2,85GHz; 4 x Cortex-A720, lên đến 2.0GHz",
+        "ram": "12 GB",
+        "storage": "512 GB",
+        "battery": "5000 mAh",
+        "sim": "Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim",
+        "nfc": true
+      },
+      "software": {
+        "os": "Xiaomi HyperOS (Android 14)"
+      },
+      "camera": {
+        "rear": "Máy ảnh chính: 50MP, 23mm, ƒ/1 6\nMáy ảnh góc siêu rộng: 12MP, 15mm, ƒ/2 2\nMáy ảnh tele: 50MP, 60mm, ƒ/2 0",
+        "front": "32MPƒ/2,0\nĐộ dài tiêu cự tương đương 25 mm\nFOV 80,8˚\nChế độ ban đêm\nHDR\nTính năng chụp ảnh bằng lòng bàn tay"
+      },
+      "display": {
+        "technology": "AMOLED",
+        "size": "6.67 inches",
+        "resolution": "1220 x 2712 pixels",
+        "features": [
+          "144Hz, 446 ppi, 4000 nits, Độ sâu màu 12 bit, Làm mờ PWM lên đến 3840, HDR10+, Dolby Vision®, Mặt sau cong 3D"
+        ]
+      }
+    }
+  ]
+}

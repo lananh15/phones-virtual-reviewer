@@ -1,0 +1,42 @@
+{
+  "video_id": "THMpo7Ho0CI",
+  "video_url": "https://www.youtube.com/watch?v=THMpo7Ho0CI",
+  "video_title": "Đánh giá chi tiết iPhone 16 Plus",
+  "video_author": "Vinh Xô",
+  "upload_date": "2025-05-01",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 16 Plus",
+        "features": [
+          "Pin khỏe hơn iPhone 16 Pro Max",
+          "Chất lượng hiển thị tương đồng với iPhone 16 Pro Max",
+          "Loa ngoài nghe hay",
+          "Thiết kế cầm nắm tốt, nhẹ hơn và mỏng hơn iPhone 16 Pro Max",
+          "Khả năng chống nước IP68",
+          "Màn hình 6.7 inch",
+          "Camera chính 48MP, camera góc siêu rộng 12MP",
+          "Tính năng dịch thuật trực tiếp",
+          "Không hỗ trợ tần số quét 120Hz",
+          "Không hỗ trợ sạc nhanh"
+        ],
+        "pros": [
+          "Pin bền bỉ, đặc biệt khi sử dụng 5G",
+          "Màn hình hiển thị sắc nét, màu sắc trung thực",
+          "Thiết kế nhẹ và mỏng, dễ dàng cầm nắm",
+          "Chất lượng loa tốt, phù hợp nghe ngoài trời",
+          "Tính năng dịch thuật hữu ích khi du lịch"
+        ],
+        "cons": [
+          "Không có tần số quét 120Hz",
+          "Camera không có nhiều cải tiến so với các mẫu Pro",
+          "Không hỗ trợ sạc nhanh",
+          "Cổng USB chỉ là 2.0, không phải 3.0"
+        ],
+        "price": "trên 22 triệu đồng",
+        "recommendation": "Phù hợp với người dùng không yêu cầu cao về camera và tần số quét màn hình, cần một thiết bị với thời lượng pin tốt và màn hình lớn.",
+        "type": "main"
+      }
+    ]
+  }
+}

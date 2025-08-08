@@ -1,0 +1,84 @@
+{
+  "video_id": "TgndsCjb1fQ",
+  "video_url": "https://www.youtube.com/watch?v=TgndsCjb1fQ",
+  "video_title": "Review iPhone 15 Pro Max: thay đổi nhỏ (hay lớn)?",
+  "video_author": "Duy Luân Dễ Thương",
+  "upload_date": "2023-09-30",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 15 Pro Max",
+        "features": [
+          "Cổng USB-C",
+          "Sạc tối đa 27W",
+          "Chip Apple A17 Pro",
+          "Tính năng Always-On Display",
+          "Camera với Smart HDR5 và khả năng zoom 5x",
+          "Action Button mới"
+        ],
+        "pros": [
+          "Hiệu năng mạnh mẽ với chip A17 Pro",
+          "Thiết kế nhẹ hơn và dễ cầm hơn",
+          "Màn hình chất lượng cao",
+          "Khả năng chụp ảnh tốt, đặc biệt là trong điều kiện thiếu sáng",
+          "Tính năng sạc ngược cho thiết bị bên ngoài"
+        ],
+        "cons": [
+          "Vẫn còn hơi nặng so với iPhone 15 Plus",
+          "Có báo cáo về vấn đề nóng khi sử dụng Instagram",
+          "Vấn đề sạc ngược không mong muốn khi kết nối với sạc dự phòng"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho người dùng cần hiệu năng cao và tính năng chụp ảnh tốt. Không cần thiết phải nâng cấp nếu đã sử dụng iPhone 14 Pro Max trừ khi không thích cảm giác cầm của nó.",
+        "type": "main"
+      },
+      {
+        "name": "iPhone 14 Pro Max",
+        "features": [
+          "Chip cũ hơn so với iPhone 15 Pro Max",
+          "Thiết kế nặng và khó cầm hơn so với iPhone 15 Pro Max"
+        ],
+        "pros": [
+          "Hiệu năng vẫn tốt",
+          "Màn hình chất lượng cao"
+        ],
+        "cons": [
+          "Nặng và khó cầm hơn iPhone 15 Pro Max",
+          "Không có những cải tiến đáng kể so với iPhone 15 Pro Max về hiệu năng"
+        ],
+        "price": "",
+        "recommendation": "Không cần thiết phải nâng cấp lên iPhone 15 Pro Max nếu đã sử dụng và hài lòng với iPhone 14 Pro Max",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 13 Pro Max",
+        "features": [
+          "Chip cũ hơn so với iPhone 15 Pro Max",
+          "Thiết kế nặng và khó cầm hơn so với iPhone 15 Pro Max"
+        ],
+        "pros": [
+          "Hiệu năng tốt",
+          "Màn hình chất lượng cao"
+        ],
+        "cons": [
+          "Nặng và khó cầm hơn iPhone 15 Pro Max",
+          "Không có những cải tiến đáng kể so với iPhone 15 Pro Max về hiệu năng"
+        ],
+        "price": "",
+        "recommendation": "Có thể xem xét nâng cấp lên iPhone 15 Pro Max nếu muốn trải nghiệm những cải tiến mới",
+        "type": "compare"
+      },
+      {
+        "name": "Samsung Galaxy S23 Ultra",
+        "features": [
+          "Khả năng chụp ảnh và quay phim"
+        ],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      }
+    ]
+  }
+}

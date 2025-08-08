@@ -1,0 +1,66 @@
+{
+  "video_id": "3MS3JuDyuDU",
+  "video_url": "https://www.youtube.com/watch?v=3MS3JuDyuDU",
+  "video_title": "Thực tế iPhone 16 Plus: iPhone cho đa số mọi người",
+  "video_author": "Duy Luân Dễ Thương",
+  "upload_date": "2024-09-24",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 16 Plus",
+        "features": [
+          "Màn hình 6.7 inch",
+          "Cụm camera được làm đậm hơn",
+          "Có nhiều màu sắc nổi bật, đặc biệt là màu xanh",
+          "Chip Apple A18",
+          "Dung lượng pin lớn, sử dụng được cả ngày",
+          "Camera ultra wide được nâng cấp",
+          "Tính năng audio mix"
+        ],
+        "pros": [
+          "Thiết kế đẹp, màu sắc ấn tượng",
+          "Cầm thoải mái, không còn cảm giác cấn tay",
+          "Hiệu năng tốt với chip mới",
+          "Thời gian sử dụng pin dài",
+          "Camera chất lượng cao, cải thiện chụp đêm"
+        ],
+        "cons": [
+          "Viền màn hình còn hơi dày so với dòng Pro",
+          "Không có màn hình 120Hz"
+        ],
+        "price": "25,9 triệu VND",
+        "recommendation": "Phù hợp cho đa số người dùng không yêu cầu cao về tính năng Pro, tiết kiệm chi phí so với các dòng Pro",
+        "type": "main"
+      },
+      {
+        "name": "iPhone 15 Plus",
+        "features": [
+          "Màn hình lớn",
+          "Thiết kế nhẹ và thoải mái khi cầm",
+          "Pin lâu"
+        ],
+        "pros": [
+          "Cầm thoải mái",
+          "Màn hình lớn phù hợp cho việc giải trí và làm việc",
+          "Pin dùng lâu"
+        ],
+        "cons": [],
+        "price": "",
+        "recommendation": "Là lựa chọn tốt cho người dùng trong năm qua",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 14 Plus",
+        "features": [],
+        "pros": [],
+        "cons": [
+          "Nặng khi cầm",
+          "Cạnh máy hơi sắc, gây cấn khi cầm lâu"
+        ],
+        "price": "",
+        "recommendation": "Nên nâng cấp lên iPhone 16 Plus để có trải nghiệm tốt hơn",
+        "type": "compare"
+      }
+    ]
+  }
+}

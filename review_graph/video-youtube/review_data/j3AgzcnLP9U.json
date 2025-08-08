@@ -1,0 +1,37 @@
+{
+  "video_id": "j3AgzcnLP9U",
+  "video_url": "https://www.youtube.com/watch?v=j3AgzcnLP9U",
+  "video_title": "Mở hộp Xiaomi 15 chính hãng, khác gì bản xách tay?",
+  "video_author": "Vinh Xô",
+  "upload_date": "2025-03-02",
+  "content": {
+    "products": [
+      {
+        "name": "Xiaomi 15 5G",
+        "features": [
+          "Màn hình 6.36 inch, độ phân giải cao, 120Hz, tần số lấy mẫu cảm ứng 300Hz, hỗ trợ DCI-P3",
+          "Vi xử lý Snapdragon 8 Elite, 12GB RAM, bộ nhớ trong 256GB và 512GB, bộ nhớ UFS 4.0",
+          "Dung lượng pin 5240 mAh, sạc nhanh 90W có dây, sạc nhanh không dây 50W",
+          "Camera chính 50MP, camera Leica Telephoto 50MP, camera Ultra Wide 50MP, camera selfie 32MP",
+          "Chế độ quay video Master Cinema, hỗ trợ quay video 4K60 và 8K30, chế độ chân dung bậc thầy và Leica tự nhiên",
+          "Khả năng chống nước IP68",
+          "Trọng lượng 191g, độ dày 8.48mm"
+        ],
+        "pros": [
+          "Thiết kế nhỏ gọn, hoàn thiện tốt",
+          "Màn hình xuất sắc với độ phân giải cao và tần số quét cao",
+          "Hiệu năng mạnh mẽ với vi xử lý hàng đầu và RAM lớn",
+          "Camera chất lượng cao với hợp tác từ Leica",
+          "Dung lượng pin lớn với hỗ trợ sạc nhanh",
+          "Khả năng chống nước tốt"
+        ],
+        "cons": [
+          "Chế độ Master Cinema chỉ hỗ trợ độ phân giải Full HD, không lên được 4K"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho người dùng yêu cầu hiệu năng cao và chụp ảnh chuyên nghiệp",
+        "type": "main"
+      }
+    ]
+  }
+}

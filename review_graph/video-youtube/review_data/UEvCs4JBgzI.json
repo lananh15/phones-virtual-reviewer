@@ -1,0 +1,82 @@
+{
+  "video_id": "UEvCs4JBgzI",
+  "video_url": "https://www.youtube.com/watch?v=UEvCs4JBgzI",
+  "video_title": "iPhone 13 Chỉ Còn Hơn 8 Triệu - Cần Đánh Đổi Điều Gì? Có Nên Mua Trong Năm 2025?",
+  "video_author": "F.A CHANNEL",
+  "upload_date": "2025-05-07",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 13",
+        "features": [
+          "Chip Apple A15",
+          "128GB bộ nhớ trong",
+          "Camera chất lượng cao",
+          "Màn hình sáng và mỏng",
+          "Hỗ trợ cập nhật phần mềm dài hạn"
+        ],
+        "pros": [
+          "Giá hợp lý so với các tính năng",
+          "Cấu hình tốt, máy nóng ít hơn, ít tụt độ sáng màn hình",
+          "Camera và chất lượng video tốt so với tầm giá",
+          "Màn hình sáng và mỏng hơn so với các mẫu iPhone cũ",
+          "Tuổi thọ pin tốt, khoảng 6-8 tiếng sử dụng liên tục",
+          "Hỗ trợ cập nhật phần mềm trong 4-5 năm"
+        ],
+        "cons": [
+          "Không phải hàng mới, là hàng Like New với rủi ro cao hơn",
+          "Trải nghiệm không phải là tốt nhất trong tầm giá so với các lựa chọn Android",
+          "Bộ nhớ trong 128GB có thể không đủ cho nhu cầu lưu trữ cao",
+          "Màn hình và tính năng không bằng các mẫu Android cao cấp"
+        ],
+        "price": "8 triệu",
+        "recommendation": "Lựa chọn tối ưu cho người dùng thích iOS và không cần các tính năng cao cấp nhất",
+        "type": "main"
+      },
+      {
+        "name": "iPhone 11 Pro Max",
+        "features": [],
+        "pros": [],
+        "cons": [
+          "Cấu hình thấp hơn iPhone 13",
+          "Màn hình kém sáng hơn iPhone 13",
+          "Pin kém bền hơn iPhone 13"
+        ],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 12",
+        "features": [],
+        "pros": [],
+        "cons": [
+          "Ra mắt sớm hơn iPhone 13 một năm",
+          "Cấu hình thấp hơn iPhone 13",
+          "Pin kém bền hơn iPhone 13"
+        ],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      },
+      {
+        "name": "Samsung Galaxy A55 5G",
+        "features": [],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "Lựa chọn hợp lý trong tầm giá tương tự iPhone 13 cho người dùng Android",
+        "type": "compare"
+      },
+      {
+        "name": "Poco X7 Pro 5G",
+        "features": [],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "Lựa chọn hợp lý trong tầm giá tương tự iPhone 13 cho người dùng Android",
+        "type": "compare"
+      }
+    ]
+  }
+}

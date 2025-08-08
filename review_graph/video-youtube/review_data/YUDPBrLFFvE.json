@@ -1,0 +1,83 @@
+{
+  "video_id": "YUDPBrLFFvE",
+  "video_url": "https://www.youtube.com/watch?v=YUDPBrLFFvE",
+  "video_title": "Đánh giá chi tiết Galaxy S25: nhỏ gọn nhất và cũng nâng cấp ít nhất",
+  "video_author": "Vinh Xô",
+  "upload_date": "2025-02-05",
+  "content": {
+    "products": [
+      {
+        "name": "Samsung Galaxy S25",
+        "features": [
+          "Kích thước nhỏ gọn, mỏng",
+          "Trọng lượng nhẹ, chỉ 162 gram",
+          "Cụm camera thoải mái, không gồ ghề",
+          "Màu sắc đẹp, hoàn thiện cao cấp",
+          "Chống nước IP68",
+          "Công nghệ sạc 25W",
+          "Màn hình 6.2 inch",
+          "Giao diện One UI mới",
+          "Tính năng AI cho camera và ghi âm",
+          "Loa kép"
+        ],
+        "pros": [
+          "Thiết kế nhỏ gọn, dễ cầm nắm",
+          "Màu sắc và hoàn thiện cao cấp",
+          "Trọng lượng nhẹ, thoải mái khi sử dụng",
+          "Cụm camera không gồ ghề, dễ dàng thao tác",
+          "Chống nước IP68",
+          "Giao diện One UI mới với nhiều tùy biến và tính năng thông minh",
+          "Tính năng AI hỗ trợ chụp ảnh và quay video hiệu quả",
+          "Loa kép cung cấp âm thanh tốt"
+        ],
+        "cons": [
+          "Dung lượng pin không được nâng cấp, thấp hơn so với các đối thủ",
+          "Công nghệ sạc chỉ 25W, không cạnh tranh được với các mẫu mới hỗ trợ sạc nhanh hơn",
+          "Không có tính năng mắt hồng ngoại, một tính năng được yêu thích trên các mẫu điện thoại cũ hơn"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho những người yêu thích thiết kế nhỏ gọn, cần một chiếc điện thoại có tính năng AI tốt và không quá quan trọng về thời lượng pin",
+        "type": "main"
+      },
+      {
+        "name": "Samsung Galaxy S24",
+        "features": [],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "Nếu đang sử dụng Galaxy S24, không có lý do cấp thiết để nâng cấp lên S25 vì các tính năng tương tự nhau",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 16",
+        "features": [],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "Galaxy S25 mỏng hơn và nhẹ hơn so với iPhone 16, cung cấp trải nghiệm thoải mái hơn cho người dùng",
+        "type": "compare"
+      },
+      {
+        "name": "OPPO Find X8",
+        "features": [],
+        "pros": [
+          "Dung lượng pin lớn hơn Samsung Galaxy S25, 5630mAh",
+          "Công nghệ sạc nhanh hơn"
+        ],
+        "cons": [],
+        "price": "",
+        "recommendation": "Nếu thời lượng pin là yếu tố quan trọng, phái 8 là lựa chọn tốt hơn so với Galaxy S25",
+        "type": "compare"
+      },
+      {
+        "name": "Samsung Galaxy S25 Ultra",
+        "features": [],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "Không thoải mái bằng khi sử dụng một tay so với Samsung Galaxy S25 do kích thước lớn",
+        "type": "compare"
+      }
+    ]
+  }
+}

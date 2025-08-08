@@ -1,0 +1,53 @@
+{
+  "video_id": "wY4z90ptemA",
+  "video_url": "https://www.youtube.com/watch?v=wY4z90ptemA",
+  "video_title": "Review OPPO Find X8 Pro",
+  "video_author": "Duy Luân Dễ Thương",
+  "upload_date": "2025-01-02",
+  "content": {
+    "products": [
+      {
+        "name": "OPPO Find X8 Pro 5G",
+        "features": [
+          "Chip Dimensity 9400",
+          "Thiết kế đại diện cho DNA của Oppo",
+          "Màn hình độ phân giải cao, độ sáng cao, màu sắc tái hiện đẹp",
+          "Camera chất lượng cao, chế độ chụp burst",
+          "Hỗ trợ 5G",
+          "Công nghệ pin Silicon-Carbon cho thời gian sử dụng lâu",
+          "Bộ xử lý hình ảnh Imagiq 1090",
+          "Tính năng AI cho chụp ảnh và productivity"
+        ],
+        "pros": [
+          "Hiệu năng cao với chip Dimensity 9400",
+          "Thiết kế đẹp và độc đáo",
+          "Màn hình xuất sắc",
+          "Camera chụp ảnh và quay phim tốt",
+          "Thời gian sử dụng pin lâu",
+          "Hỗ trợ 5G tốt",
+          "Tính năng AI hữu ích"
+        ],
+        "cons": [
+          "Viền màn hình dày hơn so với một số mẫu khác",
+          "Khả năng chống rung khi quay video chưa tốt bằng iPhone"
+        ],
+        "price": "",
+        "recommendation": "Rất đáng mua cho những ai đang tìm kiếm một chiếc điện thoại flagship với thiết kế đẹp, camera tốt, và hiệu năng mạnh mẽ.",
+        "type": "main"
+      },
+      {
+        "name": "OPPO Find X8",
+        "features": [
+          "Thiết kế nhỏ gọn hơn OPPO Find X8 Pro"
+        ],
+        "pros": [
+          "Lựa chọn tốt cho những ai thích điện thoại nhỏ gọn"
+        ],
+        "cons": [],
+        "price": "",
+        "recommendation": "Lựa chọn phù hợp cho những người thích điện thoại nhỏ gọn hơn nhưng vẫn muốn có hiệu năng tốt.",
+        "type": "compare"
+      }
+    ]
+  }
+}

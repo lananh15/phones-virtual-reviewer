@@ -1,0 +1,105 @@
+{
+  "video_id": "XIrw52DFcRI",
+  "video_url": "https://www.youtube.com/watch?v=XIrw52DFcRI",
+  "video_title": "Đánh giá OPPO Reno14 và Reno14 Pro chính hãng: Ngày càng giống flagship!",
+  "video_author": "Vật Vờ Studio",
+  "upload_date": "2025-07-01",
+  "content": {
+    "products": [
+      {
+        "name": "OPPO Reno14 5G",
+        "features": [
+          "Thiết kế đổi mới hàng năm",
+          "Hỗ trợ 5G",
+          "Sạc 80W SuperVOOC",
+          "Camera chất lượng",
+          "Màn hình lớn",
+          "Viên pin 6000mAh",
+          "Khả năng chống nước và chống dầu",
+          "Viền Silicon",
+          "Họa tiết đuôi cá có thể đổi màu",
+          "Hệ thống camera đa dạng",
+          "Camera tele 50MP",
+          "Hỗ trợ đèn flash LED",
+          "Khả năng chụp zoom 120X",
+          "Tính năng AI mạnh mẽ",
+          "Khả năng kết nối với MacOS"
+        ],
+        "pros": [
+          "Thiết kế thời trang và hiện đại",
+          "Camera tele vật lý giảm tải xử lý thuật toán",
+          "Chất lượng ảnh chụp zoom tốt",
+          "Tính năng AI đa dạng và hiệu quả",
+          "Màn hình chất lượng cao",
+          "Khả năng chống nước và chống dầu tốt"
+        ],
+        "cons": [
+          "Khả năng xử lý HDR kém",
+          "Hiệu năng chưa mạnh so với các đối thủ"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp với người dùng phổ thông không chạy theo công nghệ cao",
+        "type": "main"
+      },
+      {
+        "name": "OPPO Reno14 Pro 5G",
+        "features": [
+          "Thiết kế đổi mới hàng năm",
+          "Hỗ trợ 5G",
+          "Sạc 80W SuperVOOC và sạc không dây 50W",
+          "Camera chất lượng",
+          "Màn hình lớn hơn Oppo Reno14 5G",
+          "Viên pin 6200mAh",
+          "Khả năng chống nước và chống dầu",
+          "Viền Silicon",
+          "Họa tiết đuôi cá có thể đổi màu",
+          "Hệ thống camera đa dạng",
+          "Camera Ultra Wide 50MP",
+          "Hỗ trợ đèn flash LED",
+          "Khả năng chụp zoom 120X",
+          "Tính năng AI mạnh mẽ",
+          "Khả năng kết nối với Mac OS"
+        ],
+        "pros": [
+          "Thiết kế thời trang và hiện đại",
+          "Camera Ultra Wide chất lượng cao",
+          "Chất lượng ảnh chụp zoom tốt",
+          "Tính năng AI đa dạng và hiệu quả",
+          "Màn hình chất lượng cao",
+          "Khả năng chống nước và chống dầu tốt"
+        ],
+        "cons": [
+          "Khả năng xử lý HDR kém",
+          "Hiệu năng chưa mạnh so với các đối thủ"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp với người dùng phổ thông không chạy theo công nghệ cao",
+        "type": "main"
+      },
+      {
+        "name": "OPPO Reno13 Series",
+        "features": [
+          "Họa tiết cánh bướm",
+          "Chip giống nhau cho cả bản thường và Pro"
+        ],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      },
+      {
+        "name": "OPPO Find X8",
+        "features": [
+          "Thuộc hàng flagship cao cấp",
+          "Thuật toán xử lý hình ảnh tốt"
+        ],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      }
+    ]
+  }
+}

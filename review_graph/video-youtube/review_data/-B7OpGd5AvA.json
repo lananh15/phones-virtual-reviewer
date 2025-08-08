@@ -1,0 +1,34 @@
+{
+  "video_id": "-B7OpGd5AvA",
+  "video_url": "https://www.youtube.com/watch?v=-B7OpGd5AvA",
+  "video_title": "Review iPhone 14 Plus: chiếc iPhone hài lòng nhất",
+  "video_author": "Duy Luân Dễ Thương",
+  "upload_date": "2022-10-20",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 14 Plus",
+        "features": [
+          "Màn hình lớn 6.7 inch",
+          "Trọng lượng nhẹ",
+          "Thời gian sử dụng pin dài",
+          "Camera được nâng cấp so với iPhone 13",
+          "Có tính năng autofocus trên camera trước"
+        ],
+        "pros": [
+          "Cảm giác cầm nhẹ và thoải mái",
+          "Thời gian sử dụng pin lâu, có thể kéo dài 1.5 đến 2 ngày tùy theo mức sử dụng",
+          "Camera chụp hình đẹp, chất lượng ảnh tương đương iPhone 13 Pro Max",
+          "Giá cả đã bắt đầu ổn định và phù hợp với nhiều người"
+        ],
+        "cons": [
+          "Không có camera tele",
+          "Chưa có màn hình 120Hz"
+        ],
+        "price": "24,990,000 VND",
+        "recommendation": "Phù hợp với đa số mọi người, những người cần một chiếc điện thoại với màn hình lớn, pin bền, cầm dễ dàng và không cần những tính năng cao cấp nhất",
+        "type": "main"
+      }
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "video_id": "ltI4BnhPeD8",
+  "video_url": "https://www.youtube.com/watch?v=ltI4BnhPeD8",
+  "video_title": "TOP iPhone Cũ Đáng Mua Nhất 2025 - Phù Hợp Mọi Nhu Cầu, Pin Trâu, Cấu Hình Khoẻ, Dùng Lâu Dài!",
+  "video_author": "F.A CHANNEL",
+  "upload_date": "2025-07-10",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 11",
+        "features": [],
+        "pros": [
+          "Có thể chạy ổn với nhu cầu cơ bản",
+          "Giá khoảng 5 triệu đồng"
+        ],
+        "cons": [
+          "Không phù hợp với nhu cầu cao"
+        ],
+        "price": "5 triệu đồng",
+        "recommendation": "Phù hợp cho người dùng có nhu cầu cơ bản",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 12",
+        "features": [],
+        "pros": [
+          "Tạm chấp nhận được với nhu cầu dụng cơ bản",
+          "Giá khoảng 7 triệu đồng"
+        ],
+        "cons": [
+          "Không phù hợp với nhu cầu cao"
+        ],
+        "price": "7 triệu đồng",
+        "recommendation": "Phù hợp cho người dùng có nhu cầu cơ bản",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 13",
+        "features": [
+          "Trang bị chip Apple A15",
+          "Bộ nhớ trong tối thiểu 128GB",
+          "Camera chất lượng cao"
+        ],
+        "pros": [
+          "Hiệu năng mạnh mẽ, phù hợp cho việc chơi game",
+          "Trải nghiệm tốt về phần mềm và camera",
+          "Có sự lựa chọn giữa hàng mới và hàng line new",
+          "Giá hàng line new khoảng 8 triệu 2, hàng mới khoảng 11 triệu"
+        ],
+        "cons": [
+          "Pin có thể không tốt nếu đã qua sử dụng nhiều"
+        ],
+        "price": "8 triệu 2 đến 11 triệu đồng",
+        "recommendation": "Lựa chọn tốt cho người dùng cần hiệu năng cao và trải nghiệm tốt về camera và phần mềm",
+        "type": "main"
+      },
+      {
+        "name": "iPhone 13 Pro",
+        "features": [
+          "Tấm nền OLED",
+          "Tần số quét 120Hz",
+          "Camera góc rộng, tele và siêu rộng"
+        ],
+        "pros": [
+          "Hiệu năng mạnh mẽ",
+          "Chất lượng camera xuất sắc",
+          "Màn hình OLED với tần số quét cao mang lại trải nghiệm mượt mà",
+          "Giá khoảng 10 triệu đến 11 triệu đồng"
+        ],
+        "cons": [
+          "Có thể nóng và yếu pin"
+        ],
+        "price": "10 triệu đến 11 triệu đồng",
+        "recommendation": "Phù hợp cho người dùng cần trải nghiệm cao cấp về hiệu năng và chất lượng hình ảnh",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 14 Plus",
+        "features": [
+          "Chip Apple A15",
+          "Bộ nhớ trong 128GB",
+          "Camera chất lượng cao"
+        ],
+        "pros": [
+          "Pin trâu, phù hợp cho sử dụng lâu dài",
+          "Màn hình lớn, hiệu năng tốt",
+          "Giá khoảng 11 triệu đồng"
+        ],
+        "cons": [
+          "Thiếu camera tele so với các mẫu Pro"
+        ],
+        "price": "11 triệu đồng",
+        "recommendation": "Lựa chọn tốt cho người dùng cần pin trâu và màn hình lớn",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 14 Pro",
+        "features": [
+          "Hiệu năng cao",
+          "Camera chất lượng cao",
+          "Không có tình trạng xanh màn, trắng màn"
+        ],
+        "pros": [
+          "Giá khoảng 13 triệu 3",
+          "Tỷ lệ hỏng thấp",
+          "Cập nhật phần mềm lâu dài"
+        ],
+        "cons": [
+          "Pin có thể đuối"
+        ],
+        "price": "13 triệu 3",
+        "recommendation": "Phù hợp cho người dùng cần máy nhỏ gọn với hiệu năng cao",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 15 Series",
+        "features": [],
+        "pros": [
+          "Giá cực kỳ tốt",
+          "Nhiều sự lựa chọn từ bản thường đến Pro Max"
+        ],
+        "cons": [
+          "Cần cân nhắc giá so với iPhone 16 nếu chênh lệch không nhiều"
+        ],
+        "price": "",
+        "recommendation": "Nên cân nhắc nếu giá chênh lệch với iPhone 16 không đáng kể",
+        "type": "compare"
+      }
+    ]
+  }
+}

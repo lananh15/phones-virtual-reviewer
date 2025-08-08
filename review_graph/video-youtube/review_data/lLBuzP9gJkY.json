@@ -1,0 +1,69 @@
+{
+  "video_id": "lLBuzP9gJkY",
+  "video_url": "https://www.youtube.com/watch?v=lLBuzP9gJkY",
+  "video_title": "Đánh giá Redmi Note 14 Pro 5G và Note 14 Pro+ 5G: Bộ đôi quá mạnh trong phân khúc tầm trung",
+  "video_author": "Vật Vờ Studio",
+  "upload_date": "2025-01-22",
+  "content": {
+    "products": [
+      {
+        "name": "Xiaomi Redmi Note 14 Pro 5G",
+        "features": [
+          "Thiết kế cân đối, không lồi camera quá nhiều",
+          "Khả năng kháng nước, kháng bụi IP68",
+          "Mặt trước phủ Gorilla Glass Victor 2",
+          "Cấu trúc All-Star Armor Structure tăng độ bền",
+          "Camera sau 200MP, có thêm camera góc rộng và macro",
+          "Hiệu năng ổn với chip Dimensity 7300 Ultra",
+          "Hỗ trợ 5G",
+          "Màn hình sáng tối đa 3000 nits",
+          "Pin 5110mAh, sạc nhanh 45W"
+        ],
+        "pros": [
+          "Thiết kế đẹp và cân đối",
+          "Khả năng chống nước tốt",
+          "Màn hình sáng, phù hợp sử dụng ngoài trời",
+          "Camera chụp ảnh tốt trong điều kiện đủ sáng",
+          "Hiệu năng ổn định, mát và tiết kiệm năng lượng",
+          "Thời lượng pin tốt, hỗ trợ sạc nhanh"
+        ],
+        "cons": [
+          "Phần mềm chưa ổn định, cần cập nhật thêm",
+          "Trải nghiệm chơi game nặng không tốt nhất"
+        ],
+        "price": "9,49 triệu",
+        "recommendation": "Phù hợp với nhu cầu của đa số người dùng, từ màn hình đẹp, camera tốt, hiệu năng đủ mạnh cho các tác vụ hàng ngày và chơi game, pin khỏe và sạc nhanh.",
+        "type": "main"
+      },
+      {
+        "name": "Xiaomi Redmi Note 14 Pro Plus 5G",
+        "features": [
+          "Thiết kế cân đối, phần viền camera màu đen",
+          "Khả năng kháng nước, kháng bụi IP68",
+          "Mặt trước phủ Gorilla Glass Victor 2",
+          "Cấu trúc All-Star Armor Structure tăng độ bền",
+          "Camera sau 200MP, có thêm camera góc rộng và macro",
+          "Hiệu năng mạnh hơn với chip Snapdragon 7S Gen 3",
+          "Hỗ trợ 5G",
+          "Màn hình sáng tối đa 3000 nits",
+          "Pin 5110mAh, sạc nhanh 120W"
+        ],
+        "pros": [
+          "Thiết kế đẹp và cân đối",
+          "Khả năng chống nước tốt",
+          "Màn hình sáng, phù hợp sử dụng ngoài trời",
+          "Camera chụp ảnh tốt trong điều kiện đủ sáng",
+          "Hiệu năng mạnh mẽ, mát và tiết kiệm năng lượng",
+          "Thời lượng pin tốt, hỗ trợ sạc nhanh cực nhanh"
+        ],
+        "cons": [
+          "Phần mềm chưa ổn định, cần cập nhật thêm",
+          "Trải nghiệm chơi game nặng không tốt nhất"
+        ],
+        "price": "10,99 triệu",
+        "recommendation": "Phù hợp với những người cần một chiếc điện thoại có hiệu năng mạnh mẽ hơn, sạc nhanh hơn, và không ngại chi thêm một chút chi phí cho những tính năng cao cấp hơn.",
+        "type": "main"
+      }
+    ]
+  }
+}

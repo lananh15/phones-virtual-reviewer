@@ -1,0 +1,65 @@
+{
+  "video_id": "WDt7i26nctI",
+  "video_url": "https://www.youtube.com/watch?v=WDt7i26nctI",
+  "video_title": "So nhanh Galaxy S24 FE với Galaxy S24: Rẻ hơn 2 triệu thì kém gì?",
+  "video_author": "Khôi Ngọng",
+  "upload_date": "2024-09-28",
+  "content": {
+    "products": [
+      {
+        "name": "Samsung Galaxy S24 FE",
+        "features": [
+          "Kích thước màn hình lớn 6.7 inch",
+          "Khả năng kháng nước IP68",
+          "Mặt lưng làm bóng, khó nhìn thấy vết vân tay",
+          "Khay sim đặt ở phía cạnh trên",
+          "Tần số quét 120Hz",
+          "Độ sáng màn hình tối đa 1900 nits",
+          "Chip Exynos 2400E",
+          "Camera chính 50MP, camera góc rộng 12MP, camera tele 3X 80MP",
+          "Camera selfie 10MP",
+          "Hỗ trợ quay video 4K 30fps",
+          "Dung lượng pin 4700mAh, hỗ trợ sạc nhanh 25W"
+        ],
+        "pros": [
+          "Màn hình lớn thích hợp cho việc xem phim, chơi game",
+          "Giá rẻ hơn so với Samsung Galaxy S24",
+          "Tính năng chống nước",
+          "Chất lượng camera tốt",
+          "Hỗ trợ sạc nhanh"
+        ],
+        "cons": [
+          "Độ sáng màn hình thấp hơn so với Samsung Galaxy S24",
+          "Chip Exynos 2400E có hiệu năng thấp hơn so với Samsung Galaxy S24"
+        ],
+        "price": "Khoảng 15 triệu đồng",
+        "recommendation": "Phù hợp cho những người thích màn hình lớn và có ngân sách hạn chế",
+        "type": "main"
+      },
+      {
+        "name": "Samsung Galaxy S24",
+        "features": [
+          "Kích thước màn hình nhỏ hơn Samsung Galaxy S24 FE",
+          "Khả năng kháng nước IP68",
+          "Mặt lưng không bám vân tay",
+          "Khay sim đặt ở phía cạnh dưới",
+          "Tần số quét 120Hz",
+          "Độ sáng màn hình tối đa 2600 nits",
+          "Chip Exynos 2400",
+          "Camera tele có độ phân giải thấp hơn so với Samsung Galaxy S24 FE"
+        ],
+        "pros": [
+          "Độ sáng màn hình cao hơn so với Samsung Galaxy S24 FE",
+          "Hiệu năng chip tốt hơn so với Samsung Galaxy S24 FE"
+        ],
+        "cons": [
+          "Giá cao hơn so với Samsung Galaxy S24 FE",
+          "Kích thước màn hình nhỏ hơn so với Samsung Galaxy S24 FE"
+        ],
+        "price": "Khoảng 17-18 triệu đồng",
+        "recommendation": "",
+        "type": "compare"
+      }
+    ]
+  }
+}

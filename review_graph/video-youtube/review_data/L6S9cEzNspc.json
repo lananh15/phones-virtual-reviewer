@@ -1,0 +1,74 @@
+{
+  "video_id": "L6S9cEzNspc",
+  "video_url": "https://www.youtube.com/watch?v=L6S9cEzNspc",
+  "video_title": "Đánh giá chi tiết Xiaomi 14T và Xiaomi 14T Pro với camera Leica: lột xác sau 1 năm",
+  "video_author": "Vinh Xô",
+  "upload_date": "2024-10-12",
+  "content": {
+    "products": [
+      {
+        "name": "Xiaomi 14T",
+        "features": [
+          "Màn hình 144Hz",
+          "Độ sáng tối đa 4000 nits, tối thiểu 1600 nits",
+          "Khả năng kháng nước IP68",
+          "Chip Dimensity 8300 Ultra",
+          "Camera selfie 32MP",
+          "Hỗ trợ HDR",
+          "Cảm ứng vân tay trong màn hình",
+          "Mở khóa bằng gương mặt 2D",
+          "Loa kép",
+          "Hồng ngoại điều khiển từ xa"
+        ],
+        "pros": [
+          "Màn hình có tần số quét cao",
+          "Độ sáng màn hình cao, phù hợp sử dụng ngoài trời",
+          "Khả năng kháng nước tốt",
+          "Cấu hình mạnh mẽ",
+          "Tính năng mở khóa đa dạng",
+          "Âm thanh tốt từ loa kép",
+          "Tính năng điều khiển từ xa tiện lợi"
+        ],
+        "cons": [
+          "Không có sạc trong hộp",
+          "Thiết kế mặt lưng phẳng có thể không hấp dẫn một số người dùng"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho người dùng cần một chiếc điện thoại có màn hình tần số quét cao, khả năng kháng nước tốt và cấu hình mạnh mẽ với mức giá hợp lý.",
+        "type": "main"
+      },
+      {
+        "name": "Xiaomi 14T Pro 5G",
+        "features": [
+          "Màn hình 144Hz",
+          "Độ sáng tối đa 4000 nits, tối thiểu 1600 nits",
+          "Khả năng kháng nước IP68",
+          "Chip Dimensity 9300+",
+          "Camera selfie 32MP",
+          "Hỗ trợ HDR",
+          "Cảm ứng vân tay trong màn hình",
+          "Mở khóa bằng gương mặt 2D",
+          "Loa kép",
+          "Hồng ngoại điều khiển từ xa",
+          "Viền kim loại và mặt lưng làm từ kính"
+        ],
+        "pros": [
+          "Màn hình có tần số quét cao",
+          "Độ sáng màn hình cao, phù hợp sử dụng ngoài trời",
+          "Khả năng kháng nước tốt",
+          "Cấu hình cao hơn so với Xiaomi 14T",
+          "Tính năng mở khóa đa dạng",
+          "Âm thanh tốt từ loa kép",
+          "Tính năng điều khiển từ xa tiện lợi",
+          "Thiết kế cao cấp hơn với viền kim loại và mặt lưng kính"
+        ],
+        "cons": [
+          "Không có sạc trong hộp"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho người dùng yêu cầu cao về thiết kế và cấu hình, cần một chiếc điện thoại có khả năng chụp ảnh và hiệu năng tốt hơn.",
+        "type": "main"
+      }
+    ]
+  }
+}

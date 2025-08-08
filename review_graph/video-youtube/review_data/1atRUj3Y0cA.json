@@ -1,0 +1,37 @@
+{
+  "video_id": "1atRUj3Y0cA",
+  "video_url": "https://www.youtube.com/watch?v=1atRUj3Y0cA",
+  "video_title": "Hối hận khi mua iPhone 14 Plus không? Review sau gần 3 tháng dùng",
+  "video_author": "Duy Luân Dễ Thương",
+  "upload_date": "2022-12-19",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 14 Plus",
+        "features": [
+          "Màn hình lớn tương đương iPhone 14 Pro Max",
+          "Cảm giác cầm thoải mái, nhẹ hơn",
+          "Thời gian sử dụng pin dài",
+          "Khả năng chụp đêm tốt, vùng shadow sáng hơn, ảnh ít nở hơn so với iPhone 13 Pro Max",
+          "Camera trước có khả năng autofocus",
+          "Chip A15 Bionic mạnh mẽ",
+          "Màn hình không có ProMotion 120Hz",
+          "Chất lượng hiển thị tốt"
+        ],
+        "pros": [
+          "Màn hình lớn, chất lượng hiển thị tốt",
+          "Thời gian sử dụng pin dài",
+          "Khả năng chụp đêm tốt",
+          "Camera trước có autofocus",
+          "Hiệu năng mạnh mẽ với chip A15 Bionic"
+        ],
+        "cons": [
+          "Màn hình không có ProMotion 120Hz"
+        ],
+        "price": "khoảng 24-25 triệu",
+        "recommendation": "Phù hợp cho những ai cần một chiếc điện thoại có màn hình lớn, thời gian sử dụng pin dài và khả năng chụp đêm tốt",
+        "type": "main"
+      }
+    ]
+  }
+}
