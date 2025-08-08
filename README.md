@@ -9,6 +9,8 @@ Thêm file .env cùng cấp với requirements.txt có dạng:
 ```bash
 DJANGO_SECRET_KEY='your-django-secret-key'
 OPENAI_API_KEY=your-openai-api-key
+GOOGLE_API_KEY=your-google-api-key
+DEEPSEEK_API_KEY=your-deepseek-api-key
 NEO4J_URI = "your-neo4j-uri"
 NEO4J_USER = "your-neo4j-user"
 NEO4J_PASS = "your-neo4j-pass"
