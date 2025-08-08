@@ -1,6 +1,6 @@
 **[youtube_links.txt](video-youtube/youtube_links.txt)** là file chứa link của 120 video Youtube review về 48 mẫu điện thoại từ các thương hiệu iPhone, Samsung, OPPO, Xiaomi, Realme, Vivo.  
 **[phones_data.json](phones_data.json)** là file tổng hợp các thông số kĩ thuật của 48 mẫu điện thoại trên từ các trang như CellphoneS, Thế Giới Di Động,...  
-
+**[youtube_reviews.json](phones_data.json)** là file tổng hợp các thông tin review từ 120 video, nhóm theo tên của 48 mẫu điện thoại.  
 ## 📌 Cách nhanh nhất để có dữ liệu trên Neo4j của bạn để chạy được Cỗ máy rì viu
 Từ thư mục gốc là phones-virtual-reviewer (khi vừa clone repo về), di chuyển vào thư mục **review_graph** bằng `cd review-graph`  
 GIỮ file [youtube_reviews.json](video-youtube/youtube_reviews.json) đã có trong repo này và chạy file [graph_data.py](video-youtube/transcript_graph/graph_data.py) (PHẢI chạy file này từ thư mục **review_graph**) thì sẽ tự động đẩy dữ liệu của chúng tôi lên Neo4j của bạn.  
