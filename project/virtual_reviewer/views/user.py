@@ -3,6 +3,8 @@ from django.shortcuts import render
 from django.utils.text import slugify
 from ..services.neo4j_handler import Neo4jHandler
 from ..services.gpt_handler import GPTHandler
+from ..services.gemini_handler import GeminiHandler
+from ..services.deepseek_handler import DeepSeekHandler
 from django.views import View
 from django.shortcuts import render
 from django.utils.text import slugify
@@ -16,6 +18,8 @@ class UserViews(View):
     def initialize_handlers(self):
         self.neo4j_handler = Neo4jHandler()
         self.gpt_handler = GPTHandler()
+        self.gemini_handler = GeminiHandler()
+        self.deepseek_handler = DeepSeekHandler()
         return
         
 class CompareView(UserViews):

@@ -1,21 +1,25 @@
 import json
-from langchain_openai import ChatOpenAI
+from langchain_google_genai import ChatGoogleGenerativeAI
 import os
 from dotenv import load_dotenv
 from ..utils.review_utils import *
-
 load_dotenv()
 
-class GPTHandler:
+class GeminiHandler:
     def __init__(self):
-        api_key = os.getenv('OPENAI_API_KEY')
-        self.llm = ChatOpenAI(openai_api_key=api_key, model_name="gpt-4-turbo", temperature=0)
+        api_key = os.getenv("GOOGLE_API_KEY")
+        self.llm = ChatGoogleGenerativeAI(
+            model="gemini-1.5-flash",
+            google_api_key=api_key,
+            temperature=0
+        )
 
-    def invoke(self, messages, max_tokens=6000):
-        return self.llm.invoke(messages, config={"max_tokens": max_tokens}).content.strip()
+    def invoke(self, messages):
+        return self.llm.invoke(messages).content.strip()
+
     
-    def generate_review(self, prompt):
-        print("Using gpt-4-turbo")
+    def generate_review(self, prompt):     
+        print("Using gemini-1.5-flash")     
         response = self.invoke([
             {"role": "system", "content": "Bạn là AI chuyên tổng hợp review. NHIỆM VỤ TUYỆT ĐỐI: 1) PHẢI sử dụng ĐẦY ĐỦ TẤT CẢ thông tin của mỗi reviewer - KHÔNG ĐƯỢC BỎ SÓT BẤT KỲ ITEM NÀO. 2) Đặc biệt chú ý những cons ít phổ biến như 'pin suy giảm', 'không hỗ trợ AI', 'không có Action Button' - những cái này dễ bị bỏ sót nhất. 3) Trước khi trả về JSON, phải đối chiếu lại với data gốc từng reviewer một để đảm bảo không thiếu thông tin nào kể cả tên sản phẩm khác."},
             {"role": "user", "content": prompt}
@@ -26,8 +30,8 @@ class GPTHandler:
         try:
             response_json = json.loads(cleaned)
         except json.JSONDecodeError as e:
-            print("❌ Lỗi khi parse JSON từ GPT:", e)
-            raise ValueError("GPT trả về không phải JSON hợp lệ")
+            print("❌ Lỗi khi parse JSON từ Gemini:", e)
+            raise ValueError("Gemini trả về không phải JSON hợp lệ")
 
         answer = get_answer(response_json["data"][0])
-        return response, answer
+        return cleaned, answer

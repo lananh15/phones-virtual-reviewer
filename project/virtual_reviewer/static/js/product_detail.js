@@ -77,7 +77,7 @@ document.getElementById("generateReviewBtn").addEventListener("click", async () 
                 for (let i = 0; i < maxLength; i++) {
                   rows += `
                     <tr>
-                      <td class="px-4 py-2 text-black-700 border border-gray-300 align-top">${linkify(data.pros[i] || "", videoMap)}</td>
+                      <td class="px-4 py-2 text-black-700 border border-gray-300 align-top w-1/2">${linkify(data.pros[i] || "", videoMap)}</td>
                       <td class="px-4 py-2 text-black-700 border border-gray-300 align-top">${linkify(data.cons[i] || "", videoMap)}</td>
                     </tr>
                   `;
@@ -98,7 +98,7 @@ document.getElementById("generateReviewBtn").addEventListener("click", async () 
     document.getElementById("reviewContainer").innerHTML = reviewHTML;
   } catch (error) {
     document.getElementById("reviewContainer").innerHTML = `
-      <p class="text-red-500">Lỗi khi tạo review: ${error.message}</p>
+      <p class="text-red-500">Cỗ máy rì viu đã gặp lỗi khi tạo review, vui lòng tải lại trang rồi tạo lại review nha</p>
     `;
   } finally {
     btn.disabled = false;

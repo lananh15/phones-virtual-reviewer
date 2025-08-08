@@ -3,7 +3,6 @@ from .views.product import *
 from .views.user import *
 from .views.review import *
 urlpatterns = [
-    # User
     path('', HomeView.as_view(), name='home'),
     path('gioi-thieu/', AboutView.as_view(), name='about'),
     path('so-sanh/', CompareView.as_view(), name='compare'),
@@ -11,5 +10,4 @@ urlpatterns = [
     path('tim-kiem/', SearchView.as_view(), name='search'),
     path('san-pham/<slug:slug>/', ProductDetailView.as_view(), name='product_detail'),
     path("tao-review/", GenerateReviewView.as_view(), name="generate_review"),
-    # path('like-post/<int:post_id>', LikedPost.as_view(), name='like_post'),
 ]
