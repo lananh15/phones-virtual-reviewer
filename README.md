@@ -34,7 +34,7 @@ Di chuyển về thư mục **phones-virtual-reviewer/project** chạy:
 python manage.py tailwind build
 ```
 ### 6. Tổ chức dữ liệu lên Neo4j
-[Xem hướng dẫn tạo file data dạng json chứa các review từ 120 video youtube với nhiều reviewer ở đây](review_graph/README.md)
+[Xem hướng dẫn ở đây](review_graph/README.md)
 
 ### 7. Chạy server Django
 Di chuyển vào thư mục project trong terminal bằng `cd project` và chạy:
