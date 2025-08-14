@@ -16,14 +16,14 @@ Pipeline này trích xuất và tổ chức dữ liệu review sản phẩm từ
 #### 2. Chuyển Giọng Nói Thành Văn Bản
 - Công cụ: faster-whisper.
 - Thao tác: Chuyển audio thành transcript (văn bản).
-- Đầu ra: File transcript thô.
+- Đầu ra: Transcript thô.
 #### 3. Tóm Tắt Review Bằng gpt-4-turbo
-- Đầu vào: Transcript + prompt tùy chỉnh.
+- Đầu vào: Transcript thô + prompt tùy chỉnh.
 - Thao tác: Gửi lên gpt-4-turbo để trích xuất thông tin review có cấu trúc.
 - Đầu ra: File JSON chứa thông tin review cho từng video trong thư mục [video-youtube/review_data/](video-youtube/review_data/)
 #### 4. Gộp & Nhóm Dữ Liệu Review
 - Đầu vào: 120 file JSON riêng lẻ trong thư mục [video-youtube/review_data/](video-youtube/review_data/)
-- Thao tác: Gộp tất cả thành một file duy nhất.
+- Thao tác: Gộp tất cả thành một file JSON duy nhất.
 - Nhóm theo: Tên sản phẩm.
 - Đầu ra: [youtube_reviews.json](video-youtube/youtube_reviews.json)
 #### 5. Đẩy Dữ Liệu Lên Neo4j
