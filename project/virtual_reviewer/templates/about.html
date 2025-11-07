@@ -2,57 +2,59 @@
 
 <!DOCTYPE html>
 <html lang="vi">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="csrf-token" content="{{ csrf_token }}">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Giới thiệu</title>
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="csrf-token" content="{{ csrf_token }}">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Giới thiệu</title>
 
-  <!-- Font Awesome -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
-  <script src="https://cdn.tailwindcss.com"></script>
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <link rel="icon" type="image/x-icon" href="{% static 'image/doraemon.svg' %}">
-</head>
-<body class="bg-white text-gray-800">
+		<!-- Font Awesome -->
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+		<script src="https://cdn.tailwindcss.com"></script>
+		<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+		<link rel="icon" type="image/x-icon" href="{% static 'image/doraemon.svg' %}">
+	</head>
 
-  {% include 'header.html' %}
+	<body class="bg-white text-gray-800">
+		{% include 'header.html' %}
 
-  <main class="max-w-screen-lg mx-auto px-4 py-10 space-y-8">
-    <h1 class="text-3xl font-bold text-center text-blue-500">
-      🛸 Giới thiệu về Cỗ máy rì viu
-    </h1>
+		<main class="max-w-screen-lg mx-auto px-4 py-10 space-y-8">
+			<h1 class="text-3xl font-bold text-center text-blue-500">
+				🛸 Giới thiệu về Cỗ máy rì viu
+			</h1>
 
-    <section class="text-base leading-relaxed space-y-2">
-      <p>
-        <strong>Cỗ máy rì viu</strong> là nền tảng đánh giá và so sánh điện thoại thông minh, dành cho các tín đồ công nghệ và cả những bạn giống như Nobita – cần một trợ lý thông minh để chọn sản phẩm phù hợp!
-      </p>
-      <p>
-        Trang web hiển thị <strong>48 sản phẩm</strong> từ các hãng nổi tiếng như <span class="text-blue-600 font-semibold"> iPhone, Samsung, Oppo, Xiaomi, Realme, Vivo</span>. Mỗi sản phẩm đều có:
-        <ul class="list-disc list-inside ml-4">
-          <li>Thông số kỹ thuật chi tiết 📱</li>
-          <li>Giá bán theo liên kết mua hàng 💰</li>
-          <li>Nút <span class="text-blue-500 font-semibold">“Tạo bài review”</span> để xem đánh giá tổng hợp từ <strong>2 đến nhiều video trong tổng số 120 video YouTube 🎥 của 48 sản phẩm trên</strong> của các reviewer uy tín như Duy Luân, Vinh Xô, Tony Phùng, Dương Dê...</li>
-        </ul>
-      </p>
-      <p>
-        Bài review được tạo bao gồm:
-        <ul class="list-disc list-inside ml-4">
-          <li>Giới thiệu sản phẩm 🎉</li>
-          <li>Tính năng nổi bật ✨</li>
-          <li>Ưu & nhược điểm ⚖️</li>
-          <li>Gợi ý phù hợp với người dùng nào 🧠</li>
-        </ul>
-        <p>Tuy nhiên cần phải chờ 1-5 phút tùy sản phẩm để Cỗ máy rì viu cho ra bài review nhé :3</p>
-      </p>
-      <strong>
-        <p>
-          Riêng tính năng <span class="italic text-purple-600">so sánh sản phẩm</span> đang được Doraemon phát triển 🛠️ Vui lòng chờ xem nha!
-        </p>
-      </strong>
-    </section>
-  </main>
+			<section class="text-base leading-relaxed space-y-2">
+				<p>
+					<strong>Cỗ máy rì viu</strong> là nền tảng đánh giá và so sánh điện thoại thông minh, dành cho các tín đồ công nghệ và cả những bạn giống như Nobita – cần một trợ lý thông minh để chọn sản phẩm phù hợp!
+				</p>
 
-</body>
+				<p>
+					Trang web hiển thị <strong>48 sản phẩm</strong> từ các hãng nổi tiếng như <span class="text-blue-600 font-semibold"> iPhone, Samsung, Oppo, Xiaomi, Realme, Vivo</span>. Mỗi sản phẩm đều có:
+					<ul class="list-disc list-inside ml-4">
+						<li>Thông số kỹ thuật chi tiết 📱</li>
+						<li>Giá bán theo liên kết mua hàng 💰</li>
+						<li>Nút <span class="text-blue-500 font-semibold">“Tạo bài review”</span> để xem đánh giá tổng hợp từ <strong>2 đến nhiều video trong tổng số 120 video YouTube 🎥 của 48 sản phẩm trên</strong> của các reviewer uy tín như Duy Luân, Vinh Xô, Tony Phùng, Dương Dê...</li>
+					</ul>
+				</p>
+
+				<p>
+					Bài review được tạo bao gồm:
+					<ul class="list-disc list-inside ml-4">
+						<li>Giới thiệu sản phẩm 🎉</li>
+						<li>Tính năng nổi bật ✨</li>
+						<li>Ưu & nhược điểm ⚖️</li>
+						<li>Gợi ý phù hợp với người dùng nào 🧠</li>
+					</ul>
+					<p>Tuy nhiên cần phải chờ 1-5 phút tùy sản phẩm để Cỗ máy rì viu cho ra bài review nhé :3</p>
+				</p>
+
+				<strong>
+					<p>
+						Riêng tính năng <span class="italic text-purple-600">so sánh sản phẩm</span> đang được Doraemon phát triển 🛠️ Vui lòng chờ xem nha!
+					</p>
+				</strong>
+			</section>
+		</main>
+	</body>
 </html>

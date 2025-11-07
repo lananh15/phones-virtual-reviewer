@@ -2,28 +2,27 @@
 
 <!DOCTYPE html>
 <html lang="vi">
-<head>
-   <meta charset="UTF-8">
-   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-   <meta name="csrf-token" content="{{ csrf_token }}">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Tìm kiếm</title>
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="csrf-token" content="{{ csrf_token }}">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Tìm kiếm</title>
 
-   <!-- Font Awesome CDN link -->
-   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
-   <link rel="icon" type="image/x-icon" href="{% static 'image/doraemon.svg' %}">
-   <script src="https://cdn.tailwindcss.com"></script>
-   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-</head>
-<body>
+		<!-- Font Awesome CDN link -->
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+		<link rel="icon" type="image/x-icon" href="{% static 'image/doraemon.svg' %}">
+		<script src="https://cdn.tailwindcss.com"></script>
+		<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+	</head>
 
-{% include 'header.html' %}
-<main class="max-w-screen-xl mx-auto px-4 py-6 space-y-6">
-    <div class="container mx-auto px-4">
-    <h2 class="text-2xl font-bold mb-6">Kết quả cho: "{{ keyword }}"</h2>
-    {% include 'product_grid.html' with products=products %}
-    </div>
-</main>
-
-</body>
+	<body>
+	{% include 'header.html' %}
+		<main class="max-w-screen-xl mx-auto px-4 py-6 space-y-6">
+			<div class="container mx-auto px-4">
+				<h2 class="text-2xl font-bold mb-6">Kết quả cho: "{{ keyword }}"</h2>
+				{% include 'product_grid.html' with products=products %}
+			</div>
+		</main>
+	</body>
 </html>

@@ -23,13 +23,13 @@ node -v
 npm -v
 ```
 ### 4. Cài Tailwind dependencies
-Vào thư mục theme (theme/static_src):
+Vào thư mục theme [project/theme/static_src](project/theme/static_src/):
 ```bash
 cd project/theme/static_src
 npm install
 ```
 ### 5. Build Tailwind CSS
-Di chuyển về thư mục **phones-virtual-reviewer/project** chạy:
+Di chuyển về thư mục [project](project/) chạy:
 ```bash
 python manage.py tailwind build
 ```
@@ -42,12 +42,26 @@ Di chuyển vào thư mục project trong terminal bằng `cd project` và chạ
 python manage.py migrate
 python manage.py runserver
 ```
-**Lưu ý:** Để hệ thống sinh bài review từ 1 trong 3 mô hình gpt-4-turbo, gemini-1.5-flash, deepseek-reasoner, thì chỉ cần bỏ comment của dòng có handler tương ứng (trong file **project/virtual_reviewer/views/review.py**) và comment 2 dòng handler còn lại.
-![Picture 1](https://github.com/user-attachments/assets/2f22c404-790b-4f13-8109-8ff7dc4d5e73)  
+**Lưu ý:** Để hệ thống sinh bài review từ 1 trong 3 mô hình gpt-4-turbo, gemini-1.5-flash, deepseek-reasoner, thì chỉ cần bỏ comment của dòng có handler tương ứng (trong file [project/virtual_reviewer/views/review.py](project/virtual_reviewer/views/review.py)) và comment 2 dòng handler còn lại.
+```python
+# Generate review using LLM
+# review, answer = self.deepseek_handler.generate_review(prompt)
+# review, answer = self.gpt_handler.generate_review(prompt)
+review, answer = self.gemini_handler.generate_review(prompt)
+
+# Save data for rouge score calculation
+# save_data(question, answer, context)
+```  
+
 #### Lưu data để đo rouge
-Nếu muốn lưu dữ liệu bài review, context (thông tin truy xuất sản phẩm theo nsx, reviewers) vào file data để đo rouge thì chỉ cần bỏ comment dòng `save_data(question, answer, context)` trong hình trên. Và muốn lưu data từ model nào thì chỉ cần bỏ comment dòng filepath tương ứng và comment 2 dòng còn lại (trong file **project/virtual_reviewer/utils/save_data.py**) như hình dưới:  
-![Picture 2](https://github.com/user-attachments/assets/3a5cb47f-88b3-4dc8-8bc0-bb4cdf3d7fef)  
+Nếu muốn lưu dữ liệu bài review, context (thông tin truy xuất sản phẩm theo nsx, reviewers) vào file data để đo rouge thì chỉ cần bỏ comment dòng `save_data(question, answer, context)` trong hình trên. Và muốn lưu data từ model nào thì chỉ cần bỏ comment dòng filepath tương ứng và comment 2 dòng còn lại (trong file [project/virtual_reviewer/utils/save_data.py](project/virtual_reviewer/utils/save_data.py)):  
+```python
+# Used to save the review into the specified file
+# filepath = os.path.join(output_dir, "deepseek_review.json")
+# filepath = os.path.join(output_dir, "gpt_review.json")
+filepath = os.path.join(output_dir, "gemini_review.json")
+``` 
 
 ## 🏆 Đo rouge
-Sau khi lưu đủ 48 bài review cho 48 sản phẩm trong hệ thống trong các file (gemini_review.json, gpt_review.json và deepseek.json) trong thư mục **evaluate/data**, di chuyển vào thư mục evaluate trong terminal bằng `cd evaluate` và chạy file **"metric.py"** sẽ in ra được rouge-score như bên dưới:  
+Sau khi lưu đủ 48 bài review cho 48 sản phẩm trong hệ thống trong các file ([gemini_review.json](evaluate/data/gemini_review.json), [gpt_review.json](evaluate/data/gpt_review.json) và [deepseek_review.json](evaluate/data/deepseek_review.json)) trong thư mục [evaluate/data](evaluate/data), di chuyển vào thư mục evaluate trong terminal bằng `cd evaluate` và chạy file [metric.py](evaluate/metric.py) sẽ in ra được rouge-score như bên dưới:  
 ![rouge-score](https://github.com/user-attachments/assets/a0430897-be3c-48c5-91d3-269d51becc8f)  
