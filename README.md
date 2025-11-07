@@ -50,4 +50,4 @@ Nếu muốn lưu dữ liệu bài review, context (thông tin truy xuất sản
 
 ## 🏆 Đo rouge
 Sau khi lưu đủ 48 bài review cho 48 sản phẩm trong hệ thống trong các file (gemini_review.json, gpt_review.json và deepseek.json) trong thư mục **evaluate/data**, di chuyển vào thư mục evaluate trong terminal bằng `cd evaluate` và chạy file **"metric.py"** sẽ in ra được rouge-score như bên dưới:  
-![rouge-score](https://github.com/user-attachments/assets/a0430897-be3c-48c5-91d3-269d51becc8f)  
+![rouge-score](https://github.com/user-attachments/assets/be2992c2-41ef-4540-a71b-e27e56b7b97a)  

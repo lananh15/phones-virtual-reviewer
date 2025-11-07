@@ -1,5 +1,6 @@
 document.getElementById("category").addEventListener("change", function () {
   const selectedCategory = this.value;
+  
   fetch(`/category=${encodeURIComponent(selectedCategory)}`)
     .then(response => response.text())
     .then(html => {

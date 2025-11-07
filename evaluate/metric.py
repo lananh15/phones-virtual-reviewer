@@ -127,7 +127,7 @@ if __name__ == "__main__":
 
     # Danh sách file và tên mô hình tương ứng
     file_configs = [
-        ("data/gemini_review.json", "gemini-1.5-flash"),
+        ("data/gemini_review.json", "gemini-2.5-flash"),
         ("data/deepseek_review.json", "deepseek-reasoner"),
         ("data/gpt_review.json", "gpt-4-turbo"),
     ]

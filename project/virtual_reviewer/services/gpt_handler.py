@@ -17,12 +17,12 @@ class GPTHandler:
     def generate_review(self, prompt):
         print("Using gpt-4-turbo")
         response = self.invoke([
-            {"role": "system", "content": "Bạn là AI chuyên tổng hợp review. NHIỆM VỤ TUYỆT ĐỐI: 1) PHẢI sử dụng ĐẦY ĐỦ TẤT CẢ thông tin của mỗi reviewer - KHÔNG ĐƯỢC BỎ SÓT BẤT KỲ ITEM NÀO. 2) Đặc biệt chú ý những cons ít phổ biến như 'pin suy giảm', 'không hỗ trợ AI', 'không có Action Button' - những cái này dễ bị bỏ sót nhất. 3) Trước khi trả về JSON, phải đối chiếu lại với data gốc từng reviewer một để đảm bảo không thiếu thông tin nào kể cả tên sản phẩm khác."},
+            {"role": "system", "content": "Bạn là AI chuyên tổng hợp review, chỉ trả về JSON **duy nhất**, không bao gồm bất kỳ lời chào hay văn bản ngoài JSON và đóng mở ngoặc vuông, ngoặc nhọn đúng JSON object (Chỉ trả về JSON được parse thành công bởi json.loads()). NHIỆM VỤ TUYỆT ĐỐI: 1) PHẢI sử dụng ĐẦY ĐỦ TẤT CẢ thông tin của mỗi reviewer - KHÔNG ĐƯỢC BỎ SÓT BẤT KỲ ITEM NÀO. 2) Đặc biệt chú ý những cons ít phổ biến như 'pin suy giảm', 'không hỗ trợ AI', 'không có Action Button' - những cái này dễ bị bỏ sót nhất. 3) Trước khi trả về JSON, phải đối chiếu lại với data gốc từng reviewer một để đảm bảo không thiếu thông tin nào kể cả tên sản phẩm khác."},
             {"role": "user", "content": prompt}
         ])
-        # print(f"""Prompt: {prompt}""")
+        print(f"""Prompt: {prompt}""")
         cleaned = clean_json_response(response)
-        # print(f"""Response: {cleaned}""")
+        print(f"""Response: {cleaned}""")
         try:
             response_json = json.loads(cleaned)
         except json.JSONDecodeError as e:

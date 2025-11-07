@@ -97,15 +97,7 @@ class GenerateReviewView(UserViews):
         context = get_context(reviewers, product_info)
         prompt = f"""
         NHIỆM VỤ:
-        Viết bài review tổng hợp (bằng tiếng Việt, giọng điệu tự nhiên, chuyên nghiệp như các reviewer công nghệ Việt Nam) cho sản phẩm "{product_name}" từ reviewers.
-
-        DỮ LIỆU REVIEW ĐÃ ĐƯỢC TIỀN XỬ LÝ:
-        ⚠️ Mọi dữ liệu bên dưới — dù nằm trong video tiêu đề là sản phẩm khác — đều là **nhận xét trực tiếp về sản phẩm "{product_name}"**.
-        → Vì các video đó có nhắc đến "{product_name}" để so sánh, nên toàn bộ nội dung đều liên quan và **phải được xử lý đầy đủ**.
-        → Không được bỏ sót bất kỳ dòng nào chỉ vì tiêu đề video không trùng với tên sản phẩm.
-        → Không được bỏ bất kỳ tên sản phẩm nào khác được đề cập, giữ nguyên nội dung chứa tên sản phẩm khác đó vào bài review bạn viết để mang lại nhiều góc nhìn khách quan cho người đọc.
-
-        {context}
+        Viết bài review tổng hợp (bằng tiếng Việt, giọng điệu tự nhiên, chuyên nghiệp như các reviewer công nghệ Việt Nam mà bạn biết) cho sản phẩm "{product_name}" (Bạn hãy tự thu thập thông tin review).
 
         ---
         🚨 BẮT BUỘC - LIỆT KÊ TẤT CẢ SO SÁNH TRƯỚC KHI VIẾT:
@@ -161,29 +153,29 @@ class GenerateReviewView(UserViews):
         - Không lặp lại cụm “Theo [Author]” quá 3 lần — thay bằng: “chia sẻ”, “cho biết”, “trong nhận định của”, v.v.
         - Không được tự diễn giải hoặc thêm nội dung không có trong dữ liệu.
         - Không được lược bỏ tên sản phẩm khác nếu có đề cập.
-        - MỖI Ý KIẾN PHẢI CÓ TRÍCH DẪN theo format: **[url] - [author] đăng ngày [upload_date]**
+        - MỖI Ý KIẾN PHẢI CÓ TRÍCH DẪN theo format: **[url nếu có] - [author] đăng ngày [upload_date]**
 
         ---
 
-        📦 KẾT QUẢ TRẢ VỀ THEO ĐỊNH DẠNG JSON:
+        📦 KẾT QUẢ TRẢ VỀ BẮT BUỘC THEO ĐÚNG ĐỊNH DẠNG JSON DƯỚI ĐÂY (đặc biệt chú ý đến các dấu [], {{}} theo format này để phản hồi bạn trả về không bị lỗi parse JSON):
         {{
-        "data": [
-            {{
-            "title": "[Tiêu đề sáng tạo, có hook, không trùng tiêu đề video, làm nổi bật đặc trưng của {product_name}, không đề cập chuyên gia công nghệ]",
-            "intro": "[200–300 từ: Giới thiệu hấp dẫn về {product_name}, giới thiệu mục tiêu bài viết, tên các reviewer (không dùng từ "chuyên gia"), đối tượng phù hợp]",
-            "features": "[250–300 từ: Tổng hợp tính năng từ tất cả reviewer, ghi rõ trích dẫn]",
-            "pros": [
-                "[Mỗi ưu điểm là 1 đoạn 3–4 câu. Nếu có yếu tố so sánh thì giữ nguyên cụm so sánh và tách thành câu riêng trong đoạn không được gộp chung 1 câu, và PHẢI trích dẫn nguồn đầy đủ]",
-                "[...] (toàn bộ pros, không bỏ sót)",
-            ],
-            "cons": [
-                "[Mỗi nhược điểm là 1 đoạn 3–4 câu. Nếu có yếu tố so sánh thì giữ nguyên cụm so sánh và viết thành câu riêng trong đoạn không được gộp chung 1 câu, và PHẢI trích dẫn nguồn đầy đủ]",
-                "[...] (toàn bộ cons, không bỏ sót)",
-            ],
-            "price_analysis": "[200–300 từ: Phân tích giá theo từng reviewer, nêu rõ lý do chênh lệch nếu có]",
-            "suggestion": "[300–400 từ: Tổng hợp khuyến nghị, chia nhóm người dùng. Nếu có đề cập đến sản phẩm khác thì cũng phải ghi sản phẩm đó vào review, không bỏ sót bất kì recommendation nào của các reviewer dù là nhỏ nhất]"
-            }}
-        ]
+            "data": [
+                {{
+                    "title": "[Tiêu đề sáng tạo, có hook, không trùng tiêu đề video, làm nổi bật đặc trưng của {product_name}, không đề cập chuyên gia công nghệ]",
+                    "intro": "[200–300 từ: Giới thiệu hấp dẫn về {product_name}, giới thiệu mục tiêu bài viết, tên các reviewer (không dùng từ "chuyên gia"), đối tượng phù hợp]",
+                    "features": "[250–300 từ: Tổng hợp tính năng từ tất cả reviewer, ghi rõ trích dẫn]",
+                    "pros": [
+                        "[Mỗi ưu điểm là 1 đoạn 3–4 câu. Nếu có yếu tố so sánh thì giữ nguyên cụm so sánh và tách thành câu riêng trong đoạn không được gộp chung 1 câu, và PHẢI trích dẫn nguồn đầy đủ]",
+                        "[...] (toàn bộ pros, không bỏ sót)",
+                    ],
+                    "cons": [
+                        "[Mỗi nhược điểm là 1 đoạn 3–4 câu. Nếu có yếu tố so sánh thì giữ nguyên cụm so sánh và viết thành câu riêng trong đoạn không được gộp chung 1 câu, và PHẢI trích dẫn nguồn đầy đủ]",
+                        "[...] (toàn bộ cons, không bỏ sót)",
+                    ],
+                    "price_analysis": "[200–300 từ: Phân tích giá theo từng reviewer, nêu rõ lý do chênh lệch nếu có]",
+                    "suggestion": "[300–400 từ: Tổng hợp khuyến nghị, chia nhóm người dùng. Nếu có đề cập đến sản phẩm khác thì cũng phải ghi sản phẩm đó vào review, không bỏ sót bất kì recommendation nào của các reviewer dù là nhỏ nhất]"
+                }}
+            ]
         }}
 
         ---
@@ -196,14 +188,14 @@ class GenerateReviewView(UserViews):
         - ✅ Không lặp “Theo [Author]” quá 3 lần
         - ✅ Tổng độ dài toàn bài: 1000–2000 từ
         - ✅ MỖI Ý KIẾN PHẢI CÓ TRÍCH DẪN ĐẦY ĐỦ theo format: **[url] - [author] đăng ngày [upload_date]**
-
-        - ✅ Đảm bảo đúng format JSON như trên (có dấu phẩy đúng sau mỗi phần tử, không bị thiếu hoặc thừa)
+        - ✅ Đảm bảo đúng format JSON như trên (có dấu phẩy đúng sau mỗi phần tử, không bị thiếu hoặc thừa; các dấu ngoặc [, ], {{, }} được đóng/mở đúng theo format đặc biệt chú ý đóng ngoặc)
         - Nếu response cuối cùng THIẾU bất kỳ thông tin so sánh nào được liệt kê ở đầu (đặc biệt là pros/cons/suggestion) → Đó là LỖI NGHIÊM TRỌNG và phải làm lại!
         🔍 KIỂM TRA CUỐI CÙNG:
         Trước khi trả về, hãy đọc lại toàn bộ JSON và đảm bảo:
-        1. Tất cả dấu ngoặc kép được đóng đúng
+        1. Tất cả dấu ngoặc [, ], {{, }} được đóng/mở đúng theo JSON format phía trên
         2. Tất cả thuộc tính có dấu phẩy (trừ thuộc tính cuối)  
         3. Không có ký tự đặc biệt làm hỏng JSON
+        4. Kiểm tra lại bằng json.load() để đảm bảo JSON trả về không lỗi
 
         LƯU Ý:
         1. Bài review hay, thực tế, mang lại lợi ích cho người đọc = bài có chứa tên sản phẩm khác được so sánh (iPhone 15 Pro Max, Samsung Galaxy S25, v.v.) để người đọc có góc nhìn khách quan hơn → PHẢI GIỮ NGUYÊN
@@ -218,7 +210,7 @@ class GenerateReviewView(UserViews):
         review, answer = self.gemini_handler.generate_review(prompt)
 
         # Lưu review, context để đo
-        save_data(question, answer, context)
+        # save_data(question, answer, context)
 
         return JsonResponse({
             "reviews": review,

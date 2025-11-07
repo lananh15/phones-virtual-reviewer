@@ -28,8 +28,8 @@ document.getElementById("generateReviewBtn").addEventListener("click", async () 
     const response = await fetch(`/tao-review/?name=${encodeURIComponent(productName)}`);
     const datas = await response.json();
 
-    console.log("📄 Toàn bộ reviews:");
-    console.log(datas.reviews);
+    // console.log("📄 Toàn bộ reviews:");
+    // console.log(datas.reviews);
 
     const parsedReviews = JSON.parse(datas.reviews);
     const reviewData = parsedReviews?.data?.[0];
@@ -74,6 +74,7 @@ document.getElementById("generateReviewBtn").addEventListener("click", async () 
               ${(() => {
                 const maxLength = Math.max(data.pros.length, data.cons.length);
                 let rows = "";
+
                 for (let i = 0; i < maxLength; i++) {
                   rows += `
                     <tr>
@@ -82,6 +83,7 @@ document.getElementById("generateReviewBtn").addEventListener("click", async () 
                     </tr>
                   `;
                 }
+
                 return rows;
               })()}
             </tbody>
@@ -96,11 +98,13 @@ document.getElementById("generateReviewBtn").addEventListener("click", async () 
     `;
 
     document.getElementById("reviewContainer").innerHTML = reviewHTML;
-  } catch (error) {
+  }
+  catch (error) {
     document.getElementById("reviewContainer").innerHTML = `
       <p class="text-red-500">Cỗ máy rì viu đã gặp lỗi khi tạo review, vui lòng tải lại trang rồi tạo lại review nha</p>
     `;
-  } finally {
+  }
+  finally {
     btn.disabled = false;
     btn.style.display = "none";
   }
