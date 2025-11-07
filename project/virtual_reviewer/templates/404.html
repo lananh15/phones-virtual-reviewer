@@ -1,25 +1,29 @@
 {% load static %}
+
 <!DOCTYPE html>
 <html lang="vi">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Không tìm thấy trang</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-  <link rel="icon" type="image/x-icon" href="{% static 'image/doraemon.svg' %}">
-</head>
-<body class="bg-gradient-to-br from-blue-400 to-blue-700 text-white flex items-center justify-center h-screen">
-  <div class="text-center px-6">
-    <div class="text-8xl"><img src="/static/image/doraemon.svg" alt="Doraemon" class="mx-auto w-40 h-40" /></div>
-    <h1 class="text-7xl font-extrabold tracking-widest">404</h1>
-    <p class="text-2xl mt-4">Cỗ máy rì viu bị lỗi rồi!</p>
-    <p class="mt-2 text-blue-100">Doraemon không thể tìm thấy trang bạn đang tìm 😢</p>
-    <a href="/" class="mt-6 inline-block px-6 py-3 bg-yellow-400 hover:bg-yellow-500 text-blue-900 font-semibold rounded-full transition duration-300">
-      Quay về trang chủ
-    </a>
-    <div class="mt-4 text-sm text-blue-200 italic">
-      “Ngay cả Doraemon cũng bó tay...”
-    </div>
-  </div>
-</body>
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Không tìm thấy trang</title>
+		<script src="https://cdn.tailwindcss.com"></script>
+		<link rel="icon" type="image/x-icon" href="{% static 'image/doraemon.svg' %}">
+	</head>
+
+	<body class="bg-gradient-to-br from-blue-400 to-blue-700 text-white flex items-center justify-center h-screen">
+		<div class="text-center px-6">
+			<div class="text-8xl"><img src="/static/image/doraemon.svg" alt="Doraemon" class="mx-auto w-40 h-40" /></div>
+			<h1 class="text-7xl font-extrabold tracking-widest">404</h1>
+			<p class="text-2xl mt-4">Cỗ máy rì viu bị lỗi rồi!</p>
+			<p class="mt-2 text-blue-100">Doraemon không thể tìm thấy trang bạn đang tìm 😢</p>
+
+			<a href="/" class="mt-6 inline-block px-6 py-3 bg-yellow-400 hover:bg-yellow-500 text-blue-900 font-semibold rounded-full transition duration-300">
+				Quay về trang chủ
+			</a>
+
+			<div class="mt-4 text-sm text-blue-200 italic">
+				“Ngay cả Doraemon cũng bó tay...”
+			</div>
+		</div>
+	</body>
 </html>

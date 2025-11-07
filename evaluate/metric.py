@@ -32,7 +32,7 @@
 # def evaluate_ragas(filepath, label):
 #     data = load_data_for_ragas(filepath)
 #     dataset = Dataset.from_list(data)
-    
+	
 #     result = evaluate(
 #         dataset,
 #         metrics=[
@@ -74,67 +74,115 @@ from rouge_score import rouge_scorer
 import numpy as np
 
 def load_data_from_file(filepath):
-    with open(filepath, 'r', encoding='utf-8') as f:
-        json_data = json.load(f)
-    return json_data['review']
+	"""
+	Loads review data from a JSON file
+	Inputs:
+		filepath (str): Path to the JSON file
+	Output:
+		list: A list of review entries
+	"""
+
+	with open(filepath, 'r', encoding='utf-8') as f:
+		json_data = json.load(f)
+
+	return json_data['review']
 
 def context_to_reference(context_list):
-    return "\n".join(context_list)
+	"""
+	Converts a list of context strings into a single reference string
+	Inputs:
+		context_list (list): A list of context strings
+	Output:
+		str: A single string used as reference text
+	"""
+
+	return "\n".join(context_list)
 
 def compute_rouge_against_context(answer, context_list):
-    reference = context_to_reference(context_list)
-    scores = scorer.score(reference, answer)
-    return {
-        "rouge1": scores["rouge1"].fmeasure,
-        "rouge2": scores["rouge2"].fmeasure,
-        "rougeL": scores["rougeL"].fmeasure,
-    }
+	"""
+	Computes ROUGE scores between an answer and its reference context
+	Inputs:
+		answer (str): The generated answer to evaluate
+		context_list (list): A list of reference context strings
+	Output:
+		dict: A dictionary with ROUGE-1, ROUGE-2, and ROUGE-L scores
+	"""
+
+	reference = context_to_reference(context_list)
+	scores = scorer.score(reference, answer)
+
+	return {
+		"rouge1": scores["rouge1"].fmeasure,
+		"rouge2": scores["rouge2"].fmeasure,
+		"rougeL": scores["rougeL"].fmeasure,
+	}
 
 def evaluate_file(filepath, label=None):
-    data = load_data_from_file(filepath)
+	"""
+	Evaluates a review file by computing average ROUGE scores
+	Inputs:
+		filepath (str): Path to the review JSON file
+		label (str, optional): Label to identify the model or file
+	Output:
+		dict: A dictionary containing the label and average ROUGE scores
+	"""
 
-    rouge1_list, rouge2_list, rougeL_list = [], [], []
+	data = load_data_from_file(filepath)
 
-    for sample in data:
-        answer = sample["answer"]
-        context = sample["context"]
+	rouge1_list, rouge2_list, rougeL_list = [], [], []
 
-        scores = compute_rouge_against_context(answer, context)
+	for sample in data:
+		answer = sample["answer"]
+		context = sample["context"]
 
-        rouge1_list.append(scores["rouge1"])
-        rouge2_list.append(scores["rouge2"])
-        rougeL_list.append(scores["rougeL"])
+		scores = compute_rouge_against_context(answer, context)
 
-    return {
-        "label": label or filepath,
-        "rouge1": np.mean(rouge1_list),
-        "rouge2": np.mean(rouge2_list),
-        "rougeL": np.mean(rougeL_list),
-    }
+		rouge1_list.append(scores["rouge1"])
+		rouge2_list.append(scores["rouge2"])
+		rougeL_list.append(scores["rougeL"])
+
+	return {
+		"label": label or filepath,
+		"rouge1": np.mean(rouge1_list),
+		"rouge2": np.mean(rouge2_list),
+		"rougeL": np.mean(rougeL_list),
+	}
 
 def print_comparison_table(results):
-    print("====== ROUGE SCORES COMPARISON ======")
-    header = f"{'Model':<20} | {'ROUGE-1':>9} | {'ROUGE-2':>9} | {'ROUGE-L':>9}"
-    divider = "-" * len(header)
-    print(header)
-    print(divider)
-    for result in results:
-        model = result["label"]
-        print(f"{model:<20} | {result['rouge1']:>9.4f} | {result['rouge2']:>9.4f} | {result['rougeL']:>9.4f}")
+	"""
+    Prints a formatted table comparing ROUGE scores across models
+    Inputs:
+        results (list): A list of dictionaries containing model labels and ROUGE scores
+    Output:
+        (prints to console)
+    """
+
+	print("====== ROUGE SCORES COMPARISON ======")
+
+	header = f"{'Model':<20} | {'ROUGE-1':>9} | {'ROUGE-2':>9} | {'ROUGE-L':>9}"
+	divider = "-" * len(header)
+
+	print(header)
+	print(divider)
+
+	for result in results:
+		model = result["label"]
+		print(f"{model:<20} | {result['rouge1']:>9.4f} | {result['rouge2']:>9.4f} | {result['rougeL']:>9.4f}")
 
 if __name__ == "__main__":
-    scorer = rouge_scorer.RougeScorer(['rouge1', 'rouge2', 'rougeL'], use_stemmer=True)
+	scorer = rouge_scorer.RougeScorer(['rouge1', 'rouge2', 'rougeL'], use_stemmer=True)
 
-    # Danh sách file và tên mô hình tương ứng
-    file_configs = [
-        ("data/gemini_review.json", "gemini-2.5-flash"),
-        ("data/deepseek_review.json", "deepseek-reasoner"),
-        ("data/gpt_review.json", "gpt-4-turbo"),
-    ]
+	# List of files and corresponding model names
+	file_configs = [
+		("data/gemini_review.json", "gemini-2.5-flash"),
+		("data/deepseek_review.json", "deepseek-reasoner"),
+		("data/gpt_review.json", "gpt-4-turbo"),
+	]
 
-    results = []
-    for filepath, label in file_configs:
-        result = evaluate_file(filepath, label)
-        results.append(result)
+	results = []
 
-    print_comparison_table(results)
+	for filepath, label in file_configs:
+		result = evaluate_file(filepath, label)
+		results.append(result)
+
+	print_comparison_table(results)

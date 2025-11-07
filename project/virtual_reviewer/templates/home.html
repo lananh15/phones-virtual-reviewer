@@ -2,41 +2,40 @@
 
 <!DOCTYPE html>
 <html lang="vi">
-<head>
-   <meta charset="UTF-8">
-   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-   <meta name="csrf-token" content="{{ csrf_token }}">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Cỗ máy rì viu</title>
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="csrf-token" content="{{ csrf_token }}">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Cỗ máy rì viu</title>
 
-   <!-- Font Awesome CDN link -->
-   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
-   <link rel="icon" type="image/x-icon" href="{% static 'image/doraemon.svg' %}">
-   <script src="https://cdn.tailwindcss.com"></script>
-   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-</head>
-<body>
+		<!-- Font Awesome CDN link -->
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+		<link rel="icon" type="image/x-icon" href="{% static 'image/doraemon.svg' %}">
+		<script src="https://cdn.tailwindcss.com"></script>
+		<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+	</head>
+	
+	<body>
+		{% include 'header.html' %}
+		
+		<main class="max-w-screen-xl mx-auto px-4 py-6 space-y-6">
+			<!-- Category -->
+			<form method="GET" class="flex items-center space-x-4 mb-6">
+				<label for="category" class="text-lg font-semibold">Phân loại:</label>
+				<select id="category" name="category" class="select border border-blue-500 w-60 bg-white rounded focus:outline-none focus:ring-1 focus:ring-blue-600" onchange="this.form.submit()">
+					<option value="">Tất cả sản phẩm</option>
 
-{% include 'header.html' %}
-<main class="max-w-screen-xl mx-auto px-4 py-6 space-y-6">
+					{% for category in categories %}
+						<option value="{{ category }}" {% if selected_category == category %}selected{% endif %}>{{ category }}</option>
+					{% endfor %}
+				</select>
+			</form>
 
-  <!-- Phân loại sản phẩm -->
-  <form method="GET" class="flex items-center space-x-4 mb-6">
-    <label for="category" class="text-lg font-semibold">Phân loại:</label>
-    <select id="category" name="category"
-        class="select border border-blue-500 w-60 bg-white rounded focus:outline-none focus:ring-1 focus:ring-blue-600"
-        onchange="this.form.submit()">
-      <option value="">Tất cả sản phẩm</option>
-      {% for category in categories %}
-      <option value="{{ category }}" {% if selected_category == category %}selected{% endif %}>{{ category }}</option>
-      {% endfor %}
-    </select>
-  </form>
+			<!-- Products list -->
+			{% include 'product_grid.html' with products=products %}
+		</main>
 
-  <!-- Danh sách sản phẩm -->
-  {% include 'product_grid.html' with products=products %}
-</main>
-<script src="{% static 'js/home.js' %}"></script>
-
-</body>
+		<script src="{% static 'js/home.js' %}"></script>
+	</body>
 </html>

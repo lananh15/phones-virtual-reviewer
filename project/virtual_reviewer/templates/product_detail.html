@@ -2,90 +2,93 @@
 
 <!DOCTYPE html>
 <html lang="vi">
-<head>
-   <meta charset="UTF-8">
-   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-   <meta name="csrf-token" content="{{ csrf_token }}">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>{{ product.canonical_name }}</title>
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="csrf-token" content="{{ csrf_token }}">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>{{ product.canonical_name }}</title>
 
-   <!-- Font Awesome CDN link -->
-   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
-   <link rel="icon" type="image/x-icon" href="{% static 'image/doraemon.svg' %}">
-   <script src="https://cdn.tailwindcss.com"></script>
-   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-</head>
-<body>
+		<!-- Font Awesome CDN link -->
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+		<link rel="icon" type="image/x-icon" href="{% static 'image/doraemon.svg' %}">
+		<script src="https://cdn.tailwindcss.com"></script>
+		<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+	</head>
 
-{% include 'header.html' %}
-<main class="max-w-screen-xl mx-auto px-4 py-4 space-y-6">
-  <div class="container mx-auto py-4">
-    <div class="grid grid-cols-1 md:grid-cols-[1fr_2fr] gap-x-4 gap-y-6">
-      
-      <!-- Ảnh sản phẩm -->
-      <div class="flex justify-center md:block">
-        <img src="{{ product.image }}" alt="{{ product.name }}"
-             class="w-full max-w-xs md:w-3/4 h-auto border border-gray-300 rounded-md object-cover mx-auto md:mx-0" />
-      </div>
+	<body>
+		{% include 'header.html' %}
+		
+		<main class="max-w-screen-xl mx-auto px-4 py-4 space-y-6">
+			<div class="container mx-auto py-4">
+				<div class="grid grid-cols-1 md:grid-cols-[1fr_2fr] gap-x-4 gap-y-6">
+					<!-- Product image -->
+					<div class="flex justify-center md:block">
+						<img src="{{ product.image }}" alt="{{ product.name }}"
+							class="w-full max-w-xs md:w-3/4 h-auto border border-gray-300 rounded-md object-cover mx-auto md:mx-0" />
+					</div>
 
-      <!-- Thông tin sản phẩm -->
-      <div>
-        <h1 class="text-2xl md:text-3xl font-bold mb-4">{{ product.canonical_name }}</h1>
-        <div class="flex flex-wrap items-center gap-2 mb-2">
-          <p class="text-base text-black-600 font-normal">Giá hiện tại:</p>
-          <p class="text-base text-blue-500 font-medium">{{ product.price }}</p>
-        </div>
-        <div class="flex flex-wrap items-center gap-2 mb-4">
-          <p class="text-base text-black-600 font-normal">Link mua:</p>
-          <a href="{{ product.link }}" target="_blank"
-             class="italic underline text-blue-500 font-normal">
-            {{ product.model }}
-          </a>
-        </div>
-      </div>
+					<!-- Product info -->
+					<div>
+						<h1 class="text-2xl md:text-3xl font-bold mb-4">{{ product.canonical_name }}</h1>
 
-    </div>
-  </div>
+						<div class="flex flex-wrap items-center gap-2 mb-2">
+							<p class="text-base text-black-600 font-normal">Giá hiện tại:</p>
+							<p class="text-base text-blue-500 font-medium">{{ product.price }}</p>
+						</div>
 
-  <!-- Thông số kỹ thuật -->
-  <div class="mt-6">
-    <div class="flex flex-wrap items-center gap-2 mb-4">
-      <h2 class="text-xl md:text-2xl font-bold">Thông số kĩ thuật</h2>
-      <p class="text-base italic text-black-500">theo</p>
-      <a href="{{ product.link }}" target="_blank"
-         class="italic underline text-blue-500 font-normal">
-        {{ product.model }}
-      </a>
-    </div>
+						<div class="flex flex-wrap items-center gap-2 mb-4">
+							<p class="text-base text-black-600 font-normal">Link mua:</p>
 
-    <div class="overflow-x-auto">
-      <table class="table-auto border border-gray-300 w-full md:w-1/2">
-        <tbody>
-          {% for title, value in titles %}
-          <tr class="text-sm">
-            <td class="bg-blue-100 font-medium px-4 py-2 w-1/3 border border-gray-300">{{ title }}</td>
-            <td class="font-normal px-4 py-2 border border-gray-300">{{ value|linebreaksbr }}</td>
-          </tr>
-          {% endfor %}
-        </tbody>
-      </table>
-    </div>
+							<a href="{{ product.link }}" target="_blank"
+								class="italic underline text-blue-500 font-normal">
+								{{ product.model }}
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
 
-    <hr class="my-8 border-t border-gray-300" />
+			<!-- Specifications -->
+			<div class="mt-6">
+				<div class="flex flex-wrap items-center gap-2 mb-4">
+					<h2 class="text-xl md:text-2xl font-bold">Thông số kĩ thuật</h2>
+					<p class="text-base italic text-black-500">theo</p>
 
-    <!-- Nút tạo review -->
-    <div class="flex justify-center">
-      <button id="generateReviewBtn" data-product-name="{{ product.canonical_name }}"
-              class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition">
-        Tạo bài review
-      </button>
-    </div>
+					<a href="{{ product.link }}" target="_blank"
+						class="italic underline text-blue-500 font-normal">
+						{{ product.model }}
+					</a>
+				</div>
 
-    <!-- Review hiển thị -->
-    <div id="reviewContainer" class="mt-6 space-y-6"></div>
-  </div>
-</main>
-<script src="{% static 'js/product_detail.js' %}"></script>
+				<div class="overflow-x-auto">
+					<table class="table-auto border border-gray-300 w-full md:w-1/2">
+						<tbody>
+							{% for title, value in titles %}
+								<tr class="text-sm">
+									<td class="bg-blue-100 font-medium px-4 py-2 w-1/3 border border-gray-300">{{ title }}</td>
+									<td class="font-normal px-4 py-2 border border-gray-300">{{ value|linebreaksbr }}</td>
+								</tr>
+							{% endfor %}
+						</tbody>
+					</table>
+				</div>
 
-</body>
+				<hr class="my-8 border-t border-gray-300" />
+
+				<!-- Generate review button -->
+				<div class="flex justify-center">
+					<button id="generateReviewBtn" data-product-name="{{ product.canonical_name }}"
+						class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition">
+						Tạo bài review
+					</button>
+				</div>
+
+				<!-- Show review -->
+				<div id="reviewContainer" class="mt-6 space-y-6"></div>
+			</div>
+		</main>
+
+		<script src="{% static 'js/product_detail.js' %}"></script>
+	</body>
 </html>
