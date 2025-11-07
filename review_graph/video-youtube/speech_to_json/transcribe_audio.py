@@ -33,29 +33,42 @@ MODEL_SIZE = "small"
 LANG = "vi"
 
 def transcribe(audio_path):
-    device = "cuda" if torch.cuda.is_available() else "cpu" # đổi thành cuda nếu chạy bằng GPU
-    model = faster_whisper.WhisperModel(MODEL_SIZE, device=device, compute_type="int8")
+	"""
+	Transcribes Vietnamese audio using the Faster-Whisper model:
+		- Loads the Whisper model with GPU support if available
+		- Uses an initial prompt to guide transcription for phone review content
+		- Transcribes the audio file and returns the full text and detected language
+	Inputs:
+		audio_path (str): Path to the audio file to be transcribed
+	Output:
+		dict: A dictionary containing:
+			- "text" (str): The full transcribed text
+			- "language" (str): The detected language of the audio
+	"""
 
-    initial_prompt = (
-        "Đây là video đánh giá điện thoại bằng tiếng Việt. "
-        "Từ khóa: iPhone, Samsung, Oppo, Xiaomi, Realme, Vivo, camera, màn hình, hiệu năng, pin, sạc nhanh, Snapdragon, RAM, Hz, giá bán, điểm mạnh, điểm yếu đánh giá, so sánh."
-    )
+	device = "cuda" if torch.cuda.is_available() else "cpu" # cuda if use GPU
+	model = faster_whisper.WhisperModel(MODEL_SIZE, device=device, compute_type="int8")
 
-    segments, info = model.transcribe(
-        audio_path,
-        language=LANG,
-        beam_size=5,
-        vad_filter=False,
-        initial_prompt=initial_prompt
-    )
+	initial_prompt = (
+		"Đây là video đánh giá điện thoại bằng tiếng Việt. "
+		"Từ khóa: iPhone, Samsung, Oppo, Xiaomi, Realme, Vivo, camera, màn hình, hiệu năng, pin, sạc nhanh, Snapdragon, RAM, Hz, giá bán, điểm mạnh, điểm yếu đánh giá, so sánh."
+	)
 
-    full_text = " ".join([seg.text.strip() for seg in segments])
-    # print(f"Text from Faster-Whisper: {full_text}")
+	segments, info = model.transcribe(
+		audio_path,
+		language=LANG,
+		beam_size=5,
+		vad_filter=False,
+		initial_prompt=initial_prompt
+	)
 
-    # with open("output.txt", "w", encoding="utf-8") as f:
-    #     f.write(full_text)
+	full_text = " ".join([seg.text.strip() for seg in segments])
+	# print(f"Text from Faster-Whisper: {full_text}")
 
-    return {
-        "text": full_text,
-        "language": info.language
-    }
+	# with open("output.txt", "w", encoding="utf-8") as f:
+	#	f.write(full_text)
+
+	return {
+		"text": full_text,
+		"language": info.language
+	}

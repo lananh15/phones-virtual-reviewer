@@ -108,7 +108,6 @@ def get_unique_reviewers(reviewers):
 
 	return list(unique.values())
 
-# Cleans a JSON-formatted string by removing markdown wrappers
 def clean_json_response(response: str) -> str:
 	"""
 	Cleans a JSON-formatted string by removing markdown wrappers
