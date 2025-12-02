@@ -76,9 +76,20 @@ class GenerateReviewView(UserViews):
 		collect(DISTINCT df.text) AS display_features
 		"""
 
-		with self.neo4j_handler as db:
-			result = db.run_read_query(query, {"product_name": product_name})
-			product_info = db.run_read_query(nsx_query, {"product_name": product_name})[0]
+		try:
+			with self.neo4j_handler as db:
+				result = db.run_read_query(query, {"product_name": product_name})
+				product_info_records = db.run_read_query(nsx_query, {"product_name": product_name})
+
+				if not product_info_records:
+					return JsonResponse({"error": "Không tìm thấy sản phẩm trong database"}, status=404)
+				product_info = product_info_records[0]
+
+		except Exception as e:
+			return JsonResponse({
+				"error": "Lỗi kết nối hoặc truy vấn dữ liệu, vui lòng thử lại sau.",
+				"detail": "Neo4j error"
+			}, status=503)
 		
 		# Convert to reviewer format
 		reviewers = []
