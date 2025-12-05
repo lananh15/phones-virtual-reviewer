@@ -20,7 +20,7 @@ def save_data(question, answer, context, output_subdir="../evaluate/data"):
 	# Used to save the review into the specified file
 	# filepath = os.path.join(output_dir, "deepseek_review.json")
 	# filepath = os.path.join(output_dir, "gpt_review.json")
-	filepath = os.path.join(output_dir, "gemini_review.json")
+	filepath = os.path.join(output_dir, "gemini25_review.json")
 
 	# If file exists, check contents
 	if os.path.exists(filepath) and os.path.getsize(filepath) > 0:

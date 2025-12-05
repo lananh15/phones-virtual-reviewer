@@ -164,7 +164,7 @@ class GenerateReviewView(UserViews):
 		- Mỗi nội dung pros/cons/feature/recommendation chỉ viết **một lần duy nhất** (trừ nội dung có yếu tố so sánh với sản phẩm khác).
 		- Nếu nhiều reviewer nói cùng một ý nội dung:
 			→ Gom lại thành một đoạn.
-			→ Ghi rõ tất cả reviewer + trích dẫn theo format: [url] - [author] đăng ngày [upload_date]
+			→ Ghi rõ tất cả reviewer + trích dẫn theo format: [url - author đăng ngày upload_date]
 		- Nếu có sự khác biệt trong nội dung:
 			→ Viết thành các đoạn khác nhau.
 		- Nếu một reviewer nói **cùng ý với các reviewer khác nhưng lại có yếu tố so sánh với sản phẩm khác**, thì:
@@ -181,7 +181,7 @@ class GenerateReviewView(UserViews):
 		- Không lặp lại cụm “Theo [Author]” quá 3 lần — thay bằng: “chia sẻ”, “cho biết”, “trong nhận định của”, v.v.
 		- Không được tự diễn giải hoặc thêm nội dung không có trong dữ liệu.
 		- Không được lược bỏ tên sản phẩm khác nếu có đề cập.
-		- MỖI Ý KIẾN PHẢI CÓ TRÍCH DẪN theo format: **[url] - [author] đăng ngày [upload_date]**
+		- MỖI Ý KIẾN PHẢI CÓ TRÍCH DẪN theo format: **[url - author đăng ngày upload_date**
 
 		---
 
@@ -215,7 +215,7 @@ class GenerateReviewView(UserViews):
 		- ✅ Các ý có yếu tố so sánh phải viết riêng và ghi rõ tên sản phẩm khác
 		- ✅ Không lặp “Theo [Author]” quá 3 lần
 		- ✅ Tổng độ dài toàn bài: 1000–2000 từ
-		- ✅ MỖI Ý KIẾN PHẢI CÓ TRÍCH DẪN ĐẦY ĐỦ theo format: **[url] - [author] đăng ngày [upload_date]**
+		- ✅ MỖI Ý KIẾN PHẢI CÓ TRÍCH DẪN ĐẦY ĐỦ theo format: **[url - author đăng ngày upload_date]**
 
 		- ✅ Đảm bảo đúng format JSON như trên (có dấu phẩy đúng sau mỗi phần tử, không bị thiếu hoặc thừa)
 		- Nếu response cuối cùng THIẾU bất kỳ thông tin so sánh nào được liệt kê ở đầu (đặc biệt là pros/cons/suggestion) → Đó là LỖI NGHIÊM TRỌNG và phải làm lại!
@@ -227,7 +227,7 @@ class GenerateReviewView(UserViews):
 
 		LƯU Ý:
 		1. Bài review hay, thực tế, mang lại lợi ích cho người đọc = bài có chứa tên sản phẩm khác được so sánh (iPhone 15 Pro Max, Samsung Galaxy S25, v.v.) để người đọc có góc nhìn khách quan hơn → PHẢI GIỮ NGUYÊN
-		2. Mỗi ý kiến PHẢI CÓ TRÍCH DẪN ĐẦY ĐỦ theo format [url] - [author] đăng ngày [upload_date] (có thể trích dẫn nhiều nếu có nhiều reviewer cùng ý kiến)
+		2. Mỗi ý kiến PHẢI CÓ TRÍCH DẪN ĐẦY ĐỦ theo format [url - author đăng ngày upload_date] (có thể trích dẫn nhiều nếu có nhiều reviewer cùng ý kiến)
 		3. Phần pros/cons/suggestions rất quan trọng với người đọc nên cần phải ghi chi tiết (đặc biệt nếu có so sánh với sản phẩm khác thì càng phải ghi rõ)
 		3. Kiểm tra kỹ từng câu so với dữ liệu review trước khi hoàn thành
 		"""
@@ -238,7 +238,7 @@ class GenerateReviewView(UserViews):
 		review, answer = self.gemini_handler.generate_review(prompt)
 
 		# Save data for rouge score calculation
-		# save_data(question, answer, context)
+		save_data(question, answer, context)
 
 		return JsonResponse({
 			"reviews": review,
