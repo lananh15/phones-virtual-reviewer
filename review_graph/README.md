@@ -63,7 +63,7 @@ Chạy file **[main.py](video-youtube/main.py)** (PHẢI chạy file này từ t
 Chạy file [merge_transcript.py](video-youtube/transcript_graph/merge_transcript.py) (PHẢI chạy file này từ thư mục **review_graph**). Kết quả sẽ overwrite file [youtube_reviews.json](video-youtube/youtube_reviews.json) trong repo này.
 
 ### Tổ chức dữ liệu lên Neo4j
-Như đã đề cập [Ở ĐÂY](#-cách-nhanh-nhất-để-có-dữ-liệu-trên-neo4j-của-bạn-để-chạy-được-dorareviewer)    
+Như đã đề cập [Ở ĐÂY](#2-cách-nhanh-nhất-để-có-dữ-liệu-trên-neo4j-của-bạn-để-chạy-được-dorareviewer)    
 Mô tả tổng qua tổ chức dữ liệu trên Neo4j:
 ```mermaid
 graph TD
