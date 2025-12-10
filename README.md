@@ -42,7 +42,7 @@ Di chuyển vào thư mục project trong terminal bằng `cd project` và chạ
 python manage.py migrate
 python manage.py runserver
 ```
-**Lưu ý:** Để hệ thống sinh bài review từ 1 trong 3 mô hình gpt-4-turbo, gemini-1.5-flash, deepseek-reasoner, thì chỉ cần bỏ comment của dòng có handler tương ứng (trong file [project/virtual_reviewer/views/review.py](project/virtual_reviewer/views/review.py)) và comment 2 dòng handler còn lại.
+**Lưu ý:** Để hệ thống sinh bài review từ 1 trong 3 mô hình gpt-4-turbo, gemini-2.5-flash, deepseek-reasoner, thì chỉ cần bỏ comment của dòng có handler tương ứng (trong file [project/virtual_reviewer/views/review.py](project/virtual_reviewer/views/review.py)) và comment 2 dòng handler còn lại.
 ```python
 # Generate review using LLM
 # review, answer = self.deepseek_handler.generate_review(prompt)
