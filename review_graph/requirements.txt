@@ -1,0 +1,8 @@
+yt-dlp
+faster_whisper
+ffmpeg-python
+torch
+openai
+neo4j
+python-dotenv
+langchain_openai

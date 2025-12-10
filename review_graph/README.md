@@ -1,12 +1,22 @@
-**[youtube_links.txt](video-youtube/youtube_links.txt)** là file chứa link của 120 video Youtube review về 48 mẫu điện thoại từ các thương hiệu iPhone, Samsung, OPPO, Xiaomi, Realme, Vivo.  
-**[phones_data.json](phones_data.json)** là file tổng hợp các thông số kĩ thuật của 48 mẫu điện thoại trên từ các trang như CellphoneS, Thế Giới Di Động,...  
-**[youtube_reviews.json](phones_data.json)** là file tổng hợp các thông tin review từ 120 video, nhóm theo tên của 48 mẫu điện thoại.  
-## 📌 Cách nhanh nhất để có dữ liệu trên Neo4j của bạn để chạy được Cỗ máy rì viu
-Từ thư mục gốc là phones-virtual-reviewer (khi vừa clone repo về), di chuyển vào thư mục **review_graph** bằng `cd review-graph`  
-GIỮ file [youtube_reviews.json](video-youtube/youtube_reviews.json) đã có trong repo này và chạy file [graph_data.py](video-youtube/transcript_graph/graph_data.py) (PHẢI chạy file này từ thư mục **review_graph**) thì sẽ tự động đẩy dữ liệu của chúng tôi lên Neo4j của bạn.  
-=> Thế là đã có dữ liệu để chạy hệ thống Cỗ máy rì viu!
+## 1. Dữ liệu có sẵn trong repo
+**[youtube_links.txt](video-youtube/youtube_links.txt)**  
+Chứa 130 link video YouTube review về 53 mẫu điện thoại (iPhone, Samsung, Xiaomi, OPPO, Realme, Vivo)  
+**[phones_data.json](phones_data.json)**  
+Thông số kỹ thuật đầy đủ của 53 mẫu điện thoại, thu thập từ CellphoneS, TGDĐ...    
+**[youtube_reviews.json](phones_data.json)**  
+Tổng hợp các thông tin review từ 130 video, nhóm theo tên của 53 mẫu điện thoại
 
-## 🧵 Tổng quan pipeline xử lý video review trên Youtube và thông số kĩ thuật tổ chức dữ liệu lên Neo4j
+## 2. Cách nhanh nhất để có dữ liệu trên Neo4j của bạn để chạy được DoraReviewer
+**Bước 1:** Từ repo gốc, di chuyển vào thư mục **review_graph**
+```bash
+cd review_graph
+```  
+**Bước 2:** GIỮ file [youtube_reviews.json](video-youtube/youtube_reviews.json) đã có trong repo này  
+**Bước 3:** Chạy file [graph_data.py](video-youtube/transcript_graph/graph_data.py) tự động Đẩy toàn bộ node + relationship lên Neo4j của bạn
+
+👉 Thế là đã có dữ liệu để chạy hệ thống DoraReviewer!
+
+## 3. Tổng quan pipeline xử lý video review trên Youtube và thông số kĩ thuật tổ chức dữ liệu lên Neo4j
 Pipeline này trích xuất và tổ chức dữ liệu review sản phẩm từ video YouTube, sau đó lưu trữ dưới dạng đồ thị trong cơ sở dữ liệu Neo4j, bao gồm kết hợp xử lý audio, gpt-4-turbo để tóm tắt, và chuyển đổi dữ liệu thành cấu trúc đồ thị.  
 ### Các bước trong pipeline
 #### 1. Tải Audio từ YouTube
@@ -31,22 +41,29 @@ Pipeline này trích xuất và tổ chức dữ liệu review sản phẩm từ
 - Thao tác: Chuyển dữ liệu thành node và relationship.
 - Đầu ra: Đồ thị review sản phẩm trong Neo4j.
 
-### Cách tạo 120 file JSON (từ 120 video Youtube) trong [video-youtube/review_data/](video-youtube/review_data/)
+### Cách tạo 130 file JSON (từ 130 video Youtube) trong [video-youtube/review_data/](video-youtube/review_data/)
 Chạy file **[main.py](video-youtube/main.py)** (PHẢI chạy file này từ thư mục **review_graph**)  
 **Lưu ý:** muốn tạo 1 file JSON của 1 video thì
-- BẮT BUỘC file audio của video đó CHƯA CÓ trong thư mục [video-youtube/audio/](video-youtube/audio) và dĩ nhiên cũng CHƯA CÓ file JSON đó trong thư mục [video-youtube/review_data/](video-youtube/review_data/).
-*Chúng tôi có sẵn 120 file JSON được tổng hợp sẵn từ 120 video Youtube rồi nên bạn có thể tiến đến bước gộp luôn, không cần tạo từng file JSON nữa.*  
+| Thứ cần kiểm tra                                                          | Trạng thái                    |
+| --------------------------------------------------------------------------| ----------------------------- |
+| File audio trong [video-youtube/audio/](video-youtube/audio)              | ❌ Chưa tồn tại               |
+| File JSON trong [video-youtube/review_data/](video-youtube/review_data/)  | ❌ Chưa tồn tại               |
+| Link YouTube                                                              | ✔️ Có trong [youtube_links.txt](video-youtube/youtube_links.txt) |
 
-**Gợi ý:** Nếu muốn test code (mà không muốn chạy 120 video lại từ đầu -> tốn thời gian):
+*Chúng tôi có sẵn 130 file JSON được tổng hợp sẵn từ 130 video Youtube rồi nên bạn có thể tiến đến bước gộp luôn, không cần tạo từng file JSON nữa.*  
+
+#### 💡Tip khi muốn test nhanh bằng 1 video
 - Hãy dán 1 link video review Youtube bất kì vào cuối file [youtube_links.txt](video-youtube/youtube_links.txt) (link video thêm vào phải chưa có trong file này) và chạy file main.py như đề cập ở trên.  
+
 **Quan trọng:**
 - Khi ra 1 file JSON có thể sẽ có 1 số từ bị sai như "OPPO Find X8" mà lại ghi thành "OPPO 5X8" nên phải lọc và sửa lại cho đúng thông tin.
-- Phải nhất quán tên sản phẩm như "OPPO Find X8" thì tất cả file liên quan sản phẩm này đều phải ghi đúng tên như vậy, không được ghi "Oppo Find X8" thì mới tổ chức đúng node lên Neo4j được. (Tên sản phẩm phải trùng khớp với trường "canonical_name" trong file [phones_data.json](phones_data.json))
-### Gộp 120 file JSON thành 1 file JSON chung nhóm theo tên sản phẩm
-Chạy file [merge_transcript.py](video-youtube/transcript_graph/merge_transcript.py) (PHẢI chạy file này từ thư mục **review_graph**) thì sẽ tự động sinh ra file [youtube_reviews.json](video-youtube/youtube_reviews.json) như đã có trong repo này.
+- Phải nhất quán tên sản phẩm như "OPPO Find X8" thì tất cả file liên quan sản phẩm này đều phải ghi đúng tên như vậy (Tên sản phẩm phải trùng khớp với trường "canonical_name" trong file [phones_data.json](phones_data.json))
+
+### Gộp 130 file JSON thành 1 file JSON chung nhóm theo tên sản phẩm
+Chạy file [merge_transcript.py](video-youtube/transcript_graph/merge_transcript.py) (PHẢI chạy file này từ thư mục **review_graph**). Kết quả sẽ overwrite file [youtube_reviews.json](video-youtube/youtube_reviews.json) trong repo này.
 
 ### Tổ chức dữ liệu lên Neo4j
-Như đã đề cập [Ở ĐÂY](#-cách-nhanh-nhất-để-có-dữ-liệu-trên-neo4j-của-bạn-để-chạy-được-cỗ-máy-rì-viu)    
+Như đã đề cập [Ở ĐÂY](#2-cách-nhanh-nhất-để-có-dữ-liệu-trên-neo4j-của-bạn-để-chạy-được-cỗ-máy-rì-viu)    
 Mô tả tổng qua tổ chức dữ liệu trên Neo4j:
 ```mermaid
 graph TD
