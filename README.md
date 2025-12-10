@@ -59,9 +59,13 @@ Nếu muốn lưu dữ liệu bài review, context (thông tin truy xuất sản
 # Used to save the review into the specified file
 # filepath = os.path.join(output_dir, "deepseek_review.json")
 # filepath = os.path.join(output_dir, "gpt_review.json")
-filepath = os.path.join(output_dir, "gemini_review.json")
+filepath = os.path.join(output_dir, "gemini25_review.json")
 ``` 
 
 ## 🏆 Đo rouge
-Sau khi lưu đủ 48 bài review cho 48 sản phẩm trong hệ thống trong các file ([gemini_review.json](evaluate/data/gemini_review.json), [gpt_review.json](evaluate/data/gpt_review.json) và [deepseek_review.json](evaluate/data/deepseek_review.json)) trong thư mục [evaluate/data](evaluate/data), di chuyển vào thư mục evaluate trong terminal bằng `cd evaluate` và chạy file [metric.py](evaluate/metric.py) sẽ in ra được rouge-score như bên dưới:  
-![rouge-score](https://github.com/user-attachments/assets/a0430897-be3c-48c5-91d3-269d51becc8f)  
+Sau khi lưu đủ 53 bài review cho 53 sản phẩm trong hệ thống trong các file ([gemini15_review.json](evaluate/data/gemini15_review.json) (Gemini 1.5 Flash - đã ngừng hoạt động), [gemini25_review.json](evaluate/data/gemini25_review.json) (Gemini 2.5 Flash), [gpt_review.json](evaluate/data/gpt_review.json) (GPT-4 Turbo) và [deepseek_review.json](evaluate/data/deepseek_review.json) (deepseek-reasoner)) trong thư mục [evaluate/data](evaluate/data), di chuyển vào thư mục evaluate trong terminal bằng `cd evaluate` và chạy file [metric.py](evaluate/metric.py) sẽ in ra được rouge-score như bên dưới:  
+| Model             | ROUGE-1 | ROUGE-2 | ROUGE-L |
+|-------------------|---------|---------|---------|
+| gemini-2.5-flash  | 0.5458  | 0.4520  | 0.2940  |
+| deepseek-reasoner | 0.7001  | 0.4726  | 0.3022  |
+| gpt-4-turbo       | 0.7700  | 0.5367  | 0.3498  |

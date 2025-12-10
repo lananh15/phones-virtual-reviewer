@@ -174,7 +174,7 @@ if __name__ == "__main__":
 
 	# List of files and corresponding model names
 	file_configs = [
-		("data/gemini15_review.json", "gemini-1.5-flash"),
+		# ("data/gemini15_review.json", "gemini-1.5-flash"),
 		("data/gemini25_review.json", "gemini-2.5-flash"),
 		("data/deepseek_review.json", "deepseek-reasoner"),
 		("data/gpt_review.json", "gpt-4-turbo"),
