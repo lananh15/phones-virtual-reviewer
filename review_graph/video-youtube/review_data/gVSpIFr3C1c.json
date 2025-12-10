@@ -1,0 +1,79 @@
+{
+  "video_id": "gVSpIFr3C1c",
+  "video_url": "https://www.youtube.com/watch?v=gVSpIFr3C1c",
+  "video_title": "Mở hộp realme 15 và realme 15 Pro: Pin 7000mAh, màn tới 6500 nits, bản 15 triệu có Snap 7 Gen 4",
+  "video_author": "Vật Vờ Studio",
+  "upload_date": "2025-09-24",
+  "content": {
+    "products": [
+      {
+        "name": "Realme 15 5G",
+        "features": [
+          "Dung lượng pin 7000mAh",
+          "Sạc 80W",
+          "Màn hình AMOLED 6.8 inch, độ phân giải cao, tần số quét 144Hz, độ sáng tối đa 4500 nits",
+          "Camera chính 50MP, camera góc siêu rộng 8MP",
+          "Quay video 4K 30fps",
+          "Chip Dimensity 7300 Plus",
+          "Thiết kế nhẹ, trọng lượng 185g"
+        ],
+        "pros": [
+          "Pin dung lượng lớn",
+          "Sạc nhanh",
+          "Màn hình sáng và rõ",
+          "Camera chụp ảnh sắc nét",
+          "Thiết kế nhẹ và mỏng"
+        ],
+        "cons": [
+          "Màn hình không cong",
+          "Hiệu năng không phải cao nhất trong tầm giá"
+        ],
+        "price": "14,990,000 VND",
+        "recommendation": "Phù hợp cho người dùng cần một chiếc điện thoại với pin lớn, màn hình sáng và camera tốt",
+        "type": "main"
+      },
+      {
+        "name": "Realme 15 Pro 5G",
+        "features": [
+          "Dung lượng pin 7000mAh",
+          "Sạc 80W",
+          "Màn hình AMOLED 6.8 inch, độ phân giải cao, tần số quét 144Hz, độ sáng tối đa 6500 nits",
+          "Camera chính 50MP, camera góc siêu rộng 50MP",
+          "Quay video 4K 60fps",
+          "Chip Snapdragon 7 Gen 4",
+          "Thiết kế nhẹ, trọng lượng 187g",
+          "Màn hình cong hai bên"
+        ],
+        "pros": [
+          "Pin dung lượng lớn",
+          "Sạc nhanh",
+          "Màn hình sáng và rõ với độ sáng cao",
+          "Camera chụp ảnh sắc nét, đặc biệt là ở chế độ góc siêu rộng",
+          "Thiết kế nhẹ và mỏng"
+        ],
+        "cons": [
+          "Màn hình cong có thể không phù hợp với một số người dùng",
+          "Hiệu năng không phải cao nhất trong tầm giá"
+        ],
+        "price": "14,990,000 VND",
+        "recommendation": "Phù hợp cho người dùng cần một chiếc điện thoại với pin lớn, màn hình sáng và camera tốt, đặc biệt là camera góc siêu rộng",
+        "type": "main"
+      },
+      {
+        "name": "iPhone 16 Pro Max",
+        "features": [
+          "Pin 4600mAh",
+          "Trọng lượng 227g"
+        ],
+        "pros": [],
+        "cons": [
+          "Pin nhỏ hơn so với Realme 15 và Realme 15 Pro",
+          "Nặng hơn so với Realme 15 và Realme 15 Pro"
+        ],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      }
+    ]
+  }
+}

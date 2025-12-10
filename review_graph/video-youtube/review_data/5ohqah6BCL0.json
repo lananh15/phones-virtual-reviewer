@@ -1,0 +1,67 @@
+{
+  "video_id": "5ohqah6BCL0",
+  "video_url": "https://www.youtube.com/watch?v=5ohqah6BCL0",
+  "video_title": "iPhone 17 hay iPhone 16 Pro?",
+  "video_author": "Duy Luân Dễ Thương",
+  "upload_date": "2025-09-22",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 17",
+        "features": [
+          "Bộ nhớ trong 256GB",
+          "Kích thước màn hình 6.3 inch",
+          "Khung Nhôm",
+          "Ceramix Shield 2 cho mặt kính bảo vệ",
+          "Trọng lượng nhẹ hơn iPhone 16 Pro",
+          "Màn hình độ sáng tối đa 3000 nits",
+          "Chip Apple A19",
+          "Camera trước có độ phân giải cao, góc rộng hơn, chế độ tự động xoay, tự động crop",
+          "Cổng kết nối USB-C với tốc độ USB 2.0"
+        ],
+        "pros": [
+          "Dung lượng bộ nhớ trong gấp đôi so với iPhone 16 Pro tại cùng mức giá",
+          "Thiết kế mỏng, đẹp, hiện đại",
+          "Màn hình sáng và rõ nét",
+          "Hiệu năng tốt với chip mới",
+          "Camera trước nâng cấp đáng kể",
+          "Trọng lượng nhẹ, dễ cầm nắm"
+        ],
+        "cons": [
+          "Khung Nhôm dễ móp hơn so với khung Titan của iPhone 16 Pro",
+          "Cổng USB-C chỉ hỗ trợ tốc độ USB 2.0, chậm hơn so với iPhone 16 Pro"
+        ],
+        "price": "khoảng 25 triệu",
+        "recommendation": "Phù hợp cho những người cần một smartphone với dung lượng lưu trữ cao, thiết kế đẹp và hiệu năng tốt. Đặc biệt thích hợp cho những ai thích chụp ảnh selfie hoặc cần một thiết bị nhẹ để mang theo bên mình.",
+        "type": "main"
+      },
+      {
+        "name": "iPhone 16 Pro",
+        "features": [
+          "Bộ nhớ trong khởi điểm 128GB",
+          "Kích thước màn hình 6.3 inch",
+          "Khung Titan",
+          "Ceramix Shield cho mặt kính bảo vệ",
+          "3 camera sau",
+          "Màn hình độ sáng tối đa 2000 nits",
+          "Chip Apple A18 Pro",
+          "Camera tele 5X",
+          "Cổng kết nối USB-C với tốc độ USB 3.0"
+        ],
+        "pros": [
+          "Khung Titan chắc chắn, bền bỉ",
+          "Camera sau với khả năng zoom quang học 5X",
+          "Màn hình sáng và rõ nét",
+          "Cổng USB-C hỗ trợ tốc độ truyền tải cao, phù hợp cho việc chuyển dữ liệu nặng"
+        ],
+        "cons": [
+          "Bộ nhớ trong khởi điểm thấp hơn so với iPhone 17",
+          "Nặng hơn so với iPhone 17"
+        ],
+        "price": "khoảng 25 triệu",
+        "recommendation": "Lý tưởng cho những người cần khả năng chụp ảnh zoom tốt và thường xuyên cần chuyển dữ liệu nặng qua lại giữa thiết bị và các phương tiện lưu trữ ngoài.",
+        "type": "compare"
+      }
+    ]
+  }
+}

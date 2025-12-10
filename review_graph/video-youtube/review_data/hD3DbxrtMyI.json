@@ -1,0 +1,77 @@
+{
+  "video_id": "hD3DbxrtMyI",
+  "video_url": "https://www.youtube.com/watch?v=hD3DbxrtMyI",
+  "video_title": "Review iPhone 17 Pro Max và iPhone 17 Pro",
+  "video_author": "Duy Luân Dễ Thương",
+  "upload_date": "2025-10-22",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 17 Pro",
+        "features": [
+          "Thiết kế mới",
+          "Mặt sau có lớp Ceramic Shield 2",
+          "Cảm giác cầm nắm tốt",
+          "Màn hình có lớp phụ chống chói mới",
+          "Độ sáng tối đa cao hơn",
+          "Camera trước được nâng cấp",
+          "Camera tele 48MP",
+          "Chip Apple A19 Pro",
+          "Thời gian sử dụng pin tốt",
+          "Hỗ trợ center stage",
+          "Vỏ nhôm"
+        ],
+        "pros": [
+          "Nhỏ gọn, nhẹ",
+          "Thiết kế được đánh giá cao bởi một số người",
+          "Trải nghiệm màn hình xuất sắc",
+          "Camera trước cải thiện, hỗ trợ chụp selfie tốt hơn",
+          "Khả năng chống chói mặc dù không quá nổi bật",
+          "Hiệu suất cao với chip mới",
+          "Thời gian sử dụng pin ổn định"
+        ],
+        "cons": [
+          "Một số người không thích thiết kế mới",
+          "Camera chưa phải là tốt nhất so với các hãng khác",
+          "Hiện tượng flare trong điều kiện ánh sáng yếu"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho người dùng thích thiết kế mới, cần một thiết bị nhỏ gọn với hiệu suất cao và thời gian sử dụng pin tốt.",
+        "type": "main"
+      },
+      {
+        "name": "iPhone 17 Pro Max",
+        "features": [
+          "Thiết kế mới",
+          "Mặt sau có lớp Ceramix Shield 2",
+          "Cảm giác cầm nắm tốt",
+          "Màn hình có lớp phụ chống chói mới",
+          "Độ sáng tối đa cao hơn",
+          "Camera trước được nâng cấp",
+          "Camera tele 48MP",
+          "Chip Apple A19 Pro",
+          "Thời gian sử dụng pin rất tốt",
+          "Hỗ trợ center stage",
+          "Vỏ nhôm"
+        ],
+        "pros": [
+          "Thiết kế được đánh giá cao bởi một số người",
+          "Trải nghiệm màn hình xuất sắc",
+          "Camera trước cải thiện, hỗ trợ chụp selfie tốt hơn",
+          "Khả năng chống chói mặc dù không quá nổi bật",
+          "Hiệu suất cao với chip mới",
+          "Thời gian sử dụng pin xuất sắc"
+        ],
+        "cons": [
+          "Kích thước lớn và nặng hơn so với iPhone 17 Pro",
+          "Một số người không thích thiết kế mới",
+          "Camera chưa phải là tốt nhất so với các hãng khác",
+          "Hiện tượng flare trong điều kiện ánh sáng yếu"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho người dùng thích màn hình lớn, cần thời gian sử dụng pin dài và không quan tâm đến kích thước lớn của thiết bị.",
+        "type": "main"
+      }
+    ]
+  }
+}

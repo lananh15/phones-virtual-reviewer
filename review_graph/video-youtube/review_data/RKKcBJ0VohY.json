@@ -1,0 +1,64 @@
+{
+  "video_id": "RKKcBJ0VohY",
+  "video_url": "https://www.youtube.com/watch?v=RKKcBJ0VohY",
+  "video_title": "Trên tay realme 15T, realme 15 và realme 15 Pro chính hãng: pin 7000mah, sạc nhánh, kháng nước IP69",
+  "video_author": "Vinh Xô",
+  "upload_date": "2025-09-24",
+  "content": {
+    "products": [
+      {
+        "name": "Realme 15 5G",
+        "features": [
+          "mặt lưng nam tính",
+          "viền nhựa",
+          "vi sử lý Dimensity 7300 Plus 5G"
+        ],
+        "pros": [
+          "thiết kế nam tính",
+          "vi sử lý mạnh mẽ"
+        ],
+        "cons": [
+          "viền làm từ nhựa"
+        ],
+        "price": "",
+        "recommendation": "phù hợp cho người thích thiết kế nam tính và cần sử dụng vi sử lý mạnh mẽ",
+        "type": "compare"
+      },
+      {
+        "name": "Realme 15 Pro",
+        "features": [
+          "mặt lưng như làm từ đá",
+          "màn hình cong",
+          "kháng nước IP69",
+          "pin 7000mAh",
+          "sạc nhanh hơn",
+          "vi sử lý Snapdragon 7 gen 4",
+          "màn hình siêu mỏng 1,48mm",
+          "viền màn hình mỏng",
+          "tần số quét 144Hz",
+          "độ sá màn hình 6500 nits",
+          "hệ thống đèn phụ",
+          "camera AI",
+          "chế độ AI Party Mode",
+          "trình sửa ảnh AI"
+        ],
+        "pros": [
+          "mặt lưng đẹp và ấn tượng",
+          "khả năng kháng nước cao",
+          "pin lớn",
+          "sạc nhanh",
+          "vi xử lý mạnh mẽ",
+          "màn hình siêu mỏng",
+          "tần số quét cao",
+          "có hệ thống đèn phụ đặc biệt",
+          "nhiều tính năng camera AI"
+        ],
+        "cons": [
+        ],
+        "price": "",
+        "recommendation": "phù hợp cho người thích thiết kế đẹp, khả năng kháng nước cao và cần sử dụng vi sử lý mạnh mẽ",
+        "type": "compare"
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+python-dotenv
+django
+requests
+langchain_openai
+langchain_google_genai
+django-tailwind
+python-slugify

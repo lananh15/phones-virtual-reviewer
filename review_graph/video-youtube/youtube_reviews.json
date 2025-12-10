@@ -1709,6 +1709,25 @@
         "type": "compare"
       },
       {
+        "video_id": "gVSpIFr3C1c",
+        "video_url": "https://www.youtube.com/watch?v=gVSpIFr3C1c",
+        "video_title": "Mở hộp realme 15 và realme 15 Pro: Pin 7000mAh, màn tới 6500 nits, bản 15 triệu có Snap 7 Gen 4",
+        "video_author": "Vật Vờ Studio",
+        "upload_date": "2025-09-24",
+        "features": [
+          "Pin 4600mAh",
+          "Trọng lượng 227g"
+        ],
+        "pros": [],
+        "cons": [
+          "Pin nhỏ hơn so với Realme 15 và Realme 15 Pro",
+          "Nặng hơn so với Realme 15 và Realme 15 Pro"
+        ],
+        "price": "",
+        "recommendation": "",
+        "type": "compare"
+      },
+      {
         "video_id": "sMg-wnevEEc",
         "video_url": "https://www.youtube.com/watch?v=sMg-wnevEEc",
         "video_title": "Thực tế iPhone 16 Pro Max: ngon thì không phải bàn, viền màn hình mỏng, nhưng mà to và nặng",
@@ -2810,7 +2829,127 @@
         "type": "compare"
       }
     ],
+    "iPhone 17": [
+      {
+        "video_id": "5ohqah6BCL0",
+        "video_url": "https://www.youtube.com/watch?v=5ohqah6BCL0",
+        "video_title": "iPhone 17 hay iPhone 16 Pro?",
+        "video_author": "Duy Luân Dễ Thương",
+        "upload_date": "2025-09-22",
+        "features": [
+          "Bộ nhớ trong 256GB",
+          "Kích thước màn hình 6.3 inch",
+          "Khung Nhôm",
+          "Ceramix Shield 2 cho mặt kính bảo vệ",
+          "Trọng lượng nhẹ hơn iPhone 16 Pro",
+          "Màn hình độ sáng tối đa 3000 nits",
+          "Chip Apple A19",
+          "Camera trước có độ phân giải cao, góc rộng hơn, chế độ tự động xoay, tự động crop",
+          "Cổng kết nối USB-C với tốc độ USB 2.0"
+        ],
+        "pros": [
+          "Dung lượng bộ nhớ trong gấp đôi so với iPhone 16 Pro tại cùng mức giá",
+          "Thiết kế mỏng, đẹp, hiện đại",
+          "Màn hình sáng và rõ nét",
+          "Hiệu năng tốt với chip mới",
+          "Camera trước nâng cấp đáng kể",
+          "Trọng lượng nhẹ, dễ cầm nắm"
+        ],
+        "cons": [
+          "Khung Nhôm dễ móp hơn so với khung Titan của iPhone 16 Pro",
+          "Cổng USB-C chỉ hỗ trợ tốc độ USB 2.0, chậm hơn so với iPhone 16 Pro"
+        ],
+        "price": "khoảng 25 triệu",
+        "recommendation": "Phù hợp cho những người cần một smartphone với dung lượng lưu trữ cao, thiết kế đẹp và hiệu năng tốt. Đặc biệt thích hợp cho những ai thích chụp ảnh selfie hoặc cần một thiết bị nhẹ để mang theo bên mình.",
+        "type": "main"
+      },
+      {
+        "video_id": "ar7kJCn0k_k",
+        "video_url": "https://www.youtube.com/watch?v=ar7kJCn0k_k",
+        "video_title": "Đánh giá chi tiết iPhone 17 và iPhone 17 Pro",
+        "video_author": "Vinh Xô",
+        "upload_date": "2025-11-15",
+        "features": [
+          "mặt lưng full kính",
+          "màn hình 6.3 inch",
+          "màn hình ProMotion",
+          "chip A19",
+          "8GB RAM",
+          "camera 48MP",
+          "quay video 4K 60fps",
+          "cổng sạc type-c 2.0",
+          "chống nước IP68",
+          "màn hình HDR",
+          "độ sáng màn hình cao lên đến 3000 nits",
+          "phủ lớp chống chói, chống phản chiếu"
+        ],
+        "pros": [
+          "màn hình chất lượng hiển thị HDR tốt",
+          "độ sáng màn hình cao",
+          "cảm giác cầm nắm tốt",
+          "giá cả phải chăng so với phiên bản Pro"
+        ],
+        "cons": [
+          "RAM thấp hơn so với phiên bản Pro (chỉ 8GB)",
+          "không có hệ thống tản nhiệt như phiên bản Pro",
+          "không có camera Tele",
+          "không quay video 4K 120fps",
+          "không có ProRes Raw và ProRes Log"
+        ],
+        "price": "24.990.000 VND cho phiên bản 256GB",
+        "recommendation": "phù hợp với người dùng cơ bản, không yêu cầu cao về hiệu năng và camera",
+        "type": "main"
+      },
+      {
+        "video_id": "yFUvQurKPqU",
+        "video_url": "https://www.youtube.com/watch?v=yFUvQurKPqU",
+        "video_title": "iPhone 17 Pro Max sau hơn 40 ngày: Công thức cũ liệu có còn tác dụng?",
+        "video_author": "relab",
+        "upload_date": "2025-11-15",
+        "features": [
+          "ổn định",
+          "Chơi game tốt",
+          "Sử dụng mượt"
+        ],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "Phù hợp cho người cần điện thoại ổn định, có khả năng chơi game và sử dụng mượt",
+        "type": "main"
+      }
+    ],
     "iPhone 16 Pro": [
+      {
+        "video_id": "5ohqah6BCL0",
+        "video_url": "https://www.youtube.com/watch?v=5ohqah6BCL0",
+        "video_title": "iPhone 17 hay iPhone 16 Pro?",
+        "video_author": "Duy Luân Dễ Thương",
+        "upload_date": "2025-09-22",
+        "features": [
+          "Bộ nhớ trong khởi điểm 128GB",
+          "Kích thước màn hình 6.3 inch",
+          "Khung Titan",
+          "Ceramix Shield cho mặt kính bảo vệ",
+          "3 camera sau",
+          "Màn hình độ sáng tối đa 2000 nits",
+          "Chip Apple A18 Pro",
+          "Camera tele 5X",
+          "Cổng kết nối USB-C với tốc độ USB 3.0"
+        ],
+        "pros": [
+          "Khung Titan chắc chắn, bền bỉ",
+          "Camera sau với khả năng zoom quang học 5X",
+          "Màn hình sáng và rõ nét",
+          "Cổng USB-C hỗ trợ tốc độ truyền tải cao, phù hợp cho việc chuyển dữ liệu nặng"
+        ],
+        "cons": [
+          "Bộ nhớ trong khởi điểm thấp hơn so với iPhone 17",
+          "Nặng hơn so với iPhone 17"
+        ],
+        "price": "khoảng 25 triệu",
+        "recommendation": "Lý tưởng cho những người cần khả năng chụp ảnh zoom tốt và thường xuyên cần chuyển dữ liệu nặng qua lại giữa thiết bị và các phương tiện lưu trữ ngoài.",
+        "type": "compare"
+      },
       {
         "video_id": "6vfBaCXSi7M",
         "video_url": "https://www.youtube.com/watch?v=6vfBaCXSi7M",
@@ -2870,6 +3009,26 @@
         "price": "25.090.000 đồng cho phiên bản 128GB",
         "recommendation": "Phù hợp cho người dùng iPhone cũ muốn nâng cấp lên một mẫu mới với nhiều cải tiến về hiệu năng và camera, đặc biệt là những người không thường xuyên sử dụng các tác vụ nặng.",
         "type": "main"
+      },
+      {
+        "video_id": "sHFmCMqosp4",
+        "video_url": "https://www.youtube.com/watch?v=sHFmCMqosp4",
+        "video_title": "iPhone 17 Pro sau 4 ngày: Có đúng là CỪU ĐEN trong iPhone 17 Series?",
+        "video_author": "relab",
+        "upload_date": "2025-09-24",
+        "features": [
+          "chip A18 Pro"
+        ],
+        "pros": [
+          "hiệu năng tốt",
+          "thời lượng pin ổn"
+        ],
+        "cons": [
+          "nhiệt độ máy cao hơn so với iPhone 17 Pro"
+        ],
+        "price": "",
+        "recommendation": "phù hợp cho những người không cần những tính năng mới nhất nhưng vẫn muốn một chiếc iPhone hiệu năng cao",
+        "type": "compare"
       },
       {
         "video_id": "sMg-wnevEEc",
@@ -3984,6 +4143,127 @@
         "price": "8 triệu",
         "recommendation": "Phù hợp với người dùng cần điện thoại tầm trung với hiệu năng tốt, chất lượng camera cao và thiết kế chắc chắn.",
         "type": "main"
+      }
+    ],
+    "iPhone 17 Pro": [
+      {
+        "video_id": "ar7kJCn0k_k",
+        "video_url": "https://www.youtube.com/watch?v=ar7kJCn0k_k",
+        "video_title": "Đánh giá chi tiết iPhone 17 và iPhone 17 Pro",
+        "video_author": "Vinh Xô",
+        "upload_date": "2025-11-15",
+        "features": [
+          "thiết kế từ nhôm",
+          "màn hình 6.3 inch",
+          "màn hình ProMotion",
+          "chip A19 Pro",
+          "12GB RAM",
+          "3 camera bao gồm ống kính Tele",
+          "quay video 4K 120fps",
+          "ProRes Raw và ProRes Log",
+          "cổng sạc TICY 3.0",
+          "hệ thống tản nhiệt",
+          "chống nước IP68",
+          "màn hình HDR",
+          "độ sáng màn hình cao lên đến 3000 nits",
+          "phủ lớp chống chói, chống phản chiếu"
+        ],
+        "pros": [
+          "hiệu năng cao hơn với chip A19 Pro và 12GB RAM",
+          "hệ thống tản nhiệt cho hiệu năng ổn định khi chơi game hoặc quay phim",
+          "camera chất lượng cao với khả năng zoom xa hơn",
+          "quay video 4K 120fps",
+          "có ProRes Raw và ProRes Log cho chụp ảnh và quay video chuyên nghiệp",
+          "cổng sạc nhanh hơn với type-c 3.0"
+        ],
+        "cons": [
+          "giá cao hơn đáng kể so với phiên bản thường"
+        ],
+        "price": "34.990.000 VND cho phiên bản 256GB",
+        "recommendation": "phù hợp với người dùng Pro yêu cầu cao về hiệu năng và chất lượng camera",
+        "type": "compare"
+      },
+      {
+        "video_id": "hD3DbxrtMyI",
+        "video_url": "https://www.youtube.com/watch?v=hD3DbxrtMyI",
+        "video_title": "Review iPhone 17 Pro Max và iPhone 17 Pro",
+        "video_author": "Duy Luân Dễ Thương",
+        "upload_date": "2025-10-22",
+        "features": [
+          "Thiết kế mới",
+          "Mặt sau có lớp Ceramic Shield 2",
+          "Cảm giác cầm nắm tốt",
+          "Màn hình có lớp phụ chống chói mới",
+          "Độ sáng tối đa cao hơn",
+          "Camera trước được nâng cấp",
+          "Camera tele 48MP",
+          "Chip Apple A19 Pro",
+          "Thời gian sử dụng pin tốt",
+          "Hỗ trợ center stage",
+          "Vỏ nhôm"
+        ],
+        "pros": [
+          "Nhỏ gọn, nhẹ",
+          "Thiết kế được đánh giá cao bởi một số người",
+          "Trải nghiệm màn hình xuất sắc",
+          "Camera trước cải thiện, hỗ trợ chụp selfie tốt hơn",
+          "Khả năng chống chói mặc dù không quá nổi bật",
+          "Hiệu suất cao với chip mới",
+          "Thời gian sử dụng pin ổn định"
+        ],
+        "cons": [
+          "Một số người không thích thiết kế mới",
+          "Camera chưa phải là tốt nhất so với các hãng khác",
+          "Hiện tượng flare trong điều kiện ánh sáng yếu"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho người dùng thích thiết kế mới, cần một thiết bị nhỏ gọn với hiệu suất cao và thời gian sử dụng pin tốt.",
+        "type": "main"
+      },
+      {
+        "video_id": "sHFmCMqosp4",
+        "video_url": "https://www.youtube.com/watch?v=sHFmCMqosp4",
+        "video_title": "iPhone 17 Pro sau 4 ngày: Có đúng là CỪU ĐEN trong iPhone 17 Series?",
+        "video_author": "relab",
+        "upload_date": "2025-09-24",
+        "features": [
+          "chip A19 Pro",
+          "hệ thống tản nhiệt mới",
+          "cảm biến camera selfie mới",
+          "màn hình nhỏ gọn",
+          "cảm giác cầm nắm cao cấp",
+          "thiết kế với phần viền nhôm",
+          "tản nhiệt bằng hơi"
+        ],
+        "pros": [
+          "không bị nóng lên quá nhiều",
+          "cảm giác cầm nắm thoải mái",
+          "hiệu năng mạnh mẽ với chip A19 Pro",
+          "có thể sử dụng một tay dễ dàng",
+          "camera và phần cứng không bị cắt giảm so với iPhone 17 Pro Max"
+        ],
+        "cons": [
+          "thời lượng pin kém hơn so với các mẫu Pro Max",
+          "tản nhiệt kém hơn so với iPhone 17 Pro Max"
+        ],
+        "price": "khoảng 35 triệu đồng",
+        "recommendation": "phù hợp cho những người thích một chiếc điện thoại nhỏ gọn, cầm nắm thoải mái, không cần thời lượng pin quá cao",
+        "type": "main"
+      },
+      {
+        "video_id": "yFUvQurKPqU",
+        "video_url": "https://www.youtube.com/watch?v=yFUvQurKPqU",
+        "video_title": "iPhone 17 Pro Max sau hơn 40 ngày: Công thức cũ liệu có còn tác dụng?",
+        "video_author": "relab",
+        "upload_date": "2025-11-15",
+        "features": [
+          "nhiều camera hơn"
+        ],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "phù hợp cho người cần tính năng Pro hơn, nhiều camera hơn",
+        "type": "compare"
       }
     ],
     "Xiaomi Redmi Note 14 Pro 5G": [
@@ -6007,6 +6287,295 @@
         "type": "main"
       }
     ],
+    "Realme 15 5G": [
+      {
+        "video_id": "gVSpIFr3C1c",
+        "video_url": "https://www.youtube.com/watch?v=gVSpIFr3C1c",
+        "video_title": "Mở hộp realme 15 và realme 15 Pro: Pin 7000mAh, màn tới 6500 nits, bản 15 triệu có Snap 7 Gen 4",
+        "video_author": "Vật Vờ Studio",
+        "upload_date": "2025-09-24",
+        "features": [
+          "Dung lượng pin 7000mAh",
+          "Sạc 80W",
+          "Màn hình AMOLED 6.8 inch, độ phân giải cao, tần số quét 144Hz, độ sáng tối đa 4500 nits",
+          "Camera chính 50MP, camera góc siêu rộng 8MP",
+          "Quay video 4K 30fps",
+          "Chip Dimensity 7300 Plus",
+          "Thiết kế nhẹ, trọng lượng 185g"
+        ],
+        "pros": [
+          "Pin dung lượng lớn",
+          "Sạc nhanh",
+          "Màn hình sáng và rõ",
+          "Camera chụp ảnh sắc nét",
+          "Thiết kế nhẹ và mỏng"
+        ],
+        "cons": [
+          "Màn hình không cong",
+          "Hiệu năng không phải cao nhất trong tầm giá"
+        ],
+        "price": "14,990,000 VND",
+        "recommendation": "Phù hợp cho người dùng cần một chiếc điện thoại với pin lớn, màn hình sáng và camera tốt",
+        "type": "main"
+      },
+      {
+        "video_id": "RKKcBJ0VohY",
+        "video_url": "https://www.youtube.com/watch?v=RKKcBJ0VohY",
+        "video_title": "Trên tay realme 15T, realme 15 và realme 15 Pro chính hãng: pin 7000mah, sạc nhánh, kháng nước IP69",
+        "video_author": "Vinh Xô",
+        "upload_date": "2025-09-24",
+        "features": [
+          "mặt lưng nam tính",
+          "viền nhựa",
+          "vi sử lý Dimensity 7300 Plus 5G"
+        ],
+        "pros": [
+          "thiết kế nam tính",
+          "vi sử lý mạnh mẽ"
+        ],
+        "cons": [
+          "viền làm từ nhựa"
+        ],
+        "price": "",
+        "recommendation": "phù hợp cho người thích thiết kế nam tính và cần sử dụng vi sử lý mạnh mẽ",
+        "type": "compare"
+      },
+      {
+        "video_id": "sU5niuI-t5o",
+        "video_url": "https://www.youtube.com/watch?v=sU5niuI-t5o",
+        "video_title": "Đây là điểm thú vị khiến realme 15 5G hấp dẫn hơn cả realme 15 Pro 5G!",
+        "video_author": "Khôi Ngọng",
+        "upload_date": "2025-11-07",
+        "features": [
+          "pin 7000mAh",
+          "sạc nhanh 80W",
+          "hiệu năng ổn với chip MediaTek Dimensity 7300 Plus",
+          "hỗ trợ chơi game ở mức 60fps, 120fps",
+          "màn hình AMOLED",
+          "độ sáng tối đa 4000 nits",
+          "chuẩn bộ nhớ UFS 3.1",
+          "Realme UI",
+          "khả năng chống nước IP66, IP68, IP69"
+        ],
+        "pros": [
+          "thời lượng pin tốt",
+          "sạc nhanh",
+          "hiệu năng ổn cho gaming",
+          "màn hình sáng và rõ nét",
+          "giao diện người dùng mượt mà",
+          "khả năng chống nước tốt"
+        ],
+        "cons": [
+          "chất liệu cấu tạo không cao cấp",
+          "camera chỉ ở mức đủ dùng"
+        ],
+        "price": "10.409.000 VND",
+        "recommendation": "phù hợp cho người dùng cần thời lượng pin dài, chơi game và có khả năng chống nước tốt",
+        "type": "main"
+      },
+      {
+        "video_id": "yVcbBlTuhfg",
+        "video_url": "https://www.youtube.com/watch?v=yVcbBlTuhfg",
+        "video_title": "Trải nghiệm Realme 15 5G: PIN KHỦNG, SIÊU BỀN, IP69, OLED 144HZ, sạc nhanh 80W Ultra...",
+        "video_author": "ĐAM MÊ CÔNG NGHỆ",
+        "upload_date": "2025-10-26",
+        "features": [
+          "Màn hình AMOLED, tần số quét 144Hz",
+          "Tiêu chuẩn chống nước IP66, IP68, IP69",
+          "Pin 7000mAh, sạc nhanh 80W",
+          "Thiết kế siêu bền",
+          "Cấu hình tốt",
+          "Tính năng AI tiên tiến",
+          "Phiên bản RAM/ROM: 12GB/256GB và 8GB/256GB",
+          "Cổng hồng ngoại, cổng tai nghe, micro, loa chính",
+          "Vi xử lý MediaTek Dimensity 7300",
+          "Camera chính 50MP OIS, camera góc rộng, camera selfie 50MP",
+          "Khả năng quay video 4K 30fps, HD 60fps",
+          "Chế độ chụp đêm AI, chế độ chụp chân dung",
+          "Hệ điều hành Realme UI 6 và Android 15",
+          "Hệ thống loa kép 2 kênh"
+        ],
+        "pros": [
+          "Màn hình hiển thị sắc nét, độ sáng cao",
+          "Pin dung lượng cao với sạc nhanh",
+          "Khả năng chống nước và va đập cao",
+          "Camera chụp sắc nét, nhiều chế độ chụp và quay video",
+          "Phần mềm ổn định, nhiều tính năng AI hữu ích"
+        ],
+        "cons": [
+          "Loa ngoài chỉ ở mức trung bình"
+        ],
+        "price": "8 triệu VND",
+        "recommendation": "Phù hợp cho người cần điện thoại bền, kháng nước tiêu chuẩn cao, thời lượng pin lâu và màn hình đẹp",
+        "type": "main"
+      }
+    ],
+    "Realme 15 Pro 5G": [
+      {
+        "video_id": "gVSpIFr3C1c",
+        "video_url": "https://www.youtube.com/watch?v=gVSpIFr3C1c",
+        "video_title": "Mở hộp realme 15 và realme 15 Pro: Pin 7000mAh, màn tới 6500 nits, bản 15 triệu có Snap 7 Gen 4",
+        "video_author": "Vật Vờ Studio",
+        "upload_date": "2025-09-24",
+        "features": [
+          "Dung lượng pin 7000mAh",
+          "Sạc 80W",
+          "Màn hình AMOLED 6.8 inch, độ phân giải cao, tần số quét 144Hz, độ sáng tối đa 6500 nits",
+          "Camera chính 50MP, camera góc siêu rộng 50MP",
+          "Quay video 4K 60fps",
+          "Chip Snapdragon 7 Gen 4",
+          "Thiết kế nhẹ, trọng lượng 187g",
+          "Màn hình cong hai bên"
+        ],
+        "pros": [
+          "Pin dung lượng lớn",
+          "Sạc nhanh",
+          "Màn hình sáng và rõ với độ sáng cao",
+          "Camera chụp ảnh sắc nét, đặc biệt là ở chế độ góc siêu rộng",
+          "Thiết kế nhẹ và mỏng"
+        ],
+        "cons": [
+          "Màn hình cong có thể không phù hợp với một số người dùng",
+          "Hiệu năng không phải cao nhất trong tầm giá"
+        ],
+        "price": "14,990,000 VND",
+        "recommendation": "Phù hợp cho người dùng cần một chiếc điện thoại với pin lớn, màn hình sáng và camera tốt, đặc biệt là camera góc siêu rộng",
+        "type": "main"
+      }
+    ],
+    "iPhone 17 Pro Max": [
+      {
+        "video_id": "hD3DbxrtMyI",
+        "video_url": "https://www.youtube.com/watch?v=hD3DbxrtMyI",
+        "video_title": "Review iPhone 17 Pro Max và iPhone 17 Pro",
+        "video_author": "Duy Luân Dễ Thương",
+        "upload_date": "2025-10-22",
+        "features": [
+          "Thiết kế mới",
+          "Mặt sau có lớp Ceramix Shield 2",
+          "Cảm giác cầm nắm tốt",
+          "Màn hình có lớp phụ chống chói mới",
+          "Độ sáng tối đa cao hơn",
+          "Camera trước được nâng cấp",
+          "Camera tele 48MP",
+          "Chip Apple A19 Pro",
+          "Thời gian sử dụng pin rất tốt",
+          "Hỗ trợ center stage",
+          "Vỏ nhôm"
+        ],
+        "pros": [
+          "Thiết kế được đánh giá cao bởi một số người",
+          "Trải nghiệm màn hình xuất sắc",
+          "Camera trước cải thiện, hỗ trợ chụp selfie tốt hơn",
+          "Khả năng chống chói mặc dù không quá nổi bật",
+          "Hiệu suất cao với chip mới",
+          "Thời gian sử dụng pin xuất sắc"
+        ],
+        "cons": [
+          "Kích thước lớn và nặng hơn so với iPhone 17 Pro",
+          "Một số người không thích thiết kế mới",
+          "Camera chưa phải là tốt nhất so với các hãng khác",
+          "Hiện tượng flare trong điều kiện ánh sáng yếu"
+        ],
+        "price": "",
+        "recommendation": "Phù hợp cho người dùng thích màn hình lớn, cần thời gian sử dụng pin dài và không quan tâm đến kích thước lớn của thiết bị.",
+        "type": "main"
+      },
+      {
+        "video_id": "O3dbzHRwy6w",
+        "video_url": "https://www.youtube.com/watch?v=O3dbzHRwy6w",
+        "video_title": "Đánh giá iPhone 17 Pro Max sau 72 giờ: Cái giá 38 triệu nó thế nào?",
+        "video_author": "Vật Vờ Studio",
+        "upload_date": "2025-09-23",
+        "features": [
+          "Thiết kế mới với phần đảo camera và kính màu khác biệt",
+          "Màu sắc độc đáo, bao gồm màu cam",
+          "Cảm giác cầm nắm tuyệt vời, kể cả khi đeo ốp",
+          "Nút điều khiển camera không thêm tính năng mới sau 2 năm",
+          "Phần mềm iOS 26 với nhiều tùy biến và hiệu suất mượt mà",
+          "Camera selfie có cải tiến, hỗ trợ chụp rõ cả 3 người",
+          "Khả năng zoom tốt ở tiêu cự 4X và 8X",
+          "Quản lý năng lượng tốt, thời lượng pin ấn tượng",
+          "Hỗ trợ sạc nhanh với cục sạc bên thứ ba"
+        ],
+        "pros": [
+          "Thiết kế nổi bật và độc đáo",
+          "Cảm giác cầm nắm tốt",
+          "Hiệu suất mượt mà với iOS 26",
+          "Thời lượng pin dài",
+          "Camera selfie cải tiến",
+          "Khả năng zoom tốt"
+        ],
+        "cons": [
+          "Nút điều khiển camera không có cải tiến",
+          "Máy nóng lên nhanh khi quay phim ngoài trời"
+        ],
+        "price": "38 triệu VND, giảm còn 35,900,590 VND khi thanh toán qua thẻ ngân hàng",
+        "recommendation": "Phù hợp cho người dùng yêu thích thiết kế mới lạ, cần thời lượng pin dài và hiệu suất cao",
+        "type": "main"
+      },
+      {
+        "video_id": "sHFmCMqosp4",
+        "video_url": "https://www.youtube.com/watch?v=sHFmCMqosp4",
+        "video_title": "iPhone 17 Pro sau 4 ngày: Có đúng là CỪU ĐEN trong iPhone 17 Series?",
+        "video_author": "relab",
+        "upload_date": "2025-09-24",
+        "features": [
+          "màn hình 6.9 inch",
+          "chip A19 Pro",
+          "hệ thống tản nhiệt lớn hơn",
+          "cảm biến camera selfie mới"
+        ],
+        "pros": [
+          "tản nhiệt tốt hơn",
+          "thời lượng pin dài hơn",
+          "hiệu năng mạnh mẽ"
+        ],
+        "cons": [
+          "khó sử dụng bằng một tay do kích thước lớn",
+          "nặng, có thể gây mỏi tay khi sử dụng lâu"
+        ],
+        "price": "khoảng 50 triệu đồng",
+        "recommendation": "phù hợp cho những người cần thời lượng pin lớn và không ngại kích thước lớn của điện thoại",
+        "type": "compare"
+      },
+      {
+        "video_id": "yFUvQurKPqU",
+        "video_url": "https://www.youtube.com/watch?v=yFUvQurKPqU",
+        "video_title": "iPhone 17 Pro Max sau hơn 40 ngày: Công thức cũ liệu có còn tác dụng?",
+        "video_author": "relab",
+        "upload_date": "2025-11-15",
+        "features": [
+          "màn hình Ceramix Shield",
+          "3000 nits",
+          "lớp phủ chống lóa",
+          "loa giải trí tốt",
+          "camera selfie 24MP",
+          "quay video chuyên nghiệp với ProRes RAW và Open Gate",
+          "hiệu năng cao với CPU đa lỗi tăng 15%, GPU tăng 40%",
+          "bộ tản nhiệt hiệu quả",
+          "thời lượng pin tốt, khoảng 5000mAh",
+          "sạc nhanh 40W"
+        ],
+        "pros": [
+          "màn hình sáng, chống lóa tốt",
+          "âm thanh loa tốt",
+          "camera selfie cao cấp",
+          "quay video chuyên nghiệp",
+          "hiệu năng mạnh mẽ",
+          "tản nhiệt tốt",
+          "thời lượng pin dài",
+          "sạc nhanh"
+        ],
+        "cons": [
+          "màn hình có thể gây mỏi mắt khi bật PWM",
+          "vấn đề về độ bền khi không sử dụng ốp"
+        ],
+        "price": "khoảng 37 triệu đồng",
+        "recommendation": "phù hợp cho người dùng chuyên nghiệp, yêu cầu cao về quay video và chụp ảnh, cũng như hiệu năng mạnh mẽ",
+        "type": "compare"
+      }
+    ],
     "Samsung Galaxy S24 Plus": [
       {
         "video_id": "HYXpZ9ApNNk",
@@ -6422,6 +6991,46 @@
         "price": "",
         "recommendation": "Phù hợp cho người dùng muốn trải nghiệm tốt về độ mượt, tính năng AI, pin và màn hình, đồng thời quan tâm đến camera tele và sạc nhanh không dây.",
         "type": "main"
+      }
+    ],
+    "Realme 15 Pro": [
+      {
+        "video_id": "RKKcBJ0VohY",
+        "video_url": "https://www.youtube.com/watch?v=RKKcBJ0VohY",
+        "video_title": "Trên tay realme 15T, realme 15 và realme 15 Pro chính hãng: pin 7000mah, sạc nhánh, kháng nước IP69",
+        "video_author": "Vinh Xô",
+        "upload_date": "2025-09-24",
+        "features": [
+          "mặt lưng như làm từ đá",
+          "màn hình cong",
+          "kháng nước IP69",
+          "pin 7000mAh",
+          "sạc nhanh hơn",
+          "vi sử lý Snapdragon 7 gen 4",
+          "màn hình siêu mỏng 1,48mm",
+          "viền màn hình mỏng",
+          "tần số quét 144Hz",
+          "độ sá màn hình 6500 nits",
+          "hệ thống đèn phụ",
+          "camera AI",
+          "chế độ AI Party Mode",
+          "trình sửa ảnh AI"
+        ],
+        "pros": [
+          "mặt lưng đẹp và ấn tượng",
+          "khả năng kháng nước cao",
+          "pin lớn",
+          "sạc nhanh",
+          "vi xử lý mạnh mẽ",
+          "màn hình siêu mỏng",
+          "tần số quét cao",
+          "có hệ thống đèn phụ đặc biệt",
+          "nhiều tính năng camera AI"
+        ],
+        "cons": [],
+        "price": "",
+        "recommendation": "phù hợp cho người thích thiết kế đẹp, khả năng kháng nước cao và cần sử dụng vi sử lý mạnh mẽ",
+        "type": "compare"
       }
     ],
     "iPhone 14 series": [
