@@ -63,5 +63,5 @@ filepath = os.path.join(output_dir, "gemini_review.json")
 ```
 
 ## 🏆 Đo rouge
-Sau khi lưu đủ 48 bài review cho 48 sản phẩm trong hệ thống trong các file ([gemini_review.json](evaluate/data/gemini_review.json), [gpt_review.json](evaluate/data/gpt_review.json) và [deepseek_review.json](evaluate/data/deepseek_review.json)) trong thư mục [evaluate/data](evaluate/data), di chuyển vào thư mục evaluate trong terminal bằng `cd evaluate` và chạy file [metric.py](evaluate/metric.py) sẽ in ra được rouge-score như bên dưới:  
-![rouge-score](https://github.com/user-attachments/assets/be2992c2-41ef-4540-a71b-e27e56b7b97a)  
+Sau khi lưu đủ 53 bài review cho 53 sản phẩm trong hệ thống trong các file ([gemini_review.json](evaluate/data/gemini_review.json), [gpt_review.json](evaluate/data/gpt_review.json) và [deepseek_review.json](evaluate/data/deepseek_review.json)) trong thư mục [evaluate/data](evaluate/data), di chuyển vào thư mục evaluate trong terminal bằng `cd evaluate` và chạy file [metric.py](evaluate/metric.py) sẽ in ra được rouge-score như bên dưới:  
+![rouge-score](https://github.com/user-attachments/assets/b026abce-cb10-44e1-8c10-7ed1a66b3dee)  

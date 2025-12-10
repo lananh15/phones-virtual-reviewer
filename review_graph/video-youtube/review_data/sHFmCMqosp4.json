@@ -1,0 +1,74 @@
+{
+  "video_id": "sHFmCMqosp4",
+  "video_url": "https://www.youtube.com/watch?v=sHFmCMqosp4",
+  "video_title": "iPhone 17 Pro sau 4 ngày: Có đúng là CỪU ĐEN trong iPhone 17 Series?",
+  "video_author": "relab",
+  "upload_date": "2025-09-24",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 17 Pro",
+        "features": [
+          "chip A19 Pro",
+          "hệ thống tản nhiệt mới",
+          "cảm biến camera selfie mới",
+          "màn hình nhỏ gọn",
+          "cảm giác cầm nắm cao cấp",
+          "thiết kế với phần viền nhôm",
+          "tản nhiệt bằng hơi"
+        ],
+        "pros": [
+          "không bị nóng lên quá nhiều",
+          "cảm giác cầm nắm thoải mái",
+          "hiệu năng mạnh mẽ với chip A19 Pro",
+          "có thể sử dụng một tay dễ dàng",
+          "camera và phần cứng không bị cắt giảm so với iPhone 17 Pro Max"
+        ],
+        "cons": [
+          "thời lượng pin kém hơn so với các mẫu Pro Max",
+          "tản nhiệt kém hơn so với iPhone 17 Pro Max"
+        ],
+        "price": "khoảng 35 triệu đồng",
+        "recommendation": "phù hợp cho những người thích một chiếc điện thoại nhỏ gọn, cầm nắm thoải mái, không cần thời lượng pin quá cao",
+        "type": "main"
+      },
+      {
+        "name": "iPhone 17 Pro Max",
+        "features": [
+          "màn hình 6.9 inch",
+          "chip A19 Pro",
+          "hệ thống tản nhiệt lớn hơn",
+          "cảm biến camera selfie mới"
+        ],
+        "pros": [
+          "tản nhiệt tốt hơn",
+          "thời lượng pin dài hơn",
+          "hiệu năng mạnh mẽ"
+        ],
+        "cons": [
+          "khó sử dụng bằng một tay do kích thước lớn",
+          "nặng, có thể gây mỏi tay khi sử dụng lâu"
+        ],
+        "price": "khoảng 50 triệu đồng",
+        "recommendation": "phù hợp cho những người cần thời lượng pin lớn và không ngại kích thước lớn của điện thoại",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 16 Pro",
+        "features": [
+          "chip A18 Pro"
+        ],
+        "pros": [
+          "hiệu năng tốt",
+          "thời lượng pin ổn"
+        ],
+        "cons": [
+          "nhiệt độ máy cao hơn so với iPhone 17 Pro"
+        ],
+        "price": "",
+        "recommendation": "phù hợp cho những người không cần những tính năng mới nhất nhưng vẫn muốn một chiếc iPhone hiệu năng cao",
+        "type": "compare"
+      }
+    ]
+  }
+}

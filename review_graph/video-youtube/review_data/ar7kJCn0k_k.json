@@ -1,0 +1,77 @@
+{
+  "video_id": "ar7kJCn0k_k",
+  "video_url": "https://www.youtube.com/watch?v=ar7kJCn0k_k",
+  "video_title": "Đánh giá chi tiết iPhone 17 và iPhone 17 Pro",
+  "video_author": "Vinh Xô",
+  "upload_date": "2025-11-15",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 17",
+        "features": [
+          "mặt lưng full kính",
+          "màn hình 6.3 inch",
+          "màn hình ProMotion",
+          "chip A19",
+          "8GB RAM",
+          "camera 48MP",
+          "quay video 4K 60fps",
+          "cổng sạc type-c 2.0",
+          "chống nước IP68",
+          "màn hình HDR",
+          "độ sáng màn hình cao lên đến 3000 nits",
+          "phủ lớp chống chói, chống phản chiếu"
+        ],
+        "pros": [
+          "màn hình chất lượng hiển thị HDR tốt",
+          "độ sáng màn hình cao",
+          "cảm giác cầm nắm tốt",
+          "giá cả phải chăng so với phiên bản Pro"
+        ],
+        "cons": [
+          "RAM thấp hơn so với phiên bản Pro (chỉ 8GB)",
+          "không có hệ thống tản nhiệt như phiên bản Pro",
+          "không có camera Tele",
+          "không quay video 4K 120fps",
+          "không có ProRes Raw và ProRes Log"
+        ],
+        "price": "24.990.000 VND cho phiên bản 256GB",
+        "recommendation": "phù hợp với người dùng cơ bản, không yêu cầu cao về hiệu năng và camera",
+        "type": "main"
+      },
+      {
+        "name": "iPhone 17 Pro",
+        "features": [
+          "thiết kế từ nhôm",
+          "màn hình 6.3 inch",
+          "màn hình ProMotion",
+          "chip A19 Pro",
+          "12GB RAM",
+          "3 camera bao gồm ống kính Tele",
+          "quay video 4K 120fps",
+          "ProRes Raw và ProRes Log",
+          "cổng sạc TICY 3.0",
+          "hệ thống tản nhiệt",
+          "chống nước IP68",
+          "màn hình HDR",
+          "độ sáng màn hình cao lên đến 3000 nits",
+          "phủ lớp chống chói, chống phản chiếu"
+        ],
+        "pros": [
+          "hiệu năng cao hơn với chip A19 Pro và 12GB RAM",
+          "hệ thống tản nhiệt cho hiệu năng ổn định khi chơi game hoặc quay phim",
+          "camera chất lượng cao với khả năng zoom xa hơn",
+          "quay video 4K 120fps",
+          "có ProRes Raw và ProRes Log cho chụp ảnh và quay video chuyên nghiệp",
+          "cổng sạc nhanh hơn với type-c 3.0"
+        ],
+        "cons": [
+          "giá cao hơn đáng kể so với phiên bản thường"
+        ],
+        "price": "34.990.000 VND cho phiên bản 256GB",
+        "recommendation": "phù hợp với người dùng Pro yêu cầu cao về hiệu năng và chất lượng camera",
+        "type": "compare"
+      }
+    ]
+  }
+}

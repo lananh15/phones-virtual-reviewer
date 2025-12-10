@@ -104,7 +104,7 @@ document.getElementById("generateReviewBtn").addEventListener("click", async () 
 	}
 	catch (error) {
 		document.getElementById("reviewContainer").innerHTML = `
-		<p class="text-red-500">Cỗ máy rì viu đã gặp lỗi khi tạo review, vui lòng tải lại trang rồi tạo lại review nha</p>
+		<p class="text-red-500">DoraReviewer đã gặp lỗi khi tạo review, vui lòng tải lại trang rồi tạo lại review nha</p>
 		`;
 	}
 	finally {

@@ -1,0 +1,67 @@
+{
+  "video_id": "yFUvQurKPqU",
+  "video_url": "https://www.youtube.com/watch?v=yFUvQurKPqU",
+  "video_title": "iPhone 17 Pro Max sau hơn 40 ngày: Công thức cũ liệu có còn tác dụng?",
+  "video_author": "relab",
+  "upload_date": "2025-11-15",
+  "content": {
+    "products": [
+      {
+        "name": "iPhone 17",
+        "features": [
+          "ổn định",
+          "Chơi game tốt",
+          "Sử dụng mượt"
+        ],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "Phù hợp cho người cần điện thoại ổn định, có khả năng chơi game và sử dụng mượt",
+        "type": "main"
+      },
+      {
+        "name": "iPhone 17 Pro",
+        "features": [
+          "nhiều camera hơn"
+        ],
+        "pros": [],
+        "cons": [],
+        "price": "",
+        "recommendation": "phù hợp cho người cần tính năng Pro hơn, nhiều camera hơn",
+        "type": "compare"
+      },
+      {
+        "name": "iPhone 17 Pro Max",
+        "features": [
+          "màn hình Ceramix Shield",
+          "3000 nits",
+          "lớp phủ chống lóa",
+          "loa giải trí tốt",
+          "camera selfie 24MP",
+          "quay video chuyên nghiệp với ProRes RAW và Open Gate",
+          "hiệu năng cao với CPU đa lỗi tăng 15%, GPU tăng 40%",
+          "bộ tản nhiệt hiệu quả",
+          "thời lượng pin tốt, khoảng 5000mAh",
+          "sạc nhanh 40W"
+        ],
+        "pros": [
+          "màn hình sáng, chống lóa tốt",
+          "âm thanh loa tốt",
+          "camera selfie cao cấp",
+          "quay video chuyên nghiệp",
+          "hiệu năng mạnh mẽ",
+          "tản nhiệt tốt",
+          "thời lượng pin dài",
+          "sạc nhanh"
+        ],
+        "cons": [
+          "màn hình có thể gây mỏi mắt khi bật PWM",
+          "vấn đề về độ bền khi không sử dụng ốp"
+        ],
+        "price": "khoảng 37 triệu đồng",
+        "recommendation": "phù hợp cho người dùng chuyên nghiệp, yêu cầu cao về quay video và chụp ảnh, cũng như hiệu năng mạnh mẽ",
+        "type": "compare"
+      }
+    ]
+  }
+}

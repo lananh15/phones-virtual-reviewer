@@ -1679,6 +1679,181 @@
           "144Hz, 446 ppi, 4000 nits, Độ sâu màu 12 bit, Làm mờ PWM lên đến 3840, HDR10+, Dolby Vision®, Mặt sau cong 3D"
         ]
       }
+    },
+    {
+      "canonical_name": "iPhone 17",
+      "slug": "iphone-17",
+      "category": "iPhone",
+      "general": {
+        "model": "iPhone 17 512GB",
+        "link": "https://cellphones.com.vn/iphone-17-512gb.html",
+        "price": "31.490.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1764656085/iphone_17_256gb-3_3_ohihxd.webp"
+      },
+      "hardware": {
+        "chipset": "Apple A19",
+        "cpu": "6 lõi (2 hiệu năng + 4 tiết kiệm điện)",
+        "ram": "8 GB",
+        "storage": "512 GB",
+        "battery": "30 giờ",
+        "sim": "Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim",
+        "nfc": true
+      },
+      "software": {
+        "os": "iOS 26"
+      },
+      "camera": {
+        "rear": "48MP Fusion Main f/1.6 OIS\n12MP Tele 2x f/1.6 OIS\n48MP Ultra Wide f/2.2 120°",
+        "front": "18MP Center Stage, f/1.9, PDAF"
+      },
+      "display": {
+        "technology": "Super Retina XDR OLED",
+        "size": "6.3 inches",
+        "resolution": "2622 x 1206 pixels",
+        "features": [
+          "Dynamic Island\nMàn hình luôn bật\nHDR\nTrue Tone\nDải màu rộng (P3)\nHaptic Touch\nTỷ lệ tương phản 2.000.000:1\nĐộ sáng 1000 nit (typ)\nĐỉnh 1600 nit (HDR)\nĐỉnh 3000 nit (ngoài trời)\nLớp phủ chống vân tay, chống phản chiếu"
+        ]
+      }
+    },
+    {
+      "canonical_name": "iPhone 17 Pro",
+      "slug": "iphone-17-pro",
+      "category": "iPhone",
+      "general": {
+        "model": "iPhone 17 Pro 256GB",
+        "link": "https://cellphones.com.vn/iphone-17-pro.html",
+        "price": "34.790.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1764656877/iphone-17-pro-256-gb_v2oehq.webp"
+      },
+      "hardware": {
+        "chipset": "Chip A19 Pro",
+        "cpu": "CPU 6 lõi với 2 lõi hiệu năng và 4 lõi tiết kiệm điện",
+        "ram": "12 GB",
+        "storage": "256 GB",
+        "battery": "31 giờ",
+        "sim": "Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim",
+        "nfc": true
+      },
+      "software": {
+        "os": "iOS 26"
+      },
+      "camera": {
+        "rear": "Chính: 48MP khẩu độ ƒ/1.6 OIS hỗ trợ chụp 24MP hoặc 48MP\nGóc Siêu Rộng: 48MP khẩu độ ƒ/2.2 góc nhìn 120°\nTelephoto: 48MP khẩu độ ƒ/2.8 OIS zoom quang học lên đến 8x",
+        "front": "Camera 18MP Center Stage Khẩu độ ƒ/1.9"
+      },
+      "display": {
+        "technology": "Super Retina XDR",
+        "size": "6.3 inches",
+        "resolution": "2622 x 1206 pixels",
+        "features": [
+          "Màn hình Luôn Bật, ProMotion 120Hz, HDR, True Tone, Dải màu rộng (P3), Haptic Touch, Tỷ lệ tương phản 2.000.000:1, Độ sáng 1000 nit (tiêu chuẩn), 1600 nit (HDR), 3000 nit (ngoài trời) / tối thiểu 1 nit, Lớp phủ kháng dầu, Chống phản chiếu, Hỗ trợ đa ngôn"
+        ]
+      }
+    },
+    {
+      "canonical_name": "iPhone 17 Pro Max",
+      "slug": "iphone-17-pro-max",
+      "category": "iPhone",
+      "general": {
+        "model": "iPhone 17 Pro Max 256GB",
+        "link": "https://cellphones.com.vn/iphone-17-pro-max.html",
+        "price": "37.990.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1764657165/iphone-17-pro-max_3_cmsnbd.webp"
+      },
+      "hardware": {
+        "chipset": "Chip A19 Pro",
+        "cpu": "CPU 6 lõi với 2 lõi hiệu năng và 4 lõi tiết kiệm điện",
+        "ram": "12 GB",
+        "storage": "256 GB",
+        "battery": "37 giờ",
+        "sim": "Sim kép (nano-Sim và e-Sim) - Hỗ trợ 2 e-Sim",
+        "nfc": true
+      },
+      "software": {
+        "os": "iOS 26"
+      },
+      "camera": {
+        "rear": "Chính: 48MP khẩu độ ƒ/1.6 OIS hỗ trợ chụp 24MP hoặc 48MP\nGóc Siêu Rộng: 48MP khẩu độ ƒ/2.2 góc nhìn 120°\nTelephoto: 48MP khẩu độ ƒ/2.8 OIS zoom quang học lên đến 8x",
+        "front": "Camera 18MP Center Stage Khẩu độ ƒ/1.9"
+      },
+      "display": {
+        "technology": "Super Retina XDR",
+        "size": "6.9 inches",
+        "resolution": "2868 x 1320 pixels",
+        "features": [
+          "Màn hình Luôn Bật, ProMotion 120Hz, HDR, True Tone, Dải màu rộng (P3), Haptic Touch, Tỷ lệ tương phản 2.000.000:1, Độ sáng 1000 nit (tiêu chuẩn), 1600 nit (HDR), 3000 nit (ngoài trời) / tối thiểu 1 nit, Lớp phủ kháng dầu, Chống phản chiếu, Hỗ trợ đa ngôn"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Realme 15 5G",
+      "slug": "realme-15-5g",
+      "category": "Realme",
+      "general": {
+        "model": "Realme 15 5G",
+        "link": "https://www.thegioididong.com/dtdd/realme-15-5g-8gb-256gb",
+        "price": "10.490.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1764657451/realme-15-pink-1-638947581501668880-750x500_qcszta.jpg"
+      },
+      "hardware": {
+        "chipset": "MediaTek Dimensity 7300+ 5G 8 nhân",
+        "cpu": "4 nhân 2.5 GHz & 4 nhân 2 GHz",
+        "ram": "8 GB",
+        "storage": "256 GB",
+        "battery": "7000 mAh",
+        "sim": "2 Nano SIM",
+        "nfc": true
+      },
+      "software": {
+        "os": "Android 15"
+      },
+      "camera": {
+        "rear": "Chính 50 MP & Phụ 8 MP, Flicker",
+        "front": "50 MP"
+      },
+      "display": {
+        "technology": "AMOLED",
+        "size": "6.77 inches - Tần số quét 144 Hz",
+        "resolution": "Full HD+ (1080 x 2392 Pixels)",
+        "features": [
+          "Độ sáng tối đa 4500 nits - Kính cường lực AGC DT-Star D+"
+        ]
+      }
+    },
+    {
+      "canonical_name": "Realme 15 Pro 5G",
+      "slug": "realme-15-pro-5g",
+      "category": "Realme",
+      "general": {
+        "model": "Realme 15 Pro 5G",
+        "link": "https://www.thegioididong.com/dtdd/realme-15-pro-5g-12gb-256gb",
+        "price": "14.490.000đ",
+        "image": "https://res.cloudinary.com/dw8h24vex/image/upload/v1764657808/realme-15-pro-bac-1-638947522640043773-750x500_y1uxd5.jpg"
+      },
+      "hardware": {
+        "chipset": "Snapdragon 7 Gen 4 8 nhân",
+        "cpu": "1 nhân 2.8 GHz, 4 nhân 2.4 GHz & 3 nhân 1.8 GHz",
+        "ram": "12 GB",
+        "storage": "256 GB",
+        "battery": "7000 mAh",
+        "sim": "2 Nano SIM",
+        "nfc": true
+      },
+      "software": {
+        "os": "Android 15"
+      },
+      "camera": {
+        "rear": "Chính 50 MP & Phụ 50 MP, Flicker",
+        "front": "50 MP"
+      },
+      "display": {
+        "technology": "AMOLED",
+        "size": "6.8 inches - Tần số quét 144 Hz",
+        "resolution": "1.5K (1280 x 2800 Pixels)",
+        "features": [
+          "Độ sáng tối đa 6500 nits - Kính cường lực Corning Gorilla Glass 7i"
+        ]
+      }
     }
   ]
 }

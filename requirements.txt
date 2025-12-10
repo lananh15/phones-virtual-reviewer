@@ -12,4 +12,5 @@ langchain_google_genai
 django-tailwind
 python-slugify
 rouge-score
-numpy
+numpy==2.3.5
+scipy==1.16.3
