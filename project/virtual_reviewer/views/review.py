@@ -238,7 +238,7 @@ class GenerateReviewView(UserViews):
 		review, answer = self.gemini_handler.generate_review(prompt)
 
 		# Save data for rouge score calculation
-		save_data(question, answer, context)
+		# save_data(question, answer, context)
 
 		return JsonResponse({
 			"reviews": review,
