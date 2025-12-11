@@ -1,7 +1,7 @@
 Repo này gồm 3 module độc lập (mỗi module có requirements.txt riêng):
 - [project/](project/) → website DoraReviewer + sinh review
 - [review_graph/](review_graph/) → tổ chức dữ liệu Neo4j
-- [evaluate/](evaluate/) → đo ROUGE
+- [evaluate/](evaluate/) → đo ROUGE  
 **Lưu ý:** Mỗi module trong dự án sẽ có file **requirements.txt** riêng, khi dùng module nào thì cần tải thư viện cần thiết nên phải di chuyển vào module đó bằng lệnh `cd` và chạy:
 ```bash
 pip install -r requirements.txt
