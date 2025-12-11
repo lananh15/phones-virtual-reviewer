@@ -1,5 +1,6 @@
 python-dotenv
 django
+neo4j
 requests
 langchain_openai
 langchain_google_genai
